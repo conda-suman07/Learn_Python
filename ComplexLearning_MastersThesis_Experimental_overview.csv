@@ -1,0 +1,173 @@
+species,run#,block#,id,group_id,tagged_treatment,corrected_treatment,tagging_date,mother_tag_color,treatment_tag_color,holding_tank#,rack_tank#,testing_tank#,size#mm,start_training_date,end_training_date,group_recording_date,group_recording_time,temp#C,gH,kH,pH,NH3,NH4,NO2,NO3,info,note,location,camera#,use_for_individual,use_for_group,location(switch tank21-22)
+P.formosa,1,1,1,1,C,C,29.07.22,yellow,orange,S24,R079,7,,01.08.2022,02.08.2022,03.08.2022,15:26,22,21,10,8.4,,,0,10,"1304-Fam05,21.03.21-cc,05.05.21",0.5 gram salt per liter in habituation tank,bottom right,24248662,1,1,bottom right
+P.formosa,1,1,2,1,C,C,29.07.22,yellow,orange,S24,R079,3,,01.08.2022,02.08.2022,03.08.2022,15:26,22,21,10,8.4,,,0,10,"1304-Fam05,21.03.21-cc,05.05.21",0.5 gram salt per liter in habituation tank,bottom right,24248654,1,1,bottom right
+P.formosa,1,1,3,1,C,C,29.07.22,yellow,orange,S24,R079,10,,01.08.2022,02.08.2022,03.08.2022,15:26,22,21,10,8.4,,,0,10,"1304-Fam05,21.03.21-cc,05.05.21",0.5 gram salt per liter in habituation tank,top right,24248653,1,1,top right
+P.formosa,1,1,4,1,C,C,29.07.22,yellow,orange,S24,R079,6,,01.08.2022,02.08.2022,03.08.2022,15:26,22,21,10,8.4,,,0,10,"1304-Fam05,21.03.21-cc,05.05.21",0.5 gram salt per liter in habituation tank,top right,24248662,1,1,top right
+P.formosa,1,1,5,2,C,C,29.07.22,yellow,orange,S24,R079,11,,01.08.2022,02.08.2022,03.08.2022,16:27,22,21,10,8.4,,,0,10,"1304-Fam05,21.03.21-cc,05.05.21",0.5 gram salt per liter in habituation tank,bottom right,24248653,1,1,bottom right
+P.formosa,1,1,6,2,C,C,29.07.22,yellow,orange,S24,R079,12,,01.08.2022,02.08.2022,03.08.2022,16:27,22,21,10,8.4,,,0,10,"1304-Fam05,21.03.21-cc,05.05.21",0.5 gram salt per liter in habituation tank,bottom left,24248653,1,1,bottom left
+P.formosa,1,1,7,2,D,D,29.07.22,yellow,red,S24,R078,13,,01.08.2022,02.08.2022,03.08.2022,16:27,22,21,15,9,,,0,0,"1304-Fam05,21.03.21-cc,05.05.21",0.5 gram salt per liter in habituation tank,top left,24248658,1,1,top left
+P.formosa,1,1,8,2,D,D,29.07.22,yellow,red,S24,R078,14,,01.08.2022,02.08.2022,03.08.2022,16:27,22,21,15,9,,,0,0,"1304-Fam05,21.03.21-cc,05.05.21",0.5 gram salt per liter in habituation tank,top right,24248658,1,1,top right
+P.formosa,1,1,9,3,D,D,29.07.22,yellow,red,S24,R078,20,,01.08.2022,02.08.2022,03.08.2022,14:24,22,21,15,9,,,0,0,"1304-Fam05,21.03.21-cc,05.05.21",0.5 gram salt per liter in habituation tank,bottom left,24248661,1,1,bottom left
+P.formosa,1,1,10,3,D,D,29.07.22,yellow,red,S24,R078,19,,01.08.2022,02.08.2022,03.08.2022,14:24,22,21,15,9,,,0,0,"1304-Fam05,21.03.21-cc,05.05.21",0.5 gram salt per liter in habituation tank,bottom right,24248661,1,1,bottom right
+P.formosa,1,1,11,3,D,D,29.07.22,yellow,red,S24,R078,24,,01.08.2022,02.08.2022,03.08.2022,14:24,22,21,15,9,,,0,0,"1304-Fam05,21.03.21-cc,05.05.21",0.5 gram salt per liter in habituation tank,bottom left,24248657,1,1,bottom left
+P.formosa,1,1,12,3,D,D,29.07.22,yellow,red,S24,R078,17,,01.08.2022,02.08.2022,03.08.2022,14:24,22,21,15,9,,,0,0,"1304-Fam05,21.03.21-cc,05.05.21",0.5 gram salt per liter in habituation tank,top left,24248661,1,1,top left
+P.formosa,1,1,13,4,N,N,29.07.22,yellow,black,S24,R081,1,,01.08.2022,02.08.2022,03.08.2022,-,22,21,10,8.4,,,0,10,"1304-Fam05,21.03.21-cc,05.05.21","Erroneously trained, 0.5 gram salt per liter in habituation tank",top left,24248654,0,0,top left
+P.formosa,1,1,14,4,N,N,29.07.22,yellow,black,S24,R081,8,,01.08.2022,02.08.2022,03.08.2022,-,22,21,10,8.4,,,0,10,"1304-Fam05,21.03.21-cc,05.05.21","Erroneously trained, 0.5 gram salt per liter in habituation tank",bottom left,24248662,0,0,bottom left
+P.formosa,1,1,15,4,N,N,29.07.22,yellow,black,S24,R081,15,,01.08.2022,02.08.2022,03.08.2022,-,22,21,15,9,,,0,0,"1304-Fam05,21.03.21-cc,05.05.21","Erroneously trained, 0.5 gram salt per liter in habituation tank",bottom right,24248658,0,0,bottom right
+P.formosa,1,1,16,4,N,N,29.07.22,yellow,black,S24,R081,23,,01.08.2022,02.08.2022,03.08.2022,-,22,21,15,9,,,0,0,"1304-Fam05,21.03.21-cc,05.05.21","Erroneously trained, 0.5 gram salt per liter in habituation tank",bottom right,24248657,0,0,bottom right
+P.formosa,1,5,99,5,C,C,29.07.22,blue,orange,S26,R083,5,,01.08.2022,02.08.2022,03.08.2022,17:09,22,21,10,8.4,,,0,10,1304-Fam02,"ID 17 Died & replaced with extra on day 2, Disappeared from tank after day 1, 0.5 gram salt per liter in habituation tank",top left,24248662,0,0,top left
+P.formosa,1,5,18,5,C,C,29.07.22,blue,orange,S26,R083,2,,01.08.2022,02.08.2022,03.08.2022,17:09,22,21,10,8.4,,,0,10,1304-Fam02,0.5 gram salt per liter in habituation tank,top right,24248654,1,0,top right
+P.formosa,1,5,19,5,C,C,29.07.22,blue,orange,S26,R083,9,,01.08.2022,02.08.2022,03.08.2022,17:09,22,21,10,8.4,,,0,10,1304-Fam02,0.5 gram salt per liter in habituation tank,top left,24248653,1,0,top left
+P.formosa,1,5,20,5,C,C,29.07.22,blue,orange,S26,R083,4,,01.08.2022,02.08.2022,03.08.2022,17:09,22,21,10,8.4,,,0,10,1304-Fam02,0.5 gram salt per liter in habituation tank,bottom left,24248654,1,0,bottom left
+P.formosa,1,5,21,6,D,D,29.07.22,blue,red,S26,R082,16,,01.08.2022,02.08.2022,03.08.2022,-,22,21,15,9,,,0,0,1304-Fam02,0.5 gram salt per liter in habituation tank,bottom left,24248658,1,0,bottom left
+P.formosa,1,5,22,6,D,D,29.07.22,blue,red,S26,R082,22,,01.08.2022,02.08.2022,03.08.2022,-,22,21,15,9,,,0,0,1304-Fam02,0.5 gram salt per liter in habituation tank,top right,24248657,1,0,top left
+P.formosa,1,5,23,6,D,D,29.07.22,blue,red,S26,R082,18,,01.08.2022,02.08.2022,03.08.2022,-,22,21,15,9,,,0,0,1304-Fam02,"Disappeared from tank after day 1, 0.5 gram salt per liter in habituation tank",top right,24248661,0,0,top right
+P.formosa,1,5,100,6,D,D,29.07.22,blue,red,S26,R082,21,,01.08.2022,02.08.2022,03.08.2022,-,22,21,15,9,,,0,0,1304-Fam02,"ID 24 Died & replaced with extra after first non-reward recording, 0.5 gram salt per liter in habituation tank",top left,24248657,0,0,top right
+P.formosa,2,2,25,7,C,C,29.07.22,purple,orange,S23,R094,8,,03.08.2022,04.08.2022,,,23,9,,8,,0,0.05,1,1304-Fam04,0.5 gram salt per liter in habituation tank,bottom left,24248662,1,0,bottom left
+P.formosa,2,2,26,7,C,C,29.07.22,purple,orange,S23,R094,1,,03.08.2022,04.08.2023,,,23,9,,8,,0,0.05,1,1304-Fam04,0.5 gram salt per liter in habituation tank,top left,24248654,1,0,top left
+P.formosa,2,2,27,7,C,C,29.07.22,purple,orange,S23,R094,10,,03.08.2022,04.08.2024,,,23,9,,8,,0,0.05,1,1304-Fam04,"Found again 08.08.2022 and put back to his group, Dissapeared before group test, 0.5 gram salt per liter in habituation tank",top right,24248653,1,0,top right
+P.formosa,2,2,28,7,C,C,29.07.22,purple,orange,S23,R094,4,,03.08.2022,04.08.2025,,,23,9,,8,,0,0.05,1,1304-Fam04,0.5 gram salt per liter in habituation tank,bottom left,24248654,1,0,bottom left
+P.formosa,2,2,29,8,C,C,29.07.22,purple,orange,S23,R094,7,,03.08.2022,04.08.2025,,,23,9,,8,,0,0.05,1,1304-Fam04,0.5 gram salt per liter in habituation tank,bottom right,24248662,1,1,bottom right
+P.formosa,2,2,30,8,C,C,29.07.22,purple,orange,S23,R094,11,,03.08.2022,04.08.2026,,,23,9,,8,,0,0.05,1,1304-Fam04,0.5 gram salt per liter in habituation tank,bottom right,24248653,1,1,bottom right
+P.formosa,2,2,31,8,D,D,29.07.22,purple,red,S23,R093,13,,03.08.2022,04.08.2027,,,23,11,,8.1,,0,0.05,1,1304-Fam04,0.5 gram salt per liter in habituation tank,top left,24248658,1,1,top left
+P.formosa,2,2,32,8,D,D,29.07.22,purple,red,S23,R093,15,,03.08.2022,04.08.2028,,,23,11,,8.1,,0,0.05,1,1304-Fam04,0.5 gram salt per liter in habituation tank,bottom right,24248658,1,1,bottom right
+P.formosa,2,2,33,9,D,D,29.07.22,purple,red,S23,R093,20,,03.08.2022,04.08.2025,,,23,11,,8.1,,0,0.05,1,1304-Fam04,"Dissapeared, 0.5 gram salt per liter in habituation tank",bottom left,24248661,1,0,bottom left
+P.formosa,2,2,34,9,D,D,29.07.22,purple,red,S23,R093,17,,03.08.2022,04.08.2026,,,23,11,,8.1,,0,0.05,1,1304-Fam04,0.5 gram salt per liter in habituation tank,top left,24248661,1,0,top left
+P.formosa,2,2,35,9,D,D,29.07.22,purple,red,S23,R093,21,,03.08.2022,04.08.2027,,,23,11,,8.1,,0,0.05,1,1304-Fam04,0.5 gram salt per liter in habituation tank,top left,24248657,1,0,top right
+P.formosa,2,2,36,9,D,D,29.07.22,purple,red,S23,R093,19,,03.08.2022,04.08.2028,,,23,11,,8.1,,0,0.05,1,1304-Fam04,0.5 gram salt per liter in habituation tank,bottom right,24248661,0,0,bottom right
+P.formosa,2,2,37,10,N,N,29.07.22,yellow,black,S24,R081,2,,03.08.2022,04.08.2025,,,23,9,,8,,0,0.05,1,"1304-Fam05,21.03.21-cc,05.05.21",0.5 gram salt per liter in habituation tank,top right,24248654,1,1,top right
+P.formosa,2,2,38,10,N,N,29.07.22,yellow,black,S24,R081,5,,03.08.2022,04.08.2026,,,23,9,,8,,0,0.05,1,"1304-Fam05,21.03.21-cc,05.05.21",0.5 gram salt per liter in habituation tank,top left,24248662,1,1,top left
+P.formosa,2,2,39,10,N,N,29.07.22,yellow,black,S24,R081,6,,03.08.2022,04.08.2027,,,23,9,,8,,0,0.05,1,"1304-Fam05,21.03.21-cc,05.05.21",0.5 gram salt per liter in habituation tank,top right,24248662,1,1,top right
+P.formosa,2,2,40,10,N,N,29.07.22,yellow,black,S24,R081,12,,03.08.2022,04.08.2028,,,23,9,,8,,0,0.05,1,"1304-Fam05,21.03.21-cc,05.05.21",0.5 gram salt per liter in habituation tank,bottom left,24248653,1,1,bottom left
+P.formosa,2,5,41,11,C,C,29.07.22,white,orange,S25,R091,9,,03.08.2022,04.08.2025,,,23,9,,8,,0,0.05,1,1304-Fam01,0.5 gram salt per liter in habituation tank,top left,24248653,1,0,top left
+P.formosa,2,5,42,11,C,C,29.07.22,white,orange,S25,R091,3,,03.08.2022,04.08.2026,,,23,9,,8,,0,0.05,1,1304-Fam01,0.5 gram salt per liter in habituation tank,bottom right,24248654,1,0,bottom right
+P.formosa,2,5,43,11,C,D,29.07.22,white,orange,S25,R091,24,,03.08.2022,04.08.2027,,,23,11,,8.1,,0,0.05,1,"Erroneously tagged wrong should be D, 1304-Fam01","Jumped out and Died, 0.5 gram salt per liter in habituation tank",bottom left,24248657,0,0,bottom left
+P.formosa,2,5,44,11,C,D,29.07.22,white,orange,S25,R091,14,,03.08.2022,04.08.2028,,,23,11,,8.1,,0,0.05,1,"Erroneously tagged wrong should be D, 1304-Fam01",0.5 gram salt per liter in habituation tank,top right,24248658,1,0,top right
+P.formosa,2,5,45,12,D,N,29.07.22,white,red,S25,R090,16,,03.08.2022,04.08.2025,,,23,11,,8.1,,0,0.05,1,"Erroneously tagged wrong should be N, 1304-Fam01",0.5 gram salt per liter in habituation tank,bottom left,24248658,1,0,bottom left
+P.formosa,2,5,46,12,D,N,29.07.22,white,red,S25,R090,18,,03.08.2022,04.08.2026,,,23,11,,8.1,,0,0.05,1,"Erroneously tagged wrong should be N, 1304-Fam01",0.5 gram salt per liter in habituation tank,top right,24248661,1,0,top right
+P.formosa,2,5,47,12,D,N,29.07.22,white,red,S25,R090,22,,03.08.2022,04.08.2027,,,23,11,,8.1,,0,0.05,1," Erroneously tagged wrong should be N, 1304-Fam01","Died due to injury from jumping, 0.5 gram salt per liter in habituation tank",top right,24248657,0,0,top left
+P.formosa,2,5,48,12,D,N,29.07.22,white,red,S25,R090,23,,03.08.2022,04.08.2028,,,23,11,,8.1,,0,0.05,1,"Erroneously tagged wrong should be N, 1304-Fam01",0.5 gram salt per liter in habituation tank,bottom right,24248657,1,0,bottom right
+P.formosa,3,3,49,13,C,C,29.07.22,pink,orange,S22,R092,6,,08.08.2022,09.08.2022,10.08.2022,,25,,,8,,,0,0,1309-Fam03,0.5 gram salt per liter in habituation tank,top right,24248662,1,1,top right
+P.formosa,3,3,50,13,C,C,29.07.22,pink,orange,S22,R092,12,,08.08.2022,09.08.2023,10.08.2023,,25,,,8,,,0,0,1309-Fam03,0.5 gram salt per liter in habituation tank,bottom left,24248653,1,1,bottom left
+P.formosa,3,3,51,13,C,C,29.07.22,pink,orange,S22,R092,9,,08.08.2022,09.08.2024,10.08.2024,,25,,,8,,,0,0,1309-Fam03,0.5 gram salt per liter in habituation tank,top left,24248653,1,1,top left
+P.formosa,3,3,52,13,C,C,29.07.22,pink,orange,S22,R092,11,,08.08.2022,09.08.2025,10.08.2025,,25,,,8,,,0,0,1309-Fam03,0.5 gram salt per liter in habituation tank,bottom right,24248653,1,1,bottom right
+P.formosa,3,3,53,14,C,C,29.07.22,black,orange,S14,R076,5,,08.08.2022,09.08.2022,10.08.2022,,25,,,8,,,0,0,1304-Fam13,0.5 gram salt per liter in habituation tank,top left,24248662,1,1,top left
+P.formosa,3,3,54,14,C,C,29.07.22,black,orange,S14,R076,8,,08.08.2022,09.08.2023,10.08.2023,,25,,,8,,,0,0,1304-Fam13,0.5 gram salt per liter in habituation tank,bottom left,24248662,1,1,bottom left
+P.formosa,3,3,55,14,D,D,29.07.22,black,red,S14,R080,13,,08.08.2022,09.08.2024,10.08.2024,,25,,,8,,,0,0,1304-Fam13,0.5 gram salt per liter in habituation tank,top left,24248658,1,1,top left
+P.formosa,3,3,56,14,D,D,29.07.22,black,red,S14,R080,18,,08.08.2022,09.08.2025,10.08.2025,,25,,,8,,,0,0,1304-Fam13,0.5 gram salt per liter in habituation tank,top right,24248661,1,1,top right
+P.formosa,3,3,57,15,D,D,29.07.22,red,red,S19,R089,23,,08.08.2022,09.08.2022,10.08.2022,,25,,,8,,,0,0,1304-Fam06,0.5 gram salt per liter in habituation tank,bottom right,24248657,1,1,bottom right
+P.formosa,3,3,58,15,D,D,29.07.22,red,red,S19,R089,16,,08.08.2022,09.08.2023,10.08.2023,,25,,,8,,,0,0,1304-Fam06,0.5 gram salt per liter in habituation tank,bottom left,24248658,1,1,bottom left
+P.formosa,3,3,59,15,D,D,29.07.22,red,red,S19,R089,21,,08.08.2022,09.08.2024,10.08.2024,,25,,,8,,,0,0,1304-Fam06,0.5 gram salt per liter in habituation tank,top left,24248657,1,1,top right
+P.formosa,3,3,60,15,D,D,29.07.22,red,red,S19,R089,20,,08.08.2022,09.08.2025,10.08.2025,,25,,,8,,,0,0,1304-Fam06,0.5 gram salt per liter in habituation tank,bottom left,24248661,1,1,bottom left
+P.formosa,3,3,61,16,N,N,29.07.22,blue,black,S26,R095,3,,08.08.2022,09.08.2022,10.08.2022,,25,,,8,,,0,0,1304-Fam02,0.5 gram salt per liter in habituation tank,bottom right,24248654,1,0,bottom right
+P.formosa,3,3,62,16,N,N,29.07.22,blue,black,S26,R095,10,,08.08.2022,09.08.2023,10.08.2023,,25,,,8,,,0,0,1304-Fam02,"Jumped and Died after day I ,0.5 gram salt per liter in habituation tank",top right,24248653,0,0,top right
+P.formosa,3,3,63,16,N,N,29.07.22,blue,black,S26,R095,14,,08.08.2022,09.08.2024,10.08.2024,,25,,,8,,,0,0,1304-Fam02,0.5 gram salt per liter in habituation tank,top right,24248658,1,0,top right
+P.formosa,3,3,64,16,N,N,29.07.22,blue,black,S26,R095,24,,08.08.2022,09.08.2025,10.08.2025,,25,,,8,,,0,0,1304-Fam02,0.5 gram salt per liter in habituation tank,bottom left,24248657,1,0,bottom left
+P.formosa,3,6,65,17,C,C,29.07.22,orange,orange,S20,R086,7,,08.08.2022,09.08.2022,10.08.2022,,25,,,8,,,0,0,1304-Fam07,0.5 gram salt per liter in habituation tank,bottom right,24248662,1,1,bottom right
+P.formosa,3,6,66,17,C,C,29.07.22,orange,orange,S20,R086,4,,08.08.2022,09.08.2023,10.08.2023,,25,,,8,,,0,0,1304-Fam07,0.5 gram salt per liter in habituation tank,bottom left,24248654,1,1,bottom left
+P.formosa,3,6,67,17,C,C,29.07.22,orange,orange,S20,R086,2,,08.08.2022,09.08.2024,10.08.2024,,25,,,8,,,0,0,1304-Fam07,0.5 gram salt per liter in habituation tank,top right,24248654,1,1,top right
+P.formosa,3,6,68,17,C,C,29.07.22,orange,orange,S20,R086,1,,08.08.2022,09.08.2025,10.08.2025,,25,,,8,,,0,0,1304-Fam07,"recording 2 the bowl missing ,0.5 gram salt per liter in habituation tank",top left,24248654,1,1,top left
+P.formosa,3,6,69,18,D,D,29.07.22,orange,red,S20,R071,22,,08.08.2022,09.08.2022,10.08.2022,,25,,,8,,,0,0,1304-Fam07,0.5 gram salt per liter in habituation tank,top right,24248657,1,1,top left
+P.formosa,3,6,70,18,D,D,29.07.22,orange,red,S20,R071,17,,08.08.2022,09.08.2023,10.08.2023,,25,,,8,,,0,0,1304-Fam07,0.5 gram salt per liter in habituation tank,top left,24248661,1,1,top left
+P.formosa,3,6,71,18,D,D,29.07.22,orange,red,S20,R071,19,,08.08.2022,09.08.2024,10.08.2024,,25,,,8,,,0,0,1304-Fam07,0.5 gram salt per liter in habituation tank,bottom right,24248661,1,1,bottom right
+P.formosa,3,6,72,18,D,D,29.07.22,orange,red,S20,R071,15,,08.08.2022,09.08.2025,10.08.2025,,25,,,8,,,0,0,1304-Fam07,0.5 gram salt per liter in habituation tank,bottom right,24248658,1,1,bottom right
+P.formosa,4,4,73,19,C,C,29.07.22,red,orange,S19,R088,11,,10.08.2022,11.08.2022,12.08.2022,,23,,,8.4,,0,0,0,1304-Fam06,0.5 gram salt per liter in habituation tank,bottom right,24248653,1,1,bottom right
+P.formosa,4,4,74,19,C,C,29.07.22,red,orange,S19,R088,1,,10.08.2022,11.08.2023,12.08.2022,,23,,,8.4,,0,0,0,1304-Fam06,0.5 gram salt per liter in habituation tank,top left,24248654,1,1,top left
+P.formosa,4,4,75,19,C,C,29.07.22,red,orange,S19,R088,12,,10.08.2022,11.08.2024,12.08.2022,,23,,,8.4,,0,0,0,1304-Fam06,0.5 gram salt per liter in habituation tank,bottom left,24248653,1,1,bottom left
+P.formosa,4,4,76,19,C,C,29.07.22,red,orange,S19,R088,7,,10.08.2022,11.08.2025,12.08.2022,,23,,,8.4,,0,0,0,1304-Fam06,0.5 gram salt per liter in habituation tank,bottom right,24248662,1,1,bottom right
+P.formosa,4,4,77,20,C,C,29.07.22,orange,orange,S20,R086,9,,10.08.2022,11.08.2022,12.08.2022,,23,,,8.4,,0,0,0,1304-Fam07,0.5 gram salt per liter in habituation tank,top left,24248653,1,1,top left
+P.formosa,4,4,78,20,C,C,29.07.22,orange,orange,S20,R086,6,,10.08.2022,11.08.2023,12.08.2022,,23,,,8.4,,0,0,0,1304-Fam07,0.5 gram salt per liter in habituation tank,top right,24248662,1,1,top right
+P.formosa,4,4,79,20,D,D,29.07.22,orange,red,S20,R071,21,,10.08.2022,11.08.2024,12.08.2022,,23,,,8.6,,0,0,0,1304-Fam07,0.5 gram salt per liter in habituation tank,top left,24248657,1,1,top right
+P.formosa,4,4,80,20,D,D,29.07.22,orange,red,S20,R071,14,,10.08.2022,11.08.2025,12.08.2022,,23,,,8.6,,0,0,0,1304-Fam07,0.5 gram salt per liter in habituation tank,top right,24248658,1,1,top right
+P.formosa,4,4,81,21,D,D,29.07.22,black,red,S14,R080,22,,10.08.2022,11.08.2022,12.08.2022,,23,,,8.6,,0,0,0,1304-Fam13,0.5 gram salt per liter in habituation tank,top right,24248657,1,1,top left
+P.formosa,4,4,82,21,D,D,29.07.22,black,red,S14,R080,16,,10.08.2022,11.08.2023,12.08.2022,,23,,,8.6,,0,0,0,1304-Fam13,0.5 gram salt per liter in habituation tank,bottom left,24248658,1,1,bottom left
+P.formosa,4,4,83,21,D,D,29.07.22,black,red,S14,R080,19,,10.08.2022,11.08.2024,12.08.2022,,23,,,8.6,,0,0,0,1304-Fam13,0.5 gram salt per liter in habituation tank,bottom right,24248661,1,1,bottom right
+P.formosa,4,4,84,21,D,D,29.07.22,black,red,S14,R080,24,,10.08.2022,11.08.2025,12.08.2022,,23,,,8.6,,0,0,0,1304-Fam13,0.5 gram salt per liter in habituation tank,bottom left,24248657,1,1,bottom left
+P.formosa,4,4,85,22,N,N,29.07.22,red,black,S19,R087,4,,10.08.2022,11.08.2022,12.08.2022,,23,,,8.4,,0,0,0,1304-Fam06,0.5 gram salt per liter in habituation tank,bottom left,24248654,1,1,bottom left
+P.formosa,4,4,86,22,N,N,29.07.22,red,black,S19,R087,5,,10.08.2022,11.08.2023,12.08.2023,,23,,,8.4,,0,0,0,1304-Fam06,0.5 gram salt per liter in habituation tank,top left,24248662,1,1,top left
+P.formosa,4,4,87,22,N,N,29.07.22,red,black,S19,R087,8,,10.08.2022,11.08.2024,12.08.2024,,23,,,8.4,,0,0,0,1304-Fam06,0.5 gram salt per liter in habituation tank,bottom left,24248662,1,1,bottom left
+P.formosa,4,4,88,22,N,N,29.07.22,red,black,S19,R087,10,,10.08.2022,11.08.2025,12.08.2025,,23,,,8.4,,0,0,0,1304-Fam06,0.5 gram salt per liter in habituation tank,top right,24248653,1,1,top right
+P.formosa,4,6,89,23,C,C,29.07.22,orange,orange,S20,R086,3,,10.08.2022,11.08.2022,12.08.2022,,23,,,8.4,,0,0,0,1304-Fam07,0.5 gram salt per liter in habituation tank,bottom right,24248654,1,0,bottom right
+P.formosa,4,6,90,23,C,C,29.07.22,orange,orange,S20,R086,2,,10.08.2022,11.08.2023,12.08.2023,,23,,,8.4,,0,0,0,1304-Fam07,"missing before group recording, 0.5 gram salt per liter in habituation tank",top right,24248654,0,0,top right
+P.formosa,4,6,91,23,C,D,29.07.22,orange,orange,S20,R086,18,,10.08.2022,11.08.2024,12.08.2024,,23,,,8.6,,0,0,0,"Erroneously tagged wrong should be D, 1304-Fam07",0.5 gram salt per liter in habituation tank,top right,24248661,1,0,top right
+P.formosa,4,6,92,23,C,D,29.07.22,orange,orange,S20,R086,20,,10.08.2022,11.08.2025,12.08.2025,,23,,,8.6,,0,0,0,"Erroneously tagged wrong should be D, 1304-Fam07",0.5 gram salt per liter in habituation tank,bottom left,24248661,1,0,bottom left
+P.formosa,4,6,93,24,D,N,29.07.22,orange,red,S20,R071,13,,10.08.2022,11.08.2022,12.08.2022,,23,,,8.6,,0,0,0,"Erroneously tagged wrong should be N, 1304-Fam07",0.5 gram salt per liter in habituation tank,top left,24248658,1,1,top left
+P.formosa,4,6,94,24,D,N,29.07.22,orange,red,S20,R071,15,,10.08.2022,11.08.2023,12.08.2023,,23,,,8.6,,0,0,0,"Erroneously tagged wrong should be N, 1304-Fam07",0.5 gram salt per liter in habituation tank,bottom right,24248658,1,1,bottom right
+P.formosa,4,6,95,24,D,N,29.07.22,orange,red,S20,R071,17,,10.08.2022,11.08.2024,12.08.2024,,23,,,8.6,,0,0,0,"Erroneously tagged wrong should be N, 1304-Fam07",0.5 gram salt per liter in habituation tank,top left,24248661,1,1,top left
+P.formosa,4,6,96,24,D,N,29.07.22,orange,red,S20,R071,23,,10.08.2022,11.08.2025,12.08.2025,,23,,,8.6,,0,0,0,"Erroneously tagged wrong should be N, 1304-Fam07",0.5 gram salt per liter in habituation tank,bottom right,24248657,1,1,bottom right
+P.formosa,,,97,,C,C,29.07.22,yellow,orange,S24,,,,,,,,,,,,,,,,"1304-Fam05,21.03.21-cc,05.05.21","removed to mixed tank 12.08.2022,extra, 0.5 gram salt per liter in habituation tank",,,0,0,
+P.formosa,,,98,,D,D,29.07.22,yellow,red,S24,,,,,,,,,,,,,,,,"1304-Fam05,21.03.21-cc,05.05.21","removed to mixed tank 12.08.2022, extra, 0.5 gram salt per liter in habituation tank",,,0,0,
+P.formosa,,,99,,C,C,29.07.22,blue,orange,S26,,,,,,,,,,,,,,,,1304-Fam02,"Used tank 5, run 1, extra, 0.5 gram salt per liter in habituation tank",,,0,0,
+P.formosa,,,100,,D,D,29.07.22,blue,red,S26,,,,,,,,,,,,,,,,1304-Fam02,"Used tank 21, run 1, extra, 0.5 gram salt per liter in habituation tank",,,0,0,
+P.formosa,,,101,,N,N,29.07.22,blue,black,S26,,,,,,,,,,,,,,,,Disapeared,"extra, 0.5 gram salt per liter in habituation tank",,,0,0,
+P.formosa,,,102,,C,C,29.07.22,pink,orange,S22,,,,,,,,,,,,,,,,1309-Fam03,"extra, 0.5 gram salt per liter in habituation tank",,,0,0,
+P.formosa,,,103,,C,C,29.07.22,white,orange,S25,,,,,,,,,,,,,,,,1304-Fam01,"extra, 0.5 gram salt per liter in habituation tank",,,0,0,
+P.formosa,,,104,,D,D,29.07.22,white,red,S25,,,,,,,,,,,,,,,,1304-Fam01,"extra, 0.5 gram salt per liter in habituation tank",,,0,0,
+P.formosa,,,105,,C,C,29.07.22,red,orange,S19,,,,,,,,,,,,,,,,1304-Fam06,"extra, 0.5 gram salt per liter in habituation tank",,,0,0,
+P.formosa,,,106,,C,C,29.07.22,red,orange,S19,,,,,,,,,,,,,,,,1304-Fam06,"extra, 0.5 gram salt per liter in habituation tank",,,0,0,
+P.formosa,,,107,,D,D,29.07.22,orange,red,S20,,,,,,,,,,,,,,,,1304-Fam07,"removed to mixed tank 12.08.2022, extra, 0.5 gram salt per liter in habituation tank",,,0,0,
+P.formosa,,,108,,C,C,29.07.22,pink,orange,S22,,,,,,,,,,,,,,,,1309-Fam03,"extra, 0.5 gram salt per liter in habituation tank",,,0,0,
+P.formosa,,,109,,C,C,29.07.22,pink,orange,S22,,,,,,,,,,,,,,,,1309-Fam03,"extra, 0.5 gram salt per liter in habituation tank",,,0,0,
+P.formosa,,,110,,D,D,29.07.22,red,red,S19,,,,,,,,,,,,,,,,1304-Fam06,"extra, 0.5 gram salt per liter in habituation tank",,,0,0,
+P.formosa,,,111,,D,D,29.07.22,red,red,S19,,,,,,,,,,,,,,,,1304-Fam06,"extra, 0.5 gram salt per liter in habituation tank",,,0,0,
+P.formosa,,,112,,C,C,29.07.22,black,orange,S14,,,,,,,,,,,,,,,,1304-Fam13,"died 12.08.2022, extra, 0.5 gram salt per liter in habituation tank",,,0,0,
+P.formosa,,,113,,C,C,29.07.22,black,orange,S14,,,,,,,,,,,,,,,,1304-Fam13,"extra, 0.5 gram salt per liter in habituation tank",,,0,0,
+P.formosa,,,114,,C,C,29.07.22,black,orange,S14,,,,,,,,,,,,,,,,1304-Fam13,"extra, 0.5 gram salt per liter in habituation tank",,,0,0,
+P.formosa,,,115,,D,D,29.07.22,black,red,S14,,,,,,,,,,,,,,,,1304-Fam13,"extra, 0.5 gram salt per liter in habituation tank",,,0,0,
+P.formosa,,,116,,D,D,29.07.22,black,red,S15,,,,,,,,,,,,,,,,Disapeared,"extra, 0.5 gram salt per liter in habituation tank",,,0,0,
+P.formosa,5,7,117,25,C,C,2022/08/24,pink,red,R005,R087,10,,2022/08/29,2022/08/30,2022/08/31,,24,,,,,,,,Fam002,0.5 gram salt per liter in habituation tank,top right,24248653,1,1,top right
+P.formosa,5,7,118,25,C,C,2022/08/24,pink,red,R005,R087,8,,2022/08/29,2022/08/30,2022/08/31,,24,,,,,,,,Fam002,0.5 gram salt per liter in habituation tank,bottom left,24248662,1,1,bottom left
+P.formosa,5,7,119,25,C,C,2022/08/24,pink,red,R005,R087,12,,2022/08/29,2022/08/30,2022/08/31,,24,,,,,,,,Fam002,0.5 gram salt per liter in habituation tank,bottom left,24248653,1,1,bottom left
+P.formosa,5,7,120,25,C,C,2022/08/24,pink,red,R005,R087,9,,2022/08/29,2022/08/30,2022/08/31,,24,,,,,,,,Fam002,0.5 gram salt per liter in habituation tank,top left,24248653,1,1,top left
+P.formosa,5,7,121,26,C,C,2022/08/24,yellow,red,R019,R078,3,,2022/08/29,2022/08/30,2022/08/31,,24,,,,,,,,Fam026,0.5 gram salt per liter in habituation tank,bottom right,24248654,1,1,bottom right
+P.formosa,5,7,122,26,C,C,2022/08/24,yellow,red,R019,R078,6,,2022/08/29,2022/08/30,2022/08/31,,24,,,,,,,,Fam026,0.5 gram salt per liter in habituation tank,top right,24248662,1,1,top right
+P.formosa,5,7,123,26,D,D,2022/08/24,yellow,orange,R019,R076,16,,2022/08/29,2022/08/30,2022/08/31,,24,,,,,,,,Fam026,0.5 gram salt per liter in habituation tank,bottom left,24248658,1,1,bottom left
+P.formosa,5,7,124,26,D,D,2022/08/24,yellow,orange,R019,R076,17,,2022/08/29,2022/08/30,2022/08/31,,24,,,,,,,,Fam026,0.5 gram salt per liter in habituation tank,top left,24248661,1,1,top left
+P.formosa,5,7,125,27,D,D,2022/08/24,purple,orange,R001,R065,19,,2022/08/29,2022/08/30,2022/08/31,,24,,,,,,,,Fam004,0.5 gram salt per liter in habituation tank,bottom right,24248661,1,1,bottom right
+P.formosa,5,7,126,27,D,D,2022/08/24,purple,orange,R001,R065,20,,2022/08/29,2022/08/30,2022/08/31,,24,,,,,,,,Fam004,0.5 gram salt per liter in habituation tank,bottom left,24248661,1,1,bottom left
+P.formosa,5,7,127,27,D,D,2022/08/24,purple,orange,R001,R065,24,,2022/08/29,2022/08/30,2022/08/31,,24,,,,,,,,Fam004,0.5 gram salt per liter in habituation tank,bottom left,24248657,1,1,bottom left
+P.formosa,5,7,128,27,D,D,2022/08/24,purple,orange,R001,R065,15,,2022/08/29,2022/08/30,2022/08/31,,24,,,,,,,,Fam004,0.5 gram salt per liter in habituation tank,bottom right,24248658,1,1,bottom right
+P.formosa,5,7,129,28,N,N,2022/08/24,purple,black,R001,R075,4,,2022/08/29,2022/08/30,2022/08/31,,24,,,,,,,,Fam004,0.5 gram salt per liter in habituation tank,bottom left,24248654,1,1,bottom left
+P.formosa,5,7,130,28,N,N,2022/08/24,purple,black,R001,R075,5,,2022/08/29,2022/08/30,2022/08/31,,24,,,,,,,,Fam004,0.5 gram salt per liter in habituation tank,top left,24248662,1,1,top left
+P.formosa,5,7,131,28,N,N,2022/08/24,purple,black,R001,R075,13,,2022/08/29,2022/08/30,2022/08/31,,24,,,,,,,,Fam004,0.5 gram salt per liter in habituation tank,top left,24248658,1,1,top left
+P.formosa,5,7,132,28,N,N,2022/08/24,purple,black,R001,R075,14,,2022/08/29,2022/08/30,2022/08/31,,24,,,,,,,,Fam004,0.5 gram salt per liter in habituation tank,top right,24248658,1,1,top right
+P.formosa,5,8,133,29,C,C,2022/08/24,blue,red,R006,R092,7,,2022/08/29,2022/08/30,2022/08/31,,24,,,,,,,,Fam009,0.5 gram salt per liter in habituation tank,bottom right,24248662,1,1,bottom right
+P.formosa,5,8,134,29,C,C,2022/08/24,blue,red,R006,R092,2,,2022/08/29,2022/08/30,2022/08/31,,24,,,,,,,,Fam009,0.5 gram salt per liter in habituation tank,top right,24248654,1,1,top right
+P.formosa,5,8,135,29,C,C,2022/08/24,blue,red,R006,R092,1,,2022/08/29,2022/08/30,2022/08/31,,24,,,,,,,,Fam009,0.5 gram salt per liter in habituation tank,top left,24248654,1,1,top left
+P.formosa,5,8,136,29,C,C,2022/08/24,blue,red,R006,R092,11,,2022/08/29,2022/08/30,2022/08/31,,24,,,,,,,,Fam009,0.5 gram salt per liter in habituation tank,bottom right,24248653,1,1,bottom right
+P.formosa,5,8,137,30,D,D,2022/08/24,blue,orange,R006,R070,23,,2022/08/29,2022/08/30,2022/08/31,,24,,,,,,,,Fam009,0.5 gram salt per liter in habituation tank,bottom right,24248657,1,1,bottom right
+P.formosa,5,8,138,30,D,D,2022/08/24,blue,orange,R006,R070,18,,2022/08/29,2022/08/30,2022/08/31,,24,,,,,,,,Fam009,0.5 gram salt per liter in habituation tank,top right,24248661,1,1,top right
+P.formosa,5,8,139,30,D,D,2022/08/24,blue,orange,R006,R070,21,,2022/08/29,2022/08/30,2022/08/31,,24,,,,,,,,Fam009,0.5 gram salt per liter in habituation tank,top left,24248657,1,1,top right
+P.formosa,5,8,140,30,D,D,2022/08/24,blue,orange,R006,R070,22,,2022/08/29,2022/08/30,2022/08/31,,24,,,,,,,,Fam009,0.5 gram salt per liter in habituation tank,top right,24248657,1,1,top left
+P.formosa,6,9,141,31,C,C,2022/08/24,green,red,R015,R090,9,,2022/08/31,2022/09/01,2022/09/02,,23.1,,,8.8,,,,,Fam023,,top left,24248653,1,1,top left
+P.formosa,6,9,142,31,C,C,2022/08/24,green,red,R015,R090,3,,2022/08/31,2022/09/01,2022/09/02,,23.1,,,8.8,,,,,Fam023,,bottom right,24248654,1,1,bottom right
+P.formosa,6,9,143,31,C,C,2022/08/24,green,red,R015,R090,4,,2022/08/31,2022/09/01,2022/09/02,,23.1,,,8.8,,,,,Fam023,,bottom left,24248654,1,1,bottom left
+P.formosa,6,9,144,31,C,C,2022/08/24,green,red,R015,R090,5,,2022/08/31,2022/09/01,2022/09/02,,23.1,,,8.8,,,,,Fam023,,top left,24248662,1,1,top left
+P.formosa,6,9,145,32,C,C,2022/08/24,green,red,R015,R090,10,,2022/08/31,2022/09/01,2022/09/02,,23.1,,,8.8,,,,,Fam023,,top right,24248653,1,1,top right
+P.formosa,6,9,146,32,C,C,2022/08/24,green,red,R015,R090,12,,2022/08/31,2022/09/01,2022/09/02,,23.1,,,8.8,,,,,Fam023,fish missing from the tank day 2,bottom left,24248653,1,1,bottom left
+P.formosa,6,9,147,32,D,D,2022/08/24,green,orange,R015,R089,20,,2022/08/31,2022/09/01,2022/09/02,,22.7,,,8.9,,,,,Fam023,,bottom left,24248661,1,1,bottom left
+P.formosa,6,9,148,32,D,D,2022/08/24,green,orange,R015,R089,14,,2022/08/31,2022/09/01,2022/09/02,,22.7,,,8.9,,,,,Fam023,,top right,24248658,1,1,top right
+P.formosa,6,9,149,33,D,D,2022/08/24,orange,orange,R053,R074,17,,2022/08/31,2022/09/01,2022/09/02,,22.7,,,8.9,,,,,16-S17-FE,,top left,24248661,1,1,top left
+P.formosa,6,9,150,33,D,D,2022/08/24,orange,orange,R053,R074,23,,2022/08/31,2022/09/01,2022/09/02,,22.7,,,8.9,,,,,16-S17-FE,,bottom right,24248657,1,1,bottom right
+P.formosa,6,9,151,33,D,D,2022/08/24,orange,orange,R053,R074,21,,2022/08/31,2022/09/01,2022/09/02,,22.7,,,8.9,,,,,16-S17-FE,,top left,24248657,1,1,top right
+P.formosa,6,9,152,33,D,D,2022/08/24,orange,orange,R053,R074,13,,2022/08/31,2022/09/01,2022/09/02,,22.7,,,8.9,,,,,16-S17-FE,,top left,24248658,1,1,top left
+P.formosa,6,9,153,34,N,N,2022/08/24,orange,black,R053,R095,2,,2022/08/31,2022/09/01,2022/09/02,,23.1,,,8.8,,,,,16-S17-FE,,top right,24248654,1,1,top right
+P.formosa,6,9,154,34,N,N,2022/08/24,orange,black,R053,R095,6,,2022/08/31,2022/09/01,2022/09/02,,23.1,,,8.8,,,,,16-S17-FE,,top right,24248662,1,1,top right
+P.formosa,6,9,155,34,N,N,2022/08/24,orange,black,R053,R095,7,,2022/08/31,2022/09/01,2022/09/02,,23.1,,,8.8,,,,,16-S17-FE,,bottom right,24248662,1,1,bottom right
+P.formosa,6,9,156,34,N,N,2022/08/24,orange,black,R053,R095,11,,2022/08/31,2022/09/01,2022/09/02,,23.1,,,8.8,,,,,16-S17-FE,,bottom right,24248653,1,1,bottom right
+P.formosa,6,8,157,35,C,C,2022/08/24,black,red,R054,R068,1,,2022/08/31,2022/09/01,2022/09/02,,23.1,,,8.8,,,,,12-S17-FE,,top left,24248654,1,1,top left
+P.formosa,6,8,158,35,C,C,2022/08/24,black,red,R054,R068,8,,2022/08/31,2022/09/01,2022/09/02,,23.1,,,8.8,,,,,12-S17-FE,,bottom left,24248662,1,1,bottom left
+P.formosa,6,8,159,35,C,D,2022/08/24,black,red,R054,R068,15,,2022/08/31,2022/09/01,2022/09/02,,22.7,,,8.9,,,,,12-S17-FE,,bottom right,24248658,1,1,bottom right
+P.formosa,6,8,160,35,C,D,2022/08/24,black,red,R054,R068,18,,2022/08/31,2022/09/01,2022/09/02,,22.7,,,8.9,,,,,12-S17-FE,,top right,24248661,1,1,top right
+P.formosa,6,8,161,36,D,N,2022/08/24,red,orange,R009,R091,16,,2022/08/31,2022/09/01,2022/09/02,,22.7,,,8.9,,,,,"Erroneously tagged wrong should be N, Fam001",,bottom left,24248658,1,1,bottom left
+P.formosa,6,8,162,36,D,N,2022/08/24,red,orange,R009,R091,19,,2022/08/31,2022/09/01,2022/09/02,,22.7,,,8.9,,,,,"Erroneously tagged wrong should be N, Fam001",,bottom right,24248661,1,1,bottom right
+P.formosa,6,8,163,36,D,N,2022/08/24,red,orange,R009,R091,22,,2022/08/31,2022/09/01,2022/09/02,,22.7,,,8.9,,,,,"Erroneously tagged wrong should be N, Fam001",,top right,24248657,1,1,top left
+P.formosa,6,8,164,36,D,N,2022/08/24,red,orange,R009,R091,24,,2022/08/31,2022/09/01,2022/09/02,,22.7,,,8.9,,,,,"Erroneously tagged wrong should be N, Fam001",,bottom left,24248657,1,1,bottom left
+P.formosa,7,10,165,37,C,C,2022/08/24,white,red,R023,R088,4,,,,,,,,,,,,,,Fam043,Extra,bottom left,24248654,,,bottom left
+P.formosa,7,10,166,37,C,C,2022/08/24,white,red,R023,R088,1,,,,,,,,,,,,,,Fam043,Extra,top left,24248654,,,top left
+P.formosa,7,10,167,37,C,C,2022/08/24,white,red,R023,R088,9,,,,,,,,,,,,,,Fam043,Extra,top left,24248653,,,top left
+P.formosa,7,10,168,37,C,C,2022/08/24,white,red,R023,R088,8,,,,,,,,,,,,,,Fam043,Extra,bottom left,24248662,,,bottom left
+P.formosa,7,10,169,38,C,C,2022/08/24,white,red,R023,R088,10,,,,,,,,,,,,,,Fam043,Extra,top right,24248653,,,top right
+P.formosa,7,10,170,38,C,C,2022/08/24,white,red,R023,R088,12,,,,,,,,,,,,,,Fam043,Extra,bottom left,24248653,,,bottom left
+P.formosa,7,10,171,38,D,D,2022/08/24,white,orange,R023,R067,23,,,,,,,,,,,,,,Fam043,Extra,bottom right,24248657,,,bottom right
+P.formosa,7,10,172,38,D,D,2022/08/24,white,orange,R023,R067,16,,,,,,,,,,,,,,Fam043,Extra,bottom left,24248658,,,bottom left

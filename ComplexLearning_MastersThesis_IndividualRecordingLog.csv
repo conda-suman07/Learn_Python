@@ -1,0 +1,1145 @@
+camera#,filename,recid,instance#,species,run#,block#,id,group_id,tagged_treatment,corrected_treatment,tagging_date,mother_tag_color,treatment_tag_color,holding_tank#,rack_tank#,testing_tank#,size#mm,converted#tgrabs,tracked#trex,checked#bt,finished,location,note,location(switch tank 21-22)
+24248662,rec0002_colorchoice_20220801_103424.24248662,2,0,P.formosa,1,1,1,1,C,C,29.07.22,yellow,orange,S24,R079,7,,x,x,,x,bottom right,,bottom right
+24248662,rec0005_colorchoice_20220801_125836.24248662,5,1,P.formosa,1,1,1,1,C,C,29.07.22,yellow,orange,S24,R079,7,,x,x,,x,bottom right,,bottom right
+24248662,rec0008_colorchoice_20220801_144915.24248662,8,2,P.formosa,1,1,1,1,C,C,29.07.22,yellow,orange,S24,R079,7,,x,x,,x,bottom right,,bottom right
+24248662,rec0011_colorchoice_20220801_163429.24248662,11,3,P.formosa,1,1,1,1,C,C,29.07.22,yellow,orange,S24,R079,7,,x,x,,x,bottom right,,bottom right
+24248662,rec0014_colorchoice_20220802_103805.24248662,14,4,P.formosa,1,1,1,1,C,C,29.07.22,yellow,orange,S24,R079,7,,x,x,,x,bottom right,,bottom right
+24248662,rec0017_colorchoice_20220802_123455.24248662,17,5,P.formosa,1,1,1,1,C,C,29.07.22,yellow,orange,S24,R079,7,,x,x,,x,bottom right,,bottom right
+24248662,rec0020_colorchoice_20220802_140707.24248662,20,6,P.formosa,1,1,1,1,C,C,29.07.22,yellow,orange,S24,R079,7,,x,x,,x,bottom right,,bottom right
+24248662,rec0023_colorchoice_20220802_163733.24248662,23,7,P.formosa,1,1,1,1,C,C,29.07.22,yellow,orange,S24,R079,7,,x,x,,x,bottom right,,bottom right
+24248654,rec0001_colorchoice_20220801_103424.24248654,1,0,P.formosa,1,1,2,1,C,C,29.07.22,yellow,orange,S24,R079,3,,x,x,,x,bottom right,,bottom right
+24248654,rec0004_colorchoice_20220801_125836.24248654,4,1,P.formosa,1,1,2,1,C,C,29.07.22,yellow,orange,S24,R079,3,,x,x,,x,bottom right,,bottom right
+24248654,rec0007_colorchoice_20220801_144915.24248654,7,2,P.formosa,1,1,2,1,C,C,29.07.22,yellow,orange,S24,R079,3,,x,x,,x,bottom right,,bottom right
+24248654,rec0010_colorchoice_20220801_163429.24248654,10,3,P.formosa,1,1,2,1,C,C,29.07.22,yellow,orange,S24,R079,3,,x,x,,x,bottom right,,bottom right
+24248654,rec0013_colorchoice_20220802_103805.24248654,13,4,P.formosa,1,1,2,1,C,C,29.07.22,yellow,orange,S24,R079,3,,x,x,,x,bottom right,,bottom right
+24248654,rec0016_colorchoice_20220802_123455.24248654,16,5,P.formosa,1,1,2,1,C,C,29.07.22,yellow,orange,S24,R079,3,,x,x,,x,bottom right,,bottom right
+24248654,rec0019_colorchoice_20220802_140707.24248654,19,6,P.formosa,1,1,2,1,C,C,29.07.22,yellow,orange,S24,R079,3,,x,x,,x,bottom right,,bottom right
+24248654,rec0022_colorchoice_20220802_163733.24248654,22,7,P.formosa,1,1,2,1,C,C,29.07.22,yellow,orange,S24,R079,3,,x,x,,x,bottom right,,bottom right
+24248653,rec0000_colorchoice_20220801_103424.24248653,0,0,P.formosa,1,1,3,1,C,C,29.07.22,yellow,orange,S24,R079,10,,x,x,,x,top right,,top right
+24248653,rec0003_colorchoice_20220801_125836.24248653,3,1,P.formosa,1,1,3,1,C,C,29.07.22,yellow,orange,S24,R079,10,,x,x,,x,top right,,top right
+24248653,rec0006_colorchoice_20220801_144915.24248653,6,2,P.formosa,1,1,3,1,C,C,29.07.22,yellow,orange,S24,R079,10,,x,x,,x,top right,,top right
+24248653,rec0009_colorchoice_20220801_163429.24248653,9,3,P.formosa,1,1,3,1,C,C,29.07.22,yellow,orange,S24,R079,10,,x,x,,x,top right,,top right
+24248653,rec0012_colorchoice_20220802_103805.24248653,12,4,P.formosa,1,1,3,1,C,C,29.07.22,yellow,orange,S24,R079,10,,x,x,,x,top right,,top right
+24248653,rec0015_colorchoice_20220802_123455.24248653,15,5,P.formosa,1,1,3,1,C,C,29.07.22,yellow,orange,S24,R079,10,,x,x,,x,top right,,top right
+24248653,rec0018_colorchoice_20220802_140707.24248653,18,6,P.formosa,1,1,3,1,C,C,29.07.22,yellow,orange,S24,R079,10,,x,x,,x,top right,,top right
+24248653,rec0021_colorchoice_20220802_163733.24248653,21,7,P.formosa,1,1,3,1,C,C,29.07.22,yellow,orange,S24,R079,10,,x,x,,x,top right,,top right
+24248662,rec0002_colorchoice_20220801_103424.24248662,2,0,P.formosa,1,1,4,1,C,C,29.07.22,yellow,orange,S24,R079,6,,x,x,,x,top right,,top right
+24248662,rec0005_colorchoice_20220801_125836.24248662,5,1,P.formosa,1,1,4,1,C,C,29.07.22,yellow,orange,S24,R079,6,,x,x,,x,top right,,top right
+24248662,rec0008_colorchoice_20220801_144915.24248662,8,2,P.formosa,1,1,4,1,C,C,29.07.22,yellow,orange,S24,R079,6,,x,x,,x,top right,,top right
+24248662,rec0011_colorchoice_20220801_163429.24248662,11,3,P.formosa,1,1,4,1,C,C,29.07.22,yellow,orange,S24,R079,6,,x,x,,x,top right,,top right
+24248662,rec0014_colorchoice_20220802_103805.24248662,14,4,P.formosa,1,1,4,1,C,C,29.07.22,yellow,orange,S24,R079,6,,x,x,,x,top right,,top right
+24248662,rec0017_colorchoice_20220802_123455.24248662,17,5,P.formosa,1,1,4,1,C,C,29.07.22,yellow,orange,S24,R079,6,,x,x,,x,top right,,top right
+24248662,rec0020_colorchoice_20220802_140707.24248662,20,6,P.formosa,1,1,4,1,C,C,29.07.22,yellow,orange,S24,R079,6,,x,x,,x,top right,,top right
+24248662,rec0023_colorchoice_20220802_163733.24248662,23,7,P.formosa,1,1,4,1,C,C,29.07.22,yellow,orange,S24,R079,6,,x,x,,x,top right,,top right
+24248653,rec0000_colorchoice_20220801_103424.24248653,0,0,P.formosa,1,1,5,2,C,C,29.07.22,yellow,orange,S24,R079,11,,x,x,,x,bottom right,,bottom right
+24248653,rec0003_colorchoice_20220801_125836.24248653,3,1,P.formosa,1,1,5,2,C,C,29.07.22,yellow,orange,S24,R079,11,,x,x,,x,bottom right,,bottom right
+24248653,rec0006_colorchoice_20220801_144915.24248653,6,2,P.formosa,1,1,5,2,C,C,29.07.22,yellow,orange,S24,R079,11,,x,x,,x,bottom right,,bottom right
+24248653,rec0009_colorchoice_20220801_163429.24248653,9,3,P.formosa,1,1,5,2,C,C,29.07.22,yellow,orange,S24,R079,11,,x,x,,x,bottom right,,bottom right
+24248653,rec0012_colorchoice_20220802_103805.24248653,12,4,P.formosa,1,1,5,2,C,C,29.07.22,yellow,orange,S24,R079,11,,x,x,,x,bottom right,,bottom right
+24248653,rec0015_colorchoice_20220802_123455.24248653,15,5,P.formosa,1,1,5,2,C,C,29.07.22,yellow,orange,S24,R079,11,,x,x,,x,bottom right,,bottom right
+24248653,rec0018_colorchoice_20220802_140707.24248653,18,6,P.formosa,1,1,5,2,C,C,29.07.22,yellow,orange,S24,R079,11,,x,x,,x,bottom right,,bottom right
+24248653,rec0021_colorchoice_20220802_163733.24248653,21,7,P.formosa,1,1,5,2,C,C,29.07.22,yellow,orange,S24,R079,11,,x,x,,x,bottom right,,bottom right
+24248653,rec0000_colorchoice_20220801_103424.24248653,0,0,P.formosa,1,1,6,2,C,C,29.07.22,yellow,orange,S24,R079,12,,x,x,,x,bottom left,,bottom left
+24248653,rec0003_colorchoice_20220801_125836.24248653,3,1,P.formosa,1,1,6,2,C,C,29.07.22,yellow,orange,S24,R079,12,,x,x,,x,bottom left,,bottom left
+24248653,rec0006_colorchoice_20220801_144915.24248653,6,2,P.formosa,1,1,6,2,C,C,29.07.22,yellow,orange,S24,R079,12,,x,x,,x,bottom left,,bottom left
+24248653,rec0009_colorchoice_20220801_163429.24248653,9,3,P.formosa,1,1,6,2,C,C,29.07.22,yellow,orange,S24,R079,12,,x,x,,x,bottom left,,bottom left
+24248653,rec0012_colorchoice_20220802_103805.24248653,12,4,P.formosa,1,1,6,2,C,C,29.07.22,yellow,orange,S24,R079,12,,x,x,,x,bottom left,,bottom left
+24248653,rec0015_colorchoice_20220802_123455.24248653,15,5,P.formosa,1,1,6,2,C,C,29.07.22,yellow,orange,S24,R079,12,,x,x,,x,bottom left,,bottom left
+24248653,rec0018_colorchoice_20220802_140707.24248653,18,6,P.formosa,1,1,6,2,C,C,29.07.22,yellow,orange,S24,R079,12,,x,x,,x,bottom left,,bottom left
+24248653,rec0021_colorchoice_20220802_163733.24248653,21,7,P.formosa,1,1,6,2,C,C,29.07.22,yellow,orange,S24,R079,12,,x,x,,x,bottom left,,bottom left
+24248658,rec0001_doorchoice_20220801_103501.24248658,1,0,P.formosa,1,1,7,2,D,D,29.07.22,yellow,red,S24,R078,13,,,,,,top left,,top left
+24248658,rec0004_doorchoice_20220801_125837.24248658,4,1,P.formosa,1,1,7,2,D,D,29.07.22,yellow,red,S24,R078,13,,,,,,top left,,top left
+24248658,rec0007_doorchoice_20220801_144918.24248658,7,2,P.formosa,1,1,7,2,D,D,29.07.22,yellow,red,S24,R078,13,,,,,,top left,,top left
+24248658,rec0010_doorchoice_20220801_163422.24248658,10,3,P.formosa,1,1,7,2,D,D,29.07.22,yellow,red,S24,R078,13,,,,,,top left,,top left
+24248658,rec0013_doorchoice_20220802_103839.24248658,13,4,P.formosa,1,1,7,2,D,D,29.07.22,yellow,red,S24,R078,13,,,,,,top left,,top left
+24248658,rec0016_doorchoice_20220802_123421.24248658,16,5,P.formosa,1,1,7,2,D,D,29.07.22,yellow,red,S24,R078,13,,,,,,top left,,top left
+24248658,rec0019_doorchoice_20220802_140623.24248658,19,6,P.formosa,1,1,7,2,D,D,29.07.22,yellow,red,S24,R078,13,,,,,,top left,,top left
+24248658,rec0022_doorchoice_20220802_163902.24248658,22,7,P.formosa,1,1,7,2,D,D,29.07.22,yellow,red,S24,R078,13,,,,,,top left,,top left
+24248658,rec0001_doorchoice_20220801_103501.24248658,1,0,P.formosa,1,1,8,2,D,D,29.07.22,yellow,red,S24,R078,14,,,,,,top right,,top right
+24248658,rec0004_doorchoice_20220801_125837.24248658,4,1,P.formosa,1,1,8,2,D,D,29.07.22,yellow,red,S24,R078,14,,,,,,top right,,top right
+24248658,rec0007_doorchoice_20220801_144918.24248658,7,2,P.formosa,1,1,8,2,D,D,29.07.22,yellow,red,S24,R078,14,,,,,,top right,,top right
+24248658,rec0010_doorchoice_20220801_163422.24248658,10,3,P.formosa,1,1,8,2,D,D,29.07.22,yellow,red,S24,R078,14,,,,,,top right,,top right
+24248658,rec0013_doorchoice_20220802_103839.24248658,13,4,P.formosa,1,1,8,2,D,D,29.07.22,yellow,red,S24,R078,14,,,,,,top right,,top right
+24248658,rec0016_doorchoice_20220802_123421.24248658,16,5,P.formosa,1,1,8,2,D,D,29.07.22,yellow,red,S24,R078,14,,,,,,top right,,top right
+24248658,rec0019_doorchoice_20220802_140623.24248658,19,6,P.formosa,1,1,8,2,D,D,29.07.22,yellow,red,S24,R078,14,,,,,,top right,,top right
+24248658,rec0022_doorchoice_20220802_163902.24248658,22,7,P.formosa,1,1,8,2,D,D,29.07.22,yellow,red,S24,R078,14,,,,,,top right,,top right
+24248661,rec0002_doorchoice_20220801_103501.24248661,2,0,P.formosa,1,1,9,3,D,D,29.07.22,yellow,red,S24,R078,20,,,,,,bottom left,,bottom left
+24248661,rec0005_doorchoice_20220801_125837.24248661,5,1,P.formosa,1,1,9,3,D,D,29.07.22,yellow,red,S24,R078,20,,,,,,bottom left,,bottom left
+24248661,rec0008_doorchoice_20220801_144918.24248661,8,2,P.formosa,1,1,9,3,D,D,29.07.22,yellow,red,S24,R078,20,,,,,,bottom left,,bottom left
+24248661,rec0011_doorchoice_20220801_163422.24248661,11,3,P.formosa,1,1,9,3,D,D,29.07.22,yellow,red,S24,R078,20,,,,,,bottom left,,bottom left
+24248661,rec0014_doorchoice_20220802_103839.24248661,14,4,P.formosa,1,1,9,3,D,D,29.07.22,yellow,red,S24,R078,20,,,,,,bottom left,,bottom left
+24248661,rec0017_doorchoice_20220802_123421.24248661,17,5,P.formosa,1,1,9,3,D,D,29.07.22,yellow,red,S24,R078,20,,,,,,bottom left,,bottom left
+24248661,rec0020_doorchoice_20220802_140623.24248661,20,6,P.formosa,1,1,9,3,D,D,29.07.22,yellow,red,S24,R078,20,,,,,,bottom left,,bottom left
+24248661,rec0023_doorchoice_20220802_163902.24248661,23,7,P.formosa,1,1,9,3,D,D,29.07.22,yellow,red,S24,R078,20,,,,,,bottom left,,bottom left
+24248661,rec0002_doorchoice_20220801_103501.24248661,2,0,P.formosa,1,1,10,3,D,D,29.07.22,yellow,red,S24,R078,19,,,,,,bottom right,,bottom right
+24248661,rec0005_doorchoice_20220801_125837.24248661,5,1,P.formosa,1,1,10,3,D,D,29.07.22,yellow,red,S24,R078,19,,,,,,bottom right,,bottom right
+24248661,rec0008_doorchoice_20220801_144918.24248661,8,2,P.formosa,1,1,10,3,D,D,29.07.22,yellow,red,S24,R078,19,,,,,,bottom right,,bottom right
+24248661,rec0011_doorchoice_20220801_163422.24248661,11,3,P.formosa,1,1,10,3,D,D,29.07.22,yellow,red,S24,R078,19,,,,,,bottom right,,bottom right
+24248661,rec0014_doorchoice_20220802_103839.24248661,14,4,P.formosa,1,1,10,3,D,D,29.07.22,yellow,red,S24,R078,19,,,,,,bottom right,,bottom right
+24248661,rec0017_doorchoice_20220802_123421.24248661,17,5,P.formosa,1,1,10,3,D,D,29.07.22,yellow,red,S24,R078,19,,,,,,bottom right,,bottom right
+24248661,rec0020_doorchoice_20220802_140623.24248661,20,6,P.formosa,1,1,10,3,D,D,29.07.22,yellow,red,S24,R078,19,,,,,,bottom right,,bottom right
+24248661,rec0023_doorchoice_20220802_163902.24248661,23,7,P.formosa,1,1,10,3,D,D,29.07.22,yellow,red,S24,R078,19,,,,,,bottom right,,bottom right
+24248657,rec0000_doorchoice_20220801_103501.24248657,0,0,P.formosa,1,1,11,3,D,D,29.07.22,yellow,red,S24,R078,24,,,,,,bottom left,,bottom left
+24248657,rec0003_doorchoice_20220801_125837.24248657,3,1,P.formosa,1,1,11,3,D,D,29.07.22,yellow,red,S24,R078,24,,,,,,bottom left,,bottom left
+24248657,rec0006_doorchoice_20220801_144918.24248657,6,2,P.formosa,1,1,11,3,D,D,29.07.22,yellow,red,S24,R078,24,,,,,,bottom left,,bottom left
+24248657,rec0009_doorchoice_20220801_163422.24248657,9,3,P.formosa,1,1,11,3,D,D,29.07.22,yellow,red,S24,R078,24,,,,,,bottom left,,bottom left
+24248657,rec0012_doorchoice_20220802_103839.24248657,12,4,P.formosa,1,1,11,3,D,D,29.07.22,yellow,red,S24,R078,24,,,,,,bottom left,,bottom left
+24248657,rec0015_doorchoice_20220802_123421.24248657,15,5,P.formosa,1,1,11,3,D,D,29.07.22,yellow,red,S24,R078,24,,,,,,bottom left,,bottom left
+24248657,rec0018_doorchoice_20220802_140623.24248657,18,6,P.formosa,1,1,11,3,D,D,29.07.22,yellow,red,S24,R078,24,,,,,,bottom left,,bottom left
+24248657,rec0021_doorchoice_20220802_163902.24248657,21,7,P.formosa,1,1,11,3,D,D,29.07.22,yellow,red,S24,R078,24,,,,,,bottom left,,bottom left
+24248661,rec0002_doorchoice_20220801_103501.24248661,2,0,P.formosa,1,1,12,3,D,D,29.07.22,yellow,red,S24,R078,17,,,,,,top left,,top left
+24248661,rec0005_doorchoice_20220801_125837.24248661,5,1,P.formosa,1,1,12,3,D,D,29.07.22,yellow,red,S24,R078,17,,,,,,top left,,top left
+24248661,rec0008_doorchoice_20220801_144918.24248661,8,2,P.formosa,1,1,12,3,D,D,29.07.22,yellow,red,S24,R078,17,,,,,,top left,,top left
+24248661,rec0011_doorchoice_20220801_163422.24248661,11,3,P.formosa,1,1,12,3,D,D,29.07.22,yellow,red,S24,R078,17,,,,,,top left,,top left
+24248661,rec0014_doorchoice_20220802_103839.24248661,14,4,P.formosa,1,1,12,3,D,D,29.07.22,yellow,red,S24,R078,17,,,,,,top left,,top left
+24248661,rec0017_doorchoice_20220802_123421.24248661,17,5,P.formosa,1,1,12,3,D,D,29.07.22,yellow,red,S24,R078,17,,,,,,top left,,top left
+24248661,rec0020_doorchoice_20220802_140623.24248661,20,6,P.formosa,1,1,12,3,D,D,29.07.22,yellow,red,S24,R078,17,,,,,,top left,,top left
+24248661,rec0023_doorchoice_20220802_163902.24248661,23,7,P.formosa,1,1,12,3,D,D,29.07.22,yellow,red,S24,R078,17,,,,,,top left,,top left
+24248654,rec0001_colorchoice_20220801_103424.24248654,1,0,P.formosa,1,1,13,4,N,N,29.07.22,yellow,black,S24,R081,1,,x,x,,x,top left ,Erroneously trained,top left 
+24248654,rec0004_colorchoice_20220801_125836.24248654,4,1,P.formosa,1,1,13,4,N,N,29.07.22,yellow,black,S24,R081,1,,x,x,,x,top left ,Erroneously trained,top left 
+24248654,rec0007_colorchoice_20220801_144915.24248654,7,2,P.formosa,1,1,13,4,N,N,29.07.22,yellow,black,S24,R081,1,,x,x,,x,top left ,Erroneously trained,top left 
+24248654,rec0010_colorchoice_20220801_163429.24248654,10,3,P.formosa,1,1,13,4,N,N,29.07.22,yellow,black,S24,R081,1,,x,x,,x,top left ,Erroneously trained,top left 
+24248654,rec0013_colorchoice_20220802_103805.24248654,13,4,P.formosa,1,1,13,4,N,N,29.07.22,yellow,black,S24,R081,1,,x,x,,x,top left ,Erroneously trained,top left 
+24248654,rec0016_colorchoice_20220802_123455.24248654,16,5,P.formosa,1,1,13,4,N,N,29.07.22,yellow,black,S24,R081,1,,x,x,,x,top left ,Erroneously trained,top left 
+24248654,rec0019_colorchoice_20220802_140707.24248654,19,6,P.formosa,1,1,13,4,N,N,29.07.22,yellow,black,S24,R081,1,,x,x,,x,top left ,Erroneously trained,top left 
+24248654,rec0022_colorchoice_20220802_163733.24248654,22,7,P.formosa,1,1,13,4,N,N,29.07.22,yellow,black,S24,R081,1,,x,x,,x,top left ,Erroneously trained,top left 
+24248662,rec0002_colorchoice_20220801_103424.24248662,2,0,P.formosa,1,1,14,4,N,N,29.07.22,yellow,black,S24,R081,8,,x,x,,x,bottom left,Erroneously trained,bottom left
+24248662,rec0005_colorchoice_20220801_125836.24248662,5,1,P.formosa,1,1,14,4,N,N,29.07.22,yellow,black,S24,R081,8,,x,x,,x,bottom left,Erroneously trained,bottom left
+24248662,rec0008_colorchoice_20220801_144915.24248662,8,2,P.formosa,1,1,14,4,N,N,29.07.22,yellow,black,S24,R081,8,,x,x,,x,bottom left,Erroneously trained,bottom left
+24248662,rec0011_colorchoice_20220801_163429.24248662,11,3,P.formosa,1,1,14,4,N,N,29.07.22,yellow,black,S24,R081,8,,x,x,,x,bottom left,Erroneously trained,bottom left
+24248662,rec0014_colorchoice_20220802_103805.24248662,14,4,P.formosa,1,1,14,4,N,N,29.07.22,yellow,black,S24,R081,8,,x,x,,x,bottom left,Erroneously trained,bottom left
+24248662,rec0017_colorchoice_20220802_123455.24248662,17,5,P.formosa,1,1,14,4,N,N,29.07.22,yellow,black,S24,R081,8,,x,x,,x,bottom left,Erroneously trained,bottom left
+24248662,rec0020_colorchoice_20220802_140707.24248662,20,6,P.formosa,1,1,14,4,N,N,29.07.22,yellow,black,S24,R081,8,,x,x,,x,bottom left,Erroneously trained,bottom left
+24248662,rec0023_colorchoice_20220802_163733.24248662,23,7,P.formosa,1,1,14,4,N,N,29.07.22,yellow,black,S24,R081,8,,x,x,,x,bottom left,Erroneously trained,bottom left
+24248658,rec0001_doorchoice_20220801_103501.24248658,1,0,P.formosa,1,1,15,4,N,N,29.07.22,yellow,black,S24,R081,15,,,,,,bottom right,Erroneously trained,bottom right
+24248658,rec0004_doorchoice_20220801_125837.24248658,4,1,P.formosa,1,1,15,4,N,N,29.07.22,yellow,black,S24,R081,15,,,,,,bottom right,Erroneously trained,bottom right
+24248658,rec0007_doorchoice_20220801_144918.24248658,7,2,P.formosa,1,1,15,4,N,N,29.07.22,yellow,black,S24,R081,15,,,,,,bottom right,Erroneously trained,bottom right
+24248658,rec0010_doorchoice_20220801_163422.24248658,10,3,P.formosa,1,1,15,4,N,N,29.07.22,yellow,black,S24,R081,15,,,,,,bottom right,Erroneously trained,bottom right
+24248658,rec0013_doorchoice_20220802_103839.24248658,13,4,P.formosa,1,1,15,4,N,N,29.07.22,yellow,black,S24,R081,15,,,,,,bottom right,Erroneously trained,bottom right
+24248658,rec0016_doorchoice_20220802_123421.24248658,16,5,P.formosa,1,1,15,4,N,N,29.07.22,yellow,black,S24,R081,15,,,,,,bottom right,Erroneously trained,bottom right
+24248658,rec0019_doorchoice_20220802_140623.24248658,19,6,P.formosa,1,1,15,4,N,N,29.07.22,yellow,black,S24,R081,15,,,,,,bottom right,Erroneously trained,bottom right
+24248658,rec0022_doorchoice_20220802_163902.24248658,22,7,P.formosa,1,1,15,4,N,N,29.07.22,yellow,black,S24,R081,15,,,,,,bottom right,Erroneously trained,bottom right
+24248657,rec0000_doorchoice_20220801_103501.24248657,0,0,P.formosa,1,1,16,4,N,N,29.07.22,yellow,black,S24,R081,23,,,,,,bottom right,Erroneously trained,bottom right
+24248657,rec0003_doorchoice_20220801_125837.24248657,3,1,P.formosa,1,1,16,4,N,N,29.07.22,yellow,black,S24,R081,23,,,,,,bottom right,Erroneously trained,bottom right
+24248657,rec0006_doorchoice_20220801_144918.24248657,6,2,P.formosa,1,1,16,4,N,N,29.07.22,yellow,black,S24,R081,23,,,,,,bottom right,Erroneously trained,bottom right
+24248657,rec0009_doorchoice_20220801_163422.24248657,9,3,P.formosa,1,1,16,4,N,N,29.07.22,yellow,black,S24,R081,23,,,,,,bottom right,Erroneously trained,bottom right
+24248657,rec0012_doorchoice_20220802_103839.24248657,12,4,P.formosa,1,1,16,4,N,N,29.07.22,yellow,black,S24,R081,23,,,,,,bottom right,Erroneously trained,bottom right
+24248657,rec0015_doorchoice_20220802_123421.24248657,15,5,P.formosa,1,1,16,4,N,N,29.07.22,yellow,black,S24,R081,23,,,,,,bottom right,Erroneously trained,bottom right
+24248657,rec0018_doorchoice_20220802_140623.24248657,18,6,P.formosa,1,1,16,4,N,N,29.07.22,yellow,black,S24,R081,23,,,,,,bottom right,Erroneously trained,bottom right
+24248657,rec0021_doorchoice_20220802_163902.24248657,21,7,P.formosa,1,1,16,4,N,N,29.07.22,yellow,black,S24,R081,23,,,,,,bottom right,Erroneously trained,bottom right
+24248662,rec0002_colorchoice_20220801_103424.24248662,2,0,P.formosa,1,5,17,5,C,C,29.07.22,blue,orange,S26,R083,5,,x,x,,x,top left,ID 17 Died & replaced with ID 99 on day 2,top left
+24248662,rec0005_colorchoice_20220801_125836.24248662,5,1,P.formosa,1,5,17,5,C,C,29.07.22,blue,orange,S26,R083,5,,x,x,,x,top left,ID 17 Died & replaced with ID 99 on day 2,top left
+24248662,rec0008_colorchoice_20220801_144915.24248662,8,2,P.formosa,1,5,17,5,C,C,29.07.22,blue,orange,S26,R083,5,,x,x,,x,top left,ID 17 Died & replaced with ID 99 on day 2,top left
+24248662,rec0011_colorchoice_20220801_163429.24248662,11,3,P.formosa,1,5,17,5,C,C,29.07.22,blue,orange,S26,R083,5,,x,x,,x,top left,ID 17 Died & replaced with ID 99 on day 2,top left
+24248662,rec0014_colorchoice_20220802_103805.24248662,14,0,P.formosa,1,5,99,5,C,C,29.07.22,blue,orange,S26,R083,5,,x,x,,x,top left,ID 17 Died & replaced with ID 99 on day 2,top left
+24248662,rec0017_colorchoice_20220802_123455.24248662,17,1,P.formosa,1,5,99,5,C,C,29.07.22,blue,orange,S26,R083,5,,x,x,,x,top left,ID 17 Died & replaced with ID 99 on day 2,top left
+24248662,rec0020_colorchoice_20220802_140707.24248662,20,2,P.formosa,1,5,99,5,C,C,29.07.22,blue,orange,S26,R083,5,,x,x,,x,top left,ID 17 Died & replaced with ID 99 on day 2,top left
+24248662,rec0023_colorchoice_20220802_163733.24248662,23,3,P.formosa,1,5,99,5,C,C,29.07.22,blue,orange,S26,R083,5,,x,x,,x,top left,ID 17 Died & replaced with ID 99 on day 2,top left
+24248654,rec0001_colorchoice_20220801_103424.24248654,1,0,P.formosa,1,5,18,5,C,C,29.07.22,blue,orange,S26,R083,2,,x,x,,x,top right,,top right
+24248654,rec0004_colorchoice_20220801_125836.24248654,4,1,P.formosa,1,5,18,5,C,C,29.07.22,blue,orange,S26,R083,2,,x,x,,x,top right,,top right
+24248654,rec0007_colorchoice_20220801_144915.24248654,7,2,P.formosa,1,5,18,5,C,C,29.07.22,blue,orange,S26,R083,2,,x,x,,x,top right,,top right
+24248654,rec0010_colorchoice_20220801_163429.24248654,10,3,P.formosa,1,5,18,5,C,C,29.07.22,blue,orange,S26,R083,2,,x,x,,x,top right,,top right
+24248654,rec0013_colorchoice_20220802_103805.24248654,13,4,P.formosa,1,5,18,5,C,C,29.07.22,blue,orange,S26,R083,2,,x,x,,x,top right,,top right
+24248654,rec0016_colorchoice_20220802_123455.24248654,16,5,P.formosa,1,5,18,5,C,C,29.07.22,blue,orange,S26,R083,2,,x,x,,x,top right,,top right
+24248654,rec0019_colorchoice_20220802_140707.24248654,19,6,P.formosa,1,5,18,5,C,C,29.07.22,blue,orange,S26,R083,2,,x,x,,x,top right,,top right
+24248654,rec0022_colorchoice_20220802_163733.24248654,22,7,P.formosa,1,5,18,5,C,C,29.07.22,blue,orange,S26,R083,2,,x,x,,x,top right,,top right
+24248653,rec0000_colorchoice_20220801_103424.24248653,0,0,P.formosa,1,5,19,5,C,C,29.07.22,blue,orange,S26,R083,9,,x,x,,x,top left,,top left
+24248653,rec0003_colorchoice_20220801_125836.24248653,3,1,P.formosa,1,5,19,5,C,C,29.07.22,blue,orange,S26,R083,9,,x,x,,x,top left,,top left
+24248653,rec0006_colorchoice_20220801_144915.24248653,6,2,P.formosa,1,5,19,5,C,C,29.07.22,blue,orange,S26,R083,9,,x,x,,x,top left,,top left
+24248653,rec0009_colorchoice_20220801_163429.24248653,9,3,P.formosa,1,5,19,5,C,C,29.07.22,blue,orange,S26,R083,9,,x,x,,x,top left,,top left
+24248653,rec0012_colorchoice_20220802_103805.24248653,12,4,P.formosa,1,5,19,5,C,C,29.07.22,blue,orange,S26,R083,9,,x,x,,x,top left,,top left
+24248653,rec0015_colorchoice_20220802_123455.24248653,15,5,P.formosa,1,5,19,5,C,C,29.07.22,blue,orange,S26,R083,9,,x,x,,x,top left,,top left
+24248653,rec0018_colorchoice_20220802_140707.24248653,18,6,P.formosa,1,5,19,5,C,C,29.07.22,blue,orange,S26,R083,9,,x,x,,x,top left,,top left
+24248653,rec0021_colorchoice_20220802_163733.24248653,21,7,P.formosa,1,5,19,5,C,C,29.07.22,blue,orange,S26,R083,9,,x,x,,x,top left,,top left
+24248654,rec0001_colorchoice_20220801_103424.24248654,1,0,P.formosa,1,5,20,5,C,C,29.07.22,blue,orange,S26,R083,4,,x,x,,x,bottom left,,bottom left
+24248654,rec0004_colorchoice_20220801_125836.24248654,4,1,P.formosa,1,5,20,5,C,C,29.07.22,blue,orange,S26,R083,4,,x,x,,x,bottom left,,bottom left
+24248654,rec0007_colorchoice_20220801_144915.24248654,7,2,P.formosa,1,5,20,5,C,C,29.07.22,blue,orange,S26,R083,4,,x,x,,x,bottom left,,bottom left
+24248654,rec0010_colorchoice_20220801_163429.24248654,10,3,P.formosa,1,5,20,5,C,C,29.07.22,blue,orange,S26,R083,4,,x,x,,x,bottom left,,bottom left
+24248654,rec0013_colorchoice_20220802_103805.24248654,13,4,P.formosa,1,5,20,5,C,C,29.07.22,blue,orange,S26,R083,4,,x,x,,x,bottom left,,bottom left
+24248654,rec0016_colorchoice_20220802_123455.24248654,16,5,P.formosa,1,5,20,5,C,C,29.07.22,blue,orange,S26,R083,4,,x,x,,x,bottom left,,bottom left
+24248654,rec0019_colorchoice_20220802_140707.24248654,19,6,P.formosa,1,5,20,5,C,C,29.07.22,blue,orange,S26,R083,4,,x,x,,x,bottom left,,bottom left
+24248654,rec0022_colorchoice_20220802_163733.24248654,22,7,P.formosa,1,5,20,5,C,C,29.07.22,blue,orange,S26,R083,4,,x,x,,x,bottom left,,bottom left
+24248658,rec0001_doorchoice_20220801_103501.24248658,1,0,P.formosa,1,5,21,6,D,D,29.07.22,blue,red,S26,R082,16,,,,,,bottom left,,bottom left
+24248658,rec0004_doorchoice_20220801_125837.24248658,4,1,P.formosa,1,5,21,6,D,D,29.07.22,blue,red,S26,R082,16,,,,,,bottom left,,bottom left
+24248658,rec0007_doorchoice_20220801_144918.24248658,7,2,P.formosa,1,5,21,6,D,D,29.07.22,blue,red,S26,R082,16,,,,,,bottom left,,bottom left
+24248658,rec0010_doorchoice_20220801_163422.24248658,10,3,P.formosa,1,5,21,6,D,D,29.07.22,blue,red,S26,R082,16,,,,,,bottom left,,bottom left
+24248658,rec0013_doorchoice_20220802_103839.24248658,13,4,P.formosa,1,5,21,6,D,D,29.07.22,blue,red,S26,R082,16,,,,,,bottom left,,bottom left
+24248658,rec0016_doorchoice_20220802_123421.24248658,16,5,P.formosa,1,5,21,6,D,D,29.07.22,blue,red,S26,R082,16,,,,,,bottom left,,bottom left
+24248658,rec0019_doorchoice_20220802_140623.24248658,19,6,P.formosa,1,5,21,6,D,D,29.07.22,blue,red,S26,R082,16,,,,,,bottom left,,bottom left
+24248658,rec0022_doorchoice_20220802_163902.24248658,22,7,P.formosa,1,5,21,6,D,D,29.07.22,blue,red,S26,R082,16,,,,,,bottom left,,bottom left
+24248657,rec0000_doorchoice_20220801_103501.24248657,0,0,P.formosa,1,5,22,6,D,D,29.07.22,blue,red,S26,R082,22,,,,,,top right,,top left
+24248657,rec0003_doorchoice_20220801_125837.24248657,3,1,P.formosa,1,5,22,6,D,D,29.07.22,blue,red,S26,R082,22,,,,,,top right,,top left
+24248657,rec0006_doorchoice_20220801_144918.24248657,6,2,P.formosa,1,5,22,6,D,D,29.07.22,blue,red,S26,R082,22,,,,,,top right,,top left
+24248657,rec0009_doorchoice_20220801_163422.24248657,9,3,P.formosa,1,5,22,6,D,D,29.07.22,blue,red,S26,R082,22,,,,,,top right,,top left
+24248657,rec0012_doorchoice_20220802_103839.24248657,12,4,P.formosa,1,5,22,6,D,D,29.07.22,blue,red,S26,R082,22,,,,,,top right,,top left
+24248657,rec0015_doorchoice_20220802_123421.24248657,15,5,P.formosa,1,5,22,6,D,D,29.07.22,blue,red,S26,R082,22,,,,,,top right,,top left
+24248657,rec0018_doorchoice_20220802_140623.24248657,18,6,P.formosa,1,5,22,6,D,D,29.07.22,blue,red,S26,R082,22,,,,,,top right,,top left
+24248657,rec0021_doorchoice_20220802_163902.24248657,21,7,P.formosa,1,5,22,6,D,D,29.07.22,blue,red,S26,R082,22,,,,,,top right,,top left
+24248661,rec0002_doorchoice_20220801_103501.24248661,2,0,P.formosa,1,5,23,6,D,D,29.07.22,blue,red,S26,R082,18,,,,,,top right,Disappeared from tank after day 1,top right
+24248661,rec0005_doorchoice_20220801_125837.24248661,5,1,P.formosa,1,5,23,6,D,D,29.07.22,blue,red,S26,R082,18,,,,,,top right,Disappeared from tank after day 1,top right
+24248661,rec0008_doorchoice_20220801_144918.24248661,8,2,P.formosa,1,5,23,6,D,D,29.07.22,blue,red,S26,R082,18,,,,,,top right,Disappeared from tank after day 1,top right
+24248661,rec0011_doorchoice_20220801_163422.24248661,11,3,P.formosa,1,5,23,6,D,D,29.07.22,blue,red,S26,R082,18,,,,,,top right,Disappeared from tank after day 1,top right
+24248657,rec0000_doorchoice_20220801_103501.24248657,0,0,P.formosa,1,5,24,6,D,D,29.07.22,blue,red,S26,R082,21,,,,,,top left,ID 24 Died & replaced with ID 100 after first non-reward recording,top right
+24248657,rec0003_doorchoice_20220801_125837.24248657,3,0,P.formosa,1,5,100,6,D,D,29.07.22,blue,red,S26,R082,21,,,,,,top left,ID 24 Died & replaced with ID 100 after first non-reward recording,top right
+24248657,rec0006_doorchoice_20220801_144918.24248657,6,1,P.formosa,1,5,100,6,D,D,29.07.22,blue,red,S26,R082,21,,,,,,top left,ID 24 Died & replaced with ID 100 after first non-reward recording,top right
+24248657,rec0009_doorchoice_20220801_163422.24248657,9,2,P.formosa,1,5,100,6,D,D,29.07.22,blue,red,S26,R082,21,,,,,,top left,ID 24 Died & replaced with ID 100 after first non-reward recording,top right
+24248657,rec0012_doorchoice_20220802_103839.24248657,12,3,P.formosa,1,5,100,6,D,D,29.07.22,blue,red,S26,R082,21,,,,,,top left,ID 24 Died & replaced with ID 100 after first non-reward recording,top right
+24248657,rec0015_doorchoice_20220802_123421.24248657,15,4,P.formosa,1,5,100,6,D,D,29.07.22,blue,red,S26,R082,21,,,,,,top left,ID 24 Died & replaced with ID 100 after first non-reward recording,top right
+24248657,rec0018_doorchoice_20220802_140623.24248657,18,5,P.formosa,1,5,100,6,D,D,29.07.22,blue,red,S26,R082,21,,,,,,top left,ID 24 Died & replaced with ID 100 after first non-reward recording,top right
+24248657,rec0021_doorchoice_20220802_163902.24248657,21,6,P.formosa,1,5,100,6,D,D,29.07.22,blue,red,S26,R082,21,,,,,,top left,ID 24 Died & replaced with ID 100 after first non-reward recording,top right
+24248662,rec0026_colorchoice_20220803_110831.24248662,26,0,P.formosa,2,2,25,7,C,C,29.07.22,purple,orange,S23,R094,8,,x,x,,x,bottom left,,bottom left
+24248662,rec0029_colorchoice_20220803_121529.24248662,29,1,P.formosa,2,2,25,7,C,C,29.07.22,purple,orange,S23,R094,8,,x,x,,x,bottom left,,bottom left
+242428662,rec0032_colorchoice_20220803_144801.24248662,32,2,P.formosa,2,2,25,7,C,C,29.07.22,purple,orange,S23,R094,8,,x,x,,x,bottom left,,bottom left
+242428662,rec0035_colorchoice_20220803_163828.24248662,35,3,P.formosa,2,2,25,7,C,C,29.07.22,purple,orange,S23,R094,8,,x,x,,x,bottom left,,bottom left
+24248662,rec0038_colorchoice_20220804_110102.24248662,38,4,P.formosa,2,2,25,7,C,C,29.07.22,purple,orange,S23,R094,8,,x,x,,x,bottom left,,bottom left
+24248662,rec0041_colorchoice_20220804_122744.24248662,41,5,P.formosa,2,2,25,7,C,C,29.07.22,purple,orange,S23,R094,8,,x,x,,x,bottom left,,bottom left
+24248662,rec0044_colorchoice_20220804_143708.24248662,44,6,P.formosa,2,2,25,7,C,C,29.07.22,purple,orange,S23,R094,8,,x,x,,x,bottom left,,bottom left
+24248662,rec0047_colorchoice_20220804_164001.24248662,47,7,P.formosa,2,2,25,7,C,C,29.07.22,purple,orange,S23,R094,8,,x,x,,x,bottom left,,bottom left
+24248654,rec0025_colorchoice_20220803_110831.24248654,25,0,P.formosa,2,2,26,7,C,C,29.07.22,purple,orange,S23,R094,1,,x,x,,x,top left,,top left
+24248654,rec0028_colorchoice_20220803_121529.24248654,28,1,P.formosa,2,2,26,7,C,C,29.07.22,purple,orange,S23,R094,1,,x,x,,x,top left,,top left
+24248654,rec0031_colorchoice_20220803_144801.24248654,31,2,P.formosa,2,2,26,7,C,C,29.07.22,purple,orange,S23,R094,1,,x,x,,x,top left,,top left
+24248654,rec0034_colorchoice_20220803_163828.24248654,34,3,P.formosa,2,2,26,7,C,C,29.07.22,purple,orange,S23,R094,1,,x,x,,x,top left,,top left
+24248654,rec0037_colorchoice_20220804_110102.24248654,37,4,P.formosa,2,2,26,7,C,C,29.07.22,purple,orange,S23,R094,1,,x,x,,x,top left,,top left
+24248654,rec0040_colorchoice_20220804_122744.24248654,40,5,P.formosa,2,2,26,7,C,C,29.07.22,purple,orange,S23,R094,1,,x,x,,x,top left,,top left
+24248654,rec0043_colorchoice_20220804_143708.24248654,43,6,P.formosa,2,2,26,7,C,C,29.07.22,purple,orange,S23,R094,1,,x,x,,x,top left,,top left
+24248654,rec0046_colorchoice_20220804_164001.24248654,46,7,P.formosa,2,2,26,7,C,C,29.07.22,purple,orange,S23,R094,1,,x,x,,x,top left,,top left
+24248653,rec0024_colorchoice_20220803_110831.24248653,24,0,P.formosa,2,2,27,7,C,C,29.07.22,purple,orange,S23,R094,10,,x,x,,x,top right ,"Found again 08.08.2022 and put back to his group, Dissapeared before group test",top right 
+24248653,rec0027_colorchoice_20220803_121529.24248653,27,1,P.formosa,2,2,27,7,C,C,29.07.22,purple,orange,S23,R094,10,,x,x,,x,top right ,"Found again 08.08.2022 and put back to his group, Dissapeared before group test",top right 
+24248653,rec0030_colorchoice_20220803_144801.24248653,30,2,P.formosa,2,2,27,7,C,C,29.07.22,purple,orange,S23,R094,10,,x,x,,x,top right ,"Found again 08.08.2022 and put back to his group, Dissapeared before group test",top right 
+24248653,rec0033_colorchoice_20220803_163828.24248653,33,3,P.formosa,2,2,27,7,C,C,29.07.22,purple,orange,S23,R094,10,,x,-,,-,top right ,"Found again 08.08.2022 and put back to his group, Dissapeared before group test",top right 
+24248653,rec0036_colorchoice_20220804_110102.24248653,36,4,P.formosa,2,2,27,7,C,C,29.07.22,purple,orange,S23,R094,10,,x,x,,x,top right ,"Found again 08.08.2022 and put back to his group, Dissapeared before group test",top right 
+24248653,rec0039_colorchoice_20220804_122744.24248653,39,5,P.formosa,2,2,27,7,C,C,29.07.22,purple,orange,S23,R094,10,,x,x,,x,top right ,"Found again 08.08.2022 and put back to his group, Dissapeared before group test",top right 
+24248653,rec0042_colorchoice_20220804_143708.24248653,42,6,P.formosa,2,2,27,7,C,C,29.07.22,purple,orange,S23,R094,10,,x,x,,x,top right ,"Found again 08.08.2022 and put back to his group, Dissapeared before group test",top right 
+24248653,rec0045_colorchoice_20220804_164001.24248653,45,7,P.formosa,2,2,27,7,C,C,29.07.22,purple,orange,S23,R094,10,,x,x,,x,top right ,"Found again 08.08.2022 and put back to his group, Dissapeared before group test",top right 
+24248654,rec0025_colorchoice_20220803_110831.24248654,25,0,P.formosa,2,2,28,7,C,C,29.07.22,purple,orange,S23,R094,4,,x,x,,x,bottom left,,bottom left
+24248654,rec0028_colorchoice_20220803_121529.24248654,28,1,P.formosa,2,2,28,7,C,C,29.07.22,purple,orange,S23,R094,4,,x,x,,x,bottom left,,bottom left
+24248654,rec0031_colorchoice_20220803_144801.24248654,31,2,P.formosa,2,2,28,7,C,C,29.07.22,purple,orange,S23,R094,4,,x,x,,x,bottom left,,bottom left
+24248654,rec0034_colorchoice_20220803_163828.24248654,34,3,P.formosa,2,2,28,7,C,C,29.07.22,purple,orange,S23,R094,4,,x,x,,x,bottom left,,bottom left
+24248654,rec0037_colorchoice_20220804_110102.24248654,37,4,P.formosa,2,2,28,7,C,C,29.07.22,purple,orange,S23,R094,4,,x,x,,x,bottom left,,bottom left
+24248654,rec0040_colorchoice_20220804_122744.24248654,40,5,P.formosa,2,2,28,7,C,C,29.07.22,purple,orange,S23,R094,4,,x,x,,x,bottom left,,bottom left
+24248654,rec0043_colorchoice_20220804_143708.24248654,43,6,P.formosa,2,2,28,7,C,C,29.07.22,purple,orange,S23,R094,4,,x,x,,x,bottom left,,bottom left
+24248654,rec0046_colorchoice_20220804_164001.24248654,46,7,P.formosa,2,2,28,7,C,C,29.07.22,purple,orange,S23,R094,4,,x,x,,x,bottom left,,bottom left
+24248662,rec0026_colorchoice_20220803_110831.24248662,26,0,P.formosa,2,2,29,8,C,C,29.07.22,purple,orange,S23,R094,7,,x,x,,x,bottom right,,bottom right
+24248662,rec0029_colorchoice_20220803_121529.24248662,29,1,P.formosa,2,2,29,8,C,C,29.07.22,purple,orange,S23,R094,7,,x,x,,x,bottom right,,bottom right
+24248662,rec0032_colorchoice_20220803_144801.24248662,32,2,P.formosa,2,2,29,8,C,C,29.07.22,purple,orange,S23,R094,7,,x,x,,x,bottom right,,bottom right
+24248662,rec0035_colorchoice_20220803_163828.24248662,35,3,P.formosa,2,2,29,8,C,C,29.07.22,purple,orange,S23,R094,7,,x,x,,x,bottom right,,bottom right
+24248662,rec0038_colorchoice_20220804_110102.24248662,38,4,P.formosa,2,2,29,8,C,C,29.07.22,purple,orange,S23,R094,7,,x,x,,x,bottom right,,bottom right
+24248662,rec0041_colorchoice_20220804_122744.24248662,41,5,P.formosa,2,2,29,8,C,C,29.07.22,purple,orange,S23,R094,7,,x,x,,x,bottom right,,bottom right
+24248662,rec0044_colorchoice_20220804_143708.24248662,44,6,P.formosa,2,2,29,8,C,C,29.07.22,purple,orange,S23,R094,7,,x,x,,x,bottom right,,bottom right
+24248662,rec0047_colorchoice_20220804_164001.24248662,47,7,P.formosa,2,2,29,8,C,C,29.07.22,purple,orange,S23,R094,7,,x,x,,x,bottom right,,bottom right
+24248653,rec0024_colorchoice_20220803_110831.24248653,24,0,P.formosa,2,2,30,8,C,C,29.07.22,purple,orange,S23,R094,11,,x,x,,x,bottom right,,bottom right
+24248653,rec0027_colorchoice_20220803_121529.24248653,27,1,P.formosa,2,2,30,8,C,C,29.07.22,purple,orange,S23,R094,11,,x,x,,x,bottom right,,bottom right
+24248653,rec0030_colorchoice_20220803_144801.24248653,30,2,P.formosa,2,2,30,8,C,C,29.07.22,purple,orange,S23,R094,11,,x,x,,x,bottom right,,bottom right
+24248653,rec0033_colorchoice_20220803_163828.24248653,33,3,P.formosa,2,2,30,8,C,C,29.07.22,purple,orange,S23,R094,11,,x,x,,x,bottom right,,bottom right
+24248653,rec0036_colorchoice_20220804_110102.24248653,36,4,P.formosa,2,2,30,8,C,C,29.07.22,purple,orange,S23,R094,11,,x,x,,x,bottom right,,bottom right
+24248653,rec0039_colorchoice_20220804_122744.24248653,39,5,P.formosa,2,2,30,8,C,C,29.07.22,purple,orange,S23,R094,11,,x,x,,x,bottom right,,bottom right
+24248653,rec0042_colorchoice_20220804_143708.24248653,42,6,P.formosa,2,2,30,8,C,C,29.07.22,purple,orange,S23,R094,11,,x,x,,x,bottom right,,bottom right
+24248653,rec0045_colorchoice_20220804_164001.24248653,45,7,P.formosa,2,2,30,8,C,C,29.07.22,purple,orange,S23,R094,11,,x,x,,x,bottom right,,bottom right
+24248658,rec0025_doorchoice_20220803_110948.24248658,25,0,P.formosa,2,2,31,8,D,D,29.07.22,purple,red,S23,R093,13,,,,,,top left,,top left
+24248658,rec0028_doorchoice_20220803_121613.24248658,28,1,P.formosa,2,2,31,8,D,D,29.07.22,purple,red,S23,R093,13,,,,,,top left,,top left
+24248658,rec0031_doorchoice_20220803_144831.24248658,31,2,P.formosa,2,2,31,8,D,D,29.07.22,purple,red,S23,R093,13,,,,,,top left,,top left
+24248658,rec0034_doorchoice_20220803_163909.24248658,34,3,P.formosa,2,2,31,8,D,D,29.07.22,purple,red,S23,R093,13,,,,,,top left,,top left
+24248658,rec0037_doorchoice_20220804_110142.24248658,37,4,P.formosa,2,2,31,8,D,D,29.07.22,purple,red,S23,R093,13,,,,,,top left,,top left
+24248658,rec0040_doorchoice_20220804_122813.24248658,40,5,P.formosa,2,2,31,8,D,D,29.07.22,purple,red,S23,R093,13,,,,,,top left,,top left
+24248658,rec0043_doorchoice_20220804_143741.24248658,43,6,P.formosa,2,2,31,8,D,D,29.07.22,purple,red,S23,R093,13,,,,,,top left,,top left
+24248658,rec0046_doorchoice_20220804_163516.24248658,46,7,P.formosa,2,2,31,8,D,D,29.07.22,purple,red,S23,R093,13,,,,,,top left,,top left
+24248658,rec0025_doorchoice_20220803_110948.24248658,25,0,P.formosa,2,2,32,8,D,D,29.07.22,purple,red,S23,R093,15,,,,,,bottom right,,bottom right
+24248658,rec0028_doorchoice_20220803_121613.24248658,28,1,P.formosa,2,2,32,8,D,D,29.07.22,purple,red,S23,R093,15,,,,,,bottom right,,bottom right
+24248658,rec0031_doorchoice_20220803_144831.24248658,31,2,P.formosa,2,2,32,8,D,D,29.07.22,purple,red,S23,R093,15,,,,,,bottom right,,bottom right
+24248658,rec0034_doorchoice_20220803_163909.24248658,34,3,P.formosa,2,2,32,8,D,D,29.07.22,purple,red,S23,R093,15,,,,,,bottom right,,bottom right
+24248658,rec0037_doorchoice_20220804_110142.24248658,37,4,P.formosa,2,2,32,8,D,D,29.07.22,purple,red,S23,R093,15,,,,,,bottom right,,bottom right
+24248658,rec0040_doorchoice_20220804_122813.24248658,40,5,P.formosa,2,2,32,8,D,D,29.07.22,purple,red,S23,R093,15,,,,,,bottom right,,bottom right
+24248658,rec0043_doorchoice_20220804_143741.24248658,43,6,P.formosa,2,2,32,8,D,D,29.07.22,purple,red,S23,R093,15,,,,,,bottom right,,bottom right
+24248658,rec0046_doorchoice_20220804_163516.24248658,46,7,P.formosa,2,2,32,8,D,D,29.07.22,purple,red,S23,R093,15,,,,,,bottom right,,bottom right
+24248661,rec0026_doorchoice_20220803_110948.24248661,26,0,P.formosa,2,2,33,9,D,D,29.07.22,purple,red,S23,R093,20,,,,,,bottom left,Dissapeared,bottom left
+24248661,rec0029_doorchoice_20220803_121613.24248661,29,1,P.formosa,2,2,33,9,D,D,29.07.22,purple,red,S23,R093,20,,,,,,bottom left,Dissapeared,bottom left
+24248661,rec0032_doorchoice_20220803_144831.24248661,32,2,P.formosa,2,2,33,9,D,D,29.07.22,purple,red,S23,R093,20,,,,,,bottom left,Dissapeared,bottom left
+24248661,rec0035_doorchoice_20220803_163909.24248661,35,3,P.formosa,2,2,33,9,D,D,29.07.22,purple,red,S23,R093,20,,,,,,bottom left,Dissapeared,bottom left
+24248661,rec0038_doorchoice_20220804_110142.24248661,38,4,P.formosa,2,2,33,9,D,D,29.07.22,purple,red,S23,R093,20,,,,,,bottom left,Dissapeared,bottom left
+24248661,rec0041_doorchoice_20220804_122813.24248661,41,5,P.formosa,2,2,33,9,D,D,29.07.22,purple,red,S23,R093,20,,,,,,bottom left,Dissapeared,bottom left
+24248661,rec0044_doorchoice_20220804_143741.24248661,44,6,P.formosa,2,2,33,9,D,D,29.07.22,purple,red,S23,R093,20,,,,,,bottom left,Dissapeared,bottom left
+24248661,rec0047_doorchoice_20220804_163514.24248661,47,7,P.formosa,2,2,33,9,D,D,29.07.22,purple,red,S23,R093,20,,,,,,bottom left,Dissapeared,bottom left
+24248661,rec0026_doorchoice_20220803_110948.24248661,26,0,P.formosa,2,2,34,9,D,D,29.07.22,purple,red,S23,R093,17,,,,,,top left,,top left
+24248661,rec0029_doorchoice_20220803_121613.24248661,29,1,P.formosa,2,2,34,9,D,D,29.07.22,purple,red,S23,R093,17,,,,,,top left,,top left
+24248661,rec0032_doorchoice_20220803_144831.24248661,32,2,P.formosa,2,2,34,9,D,D,29.07.22,purple,red,S23,R093,17,,,,,,top left,,top left
+24248661,rec0035_doorchoice_20220803_163909.24248661,35,3,P.formosa,2,2,34,9,D,D,29.07.22,purple,red,S23,R093,17,,,,,,top left,,top left
+24248661,rec0038_doorchoice_20220804_110142.24248661,38,4,P.formosa,2,2,34,9,D,D,29.07.22,purple,red,S23,R093,17,,,,,,top left,,top left
+24248661,rec0041_doorchoice_20220804_122813.24248661,41,5,P.formosa,2,2,34,9,D,D,29.07.22,purple,red,S23,R093,17,,,,,,top left,,top left
+24248661,rec0044_doorchoice_20220804_143741.24248661,44,6,P.formosa,2,2,34,9,D,D,29.07.22,purple,red,S23,R093,17,,,,,,top left,,top left
+24248661,rec0047_doorchoice_20220804_163514.24248661,47,7,P.formosa,2,2,34,9,D,D,29.07.22,purple,red,S23,R093,17,,,,,,top left,,top left
+24248657,rec0024_doorchoice_20220803_110948.24248657,24,0,P.formosa,2,2,35,9,D,D,29.07.22,purple,red,S23,R093,21,,,,,,top left,,top right
+24248657,rec0027_doorchoice_20220803_121613.24248657,27,1,P.formosa,2,2,35,9,D,D,29.07.22,purple,red,S23,R093,21,,,,,,top left,,top right
+24248657,rec0030_doorchoice_20220803_144831.24248657,30,2,P.formosa,2,2,35,9,D,D,29.07.22,purple,red,S23,R093,21,,,,,,top left,,top right
+24248657,rec0033_doorchoice_20220803_163909.24248657,33,3,P.formosa,2,2,35,9,D,D,29.07.22,purple,red,S23,R093,21,,,,,,top left,,top right
+24248657,rec0036_doorchoice_20220804_110142.24248657,36,4,P.formosa,2,2,35,9,D,D,29.07.22,purple,red,S23,R093,21,,,,,,top left,,top right
+24248657,rec0039_doorchoice_20220804_122813.24248657,39,5,P.formosa,2,2,35,9,D,D,29.07.22,purple,red,S23,R093,21,,,,,,top left,,top right
+24248657,rec0042_doorchoice_20220804_143741.24248657,42,6,P.formosa,2,2,35,9,D,D,29.07.22,purple,red,S23,R093,21,,,,,,top left,,top right
+24248657,rec0045_doorchoice_20220804_163518.24248657,45,7,P.formosa,2,2,35,9,D,D,29.07.22,purple,red,S23,R093,21,,,,,,top left,,top right
+24248661,rec0026_doorchoice_20220803_110948.24248661,26,0,P.formosa,2,2,36,9,D,D,29.07.22,purple,red,S23,R093,19,,,,,,bottom right,,bottom right
+24248661,rec0029_doorchoice_20220803_121613.24248661,29,1,P.formosa,2,2,36,9,D,D,29.07.22,purple,red,S23,R093,19,,,,,,bottom right,,bottom right
+24248661,rec0032_doorchoice_20220803_144831.24248661,32,2,P.formosa,2,2,36,9,D,D,29.07.22,purple,red,S23,R093,19,,,,,,bottom right,,bottom right
+24248661,rec0035_doorchoice_20220803_163909.24248661,35,3,P.formosa,2,2,36,9,D,D,29.07.22,purple,red,S23,R093,19,,,,,,bottom right,,bottom right
+24248661,rec0038_doorchoice_20220804_110142.24248661,38,4,P.formosa,2,2,36,9,D,D,29.07.22,purple,red,S23,R093,19,,,,,,bottom right,,bottom right
+24248661,rec0041_doorchoice_20220804_122813.24248661,41,5,P.formosa,2,2,36,9,D,D,29.07.22,purple,red,S23,R093,19,,,,,,bottom right,,bottom right
+24248661,rec0044_doorchoice_20220804_143741.24248661,44,6,P.formosa,2,2,36,9,D,D,29.07.22,purple,red,S23,R093,19,,,,,,bottom right,,bottom right
+24248661,rec0047_doorchoice_20220804_163514.24248661,47,7,P.formosa,2,2,36,9,D,D,29.07.22,purple,red,S23,R093,19,,,,,,bottom right,,bottom right
+24248654,rec0025_colorchoice_20220803_110831.24248654,25,0,P.formosa,2,2,37,10,N,N,29.07.22,yellow,black,S24,R081,2,,x,x,,x,top right,,top right
+24248654,rec0028_colorchoice_20220803_121529.24248654,28,1,P.formosa,2,2,37,10,N,N,29.07.22,yellow,black,S24,R081,2,,x,x,,x,top right,,top right
+24248654,rec0031_colorchoice_20220803_144801.24248654,31,2,P.formosa,2,2,37,10,N,N,29.07.22,yellow,black,S24,R081,2,,x,x,,x,top right,,top right
+24248654,rec0034_colorchoice_20220803_163828.24248654,34,3,P.formosa,2,2,37,10,N,N,29.07.22,yellow,black,S24,R081,2,,x,x,,x,top right,,top right
+24248654,rec0037_colorchoice_20220804_110102.24248654,37,4,P.formosa,2,2,37,10,N,N,29.07.22,yellow,black,S24,R081,2,,x,x,,x,top right,,top right
+24248654,rec0040_colorchoice_20220804_122744.24248654,40,5,P.formosa,2,2,37,10,N,N,29.07.22,yellow,black,S24,R081,2,,x,x,,x,top right,,top right
+24248654,rec0043_colorchoice_20220804_143708.24248654,43,6,P.formosa,2,2,37,10,N,N,29.07.22,yellow,black,S24,R081,2,,x,x,,x,top right,,top right
+24248654,rec0046_colorchoice_20220804_164001.24248654,46,7,P.formosa,2,2,37,10,N,N,29.07.22,yellow,black,S24,R081,2,,x,x,,x,top right,,top right
+24248662,rec0026_colorchoice_20220803_110831.24248662,26,0,P.formosa,2,2,38,10,N,N,29.07.22,yellow,black,S24,R081,5,,x,x,,x,top left,,top left
+24248662,rec0029_colorchoice_20220803_121529.24248662,29,1,P.formosa,2,2,38,10,N,N,29.07.22,yellow,black,S24,R081,5,,x,x,,x,top left,,top left
+24248662,rec0032_colorchoice_20220803_144801.24248662,32,2,P.formosa,2,2,38,10,N,N,29.07.22,yellow,black,S24,R081,5,,x,x,,x,top left,,top left
+24248662,rec0035_colorchoice_20220803_163828.24248662,35,3,P.formosa,2,2,38,10,N,N,29.07.22,yellow,black,S24,R081,5,,x,x,,x,top left,,top left
+24248662,rec0038_colorchoice_20220804_110102.24248662,38,4,P.formosa,2,2,38,10,N,N,29.07.22,yellow,black,S24,R081,5,,x,x,,x,top left,,top left
+24248662,rec0041_colorchoice_20220804_122744.24248662,41,5,P.formosa,2,2,38,10,N,N,29.07.22,yellow,black,S24,R081,5,,x,x,,x,top left,,top left
+24248662,rec0044_colorchoice_20220804_143708.24248662,44,6,P.formosa,2,2,38,10,N,N,29.07.22,yellow,black,S24,R081,5,,x,x,,x,top left,,top left
+24248662,rec0047_colorchoice_20220804_164001.24248662,47,7,P.formosa,2,2,38,10,N,N,29.07.22,yellow,black,S24,R081,5,,x,x,,x,top left,,top left
+242428662,rec0026_colorchoice_20220803_110831.24248662,26,0,P.formosa,2,2,39,10,N,N,29.07.22,yellow,black,S24,R081,6,,x,x,,x,top right,,top right
+242428662,rec0029_colorchoice_20220803_121529.24248662,29,1,P.formosa,2,2,39,10,N,N,29.07.22,yellow,black,S24,R081,6,,x,x,,x,top right,,top right
+242428662,rec0032_colorchoice_20220803_144801.24248662,32,2,P.formosa,2,2,39,10,N,N,29.07.22,yellow,black,S24,R081,6,,x,x,,x,top right,,top right
+242428662,rec0035_colorchoice_20220803_163828.24248662,35,3,P.formosa,2,2,39,10,N,N,29.07.22,yellow,black,S24,R081,6,,x,x,,x,top right,,top right
+242428662,rec0038_colorchoice_20220804_110102.24248662,38,4,P.formosa,2,2,39,10,N,N,29.07.22,yellow,black,S24,R081,6,,x,x,,x,top right,,top right
+242428662,rec0041_colorchoice_20220804_122744.24248662,41,5,P.formosa,2,2,39,10,N,N,29.07.22,yellow,black,S24,R081,6,,x,x,,x,top right,,top right
+242428662,rec0044_colorchoice_20220804_143708.24248662,44,6,P.formosa,2,2,39,10,N,N,29.07.22,yellow,black,S24,R081,6,,x,x,,x,top right,,top right
+242428662,rec0047_colorchoice_20220804_164001.24248662,47,7,P.formosa,2,2,39,10,N,N,29.07.22,yellow,black,S24,R081,6,,x,x,,x,top right,,top right
+24248653,rec0024_colorchoice_20220803_110831.24248653,24,0,P.formosa,2,2,40,10,N,N,29.07.22,yellow,black,S24,R081,12,,x,x,,x,bottom left,,bottom left
+24248653,rec0027_colorchoice_20220803_121529.24248653,27,1,P.formosa,2,2,40,10,N,N,29.07.22,yellow,black,S24,R081,12,,x,x,,x,bottom left,,bottom left
+24248653,rec0030_colorchoice_20220803_144801.24248653,30,2,P.formosa,2,2,40,10,N,N,29.07.22,yellow,black,S24,R081,12,,x,x,,x,bottom left,,bottom left
+24248653,rec0033_colorchoice_20220803_163828.24248653,33,3,P.formosa,2,2,40,10,N,N,29.07.22,yellow,black,S24,R081,12,,x,x,,x,bottom left,,bottom left
+24248653,rec0036_colorchoice_20220804_110102.24248653,36,4,P.formosa,2,2,40,10,N,N,29.07.22,yellow,black,S24,R081,12,,x,x,,x,bottom left,,bottom left
+24248653,rec0039_colorchoice_20220804_122744.24248653,39,5,P.formosa,2,2,40,10,N,N,29.07.22,yellow,black,S24,R081,12,,x,x,,x,bottom left,,bottom left
+24248653,rec0042_colorchoice_20220804_143708.24248653,42,6,P.formosa,2,2,40,10,N,N,29.07.22,yellow,black,S24,R081,12,,x,x,,x,bottom left,,bottom left
+24248653,rec0045_colorchoice_20220804_164001.24248653,45,7,P.formosa,2,2,40,10,N,N,29.07.22,yellow,black,S24,R081,12,,x,x,,x,bottom left,,bottom left
+24248653,rec0024_colorchoice_20220803_110831.24248653,24,0,P.formosa,2,5,41,11,C,C,29.07.22,white,orange,S25,R091,9,,x,x,,x,top left,,top left
+24248653,rec0027_colorchoice_20220803_121529.24248653,27,1,P.formosa,2,5,41,11,C,C,29.07.22,white,orange,S25,R091,9,,x,x,,x,top left,,top left
+24248653,rec0030_colorchoice_20220803_144801.24248653,30,2,P.formosa,2,5,41,11,C,C,29.07.22,white,orange,S25,R091,9,,x,x,,x,top left,,top left
+24248653,rec0033_colorchoice_20220803_163828.24248653,33,3,P.formosa,2,5,41,11,C,C,29.07.22,white,orange,S25,R091,9,,x,x,,x,top left,,top left
+24248653,rec0036_colorchoice_20220804_110102.24248653,36,4,P.formosa,2,5,41,11,C,C,29.07.22,white,orange,S25,R091,9,,x,x,,x,top left,,top left
+24248653,rec0039_colorchoice_20220804_122744.24248653,39,5,P.formosa,2,5,41,11,C,C,29.07.22,white,orange,S25,R091,9,,x,x,,x,top left,,top left
+24248653,rec0042_colorchoice_20220804_143708.24248653,42,6,P.formosa,2,5,41,11,C,C,29.07.22,white,orange,S25,R091,9,,x,x,,x,top left,,top left
+24248653,rec0045_colorchoice_20220804_164001.24248653,45,7,P.formosa,2,5,41,11,C,C,29.07.22,white,orange,S25,R091,9,,x,x,,x,top left,,top left
+24248654,rec0025_colorchoice_20220803_110831.24248654,25,0,P.formosa,2,5,42,11,C,C,29.07.22,white,orange,S25,R091,3,,x,x,,x,bottom right ,,bottom right 
+24248654,rec0028_colorchoice_20220803_121529.24248654,28,1,P.formosa,2,5,42,11,C,C,29.07.22,white,orange,S25,R091,3,,x,x,,x,bottom right ,,bottom right 
+24248654,rec0031_colorchoice_20220803_144801.24248654,31,2,P.formosa,2,5,42,11,C,C,29.07.22,white,orange,S25,R091,3,,x,x,,x,bottom right ,,bottom right 
+24248654,rec0034_colorchoice_20220803_163828.24248654,34,3,P.formosa,2,5,42,11,C,C,29.07.22,white,orange,S25,R091,3,,x,x,,x,bottom right ,,bottom right 
+24248654,rec0037_colorchoice_20220804_110102.24248654,37,4,P.formosa,2,5,42,11,C,C,29.07.22,white,orange,S25,R091,3,,x,x,,x,bottom right ,,bottom right 
+24248654,rec0040_colorchoice_20220804_122744.24248654,40,5,P.formosa,2,5,42,11,C,C,29.07.22,white,orange,S25,R091,3,,x,x,,x,bottom right ,,bottom right 
+24248654,rec0043_colorchoice_20220804_143708.24248654,43,6,P.formosa,2,5,42,11,C,C,29.07.22,white,orange,S25,R091,3,,x,x,,x,bottom right ,,bottom right 
+24248654,rec0046_colorchoice_20220804_164001.24248654,46,7,P.formosa,2,5,42,11,C,C,29.07.22,white,orange,S25,R091,3,,x,x,,x,bottom right ,,bottom right 
+242428657,rec0024_doorchoice_20220803_110948.24248657,24,0,P.formosa,2,5,43,11,C,D,29.07.22,white,orange,S25,R091,24,,,,,,bottom left,Jumped out and Died,bottom left
+242428657,rec0027_doorchoice_20220803_121613.24248657,27,1,P.formosa,2,5,43,11,C,D,29.07.22,white,orange,S25,R091,24,,,,,,bottom left,Jumped out and Died,bottom left
+242428657,rec0030_doorchoice_20220803_144831.24248657,30,2,P.formosa,2,5,43,11,C,D,29.07.22,white,orange,S25,R091,24,,,,,,bottom left,Jumped out and Died,bottom left
+242428657,rec0033_doorchoice_20220803_163909.24248657,33,3,P.formosa,2,5,43,11,C,D,29.07.22,white,orange,S25,R091,24,,,,,,bottom left,Jumped out and Died,bottom left
+242428657,rec0036_doorchoice_20220804_110142.24248657,36,4,P.formosa,2,5,43,11,C,D,29.07.22,white,orange,S25,R091,24,,,,,,bottom left,Jumped out and Died,bottom left
+242428657,rec0039_doorchoice_20220804_122813.24248657,39,5,P.formosa,2,5,43,11,C,D,29.07.22,white,orange,S25,R091,24,,,,,,bottom left,Jumped out and Died,bottom left
+242428657,rec0042_doorchoice_20220804_143741.24248657,42,6,P.formosa,2,5,43,11,C,D,29.07.22,white,orange,S25,R091,24,,,,,,bottom left,Jumped out and Died,bottom left
+242428657,rec0045_doorchoice_20220804_163518.24248657,45,7,P.formosa,2,5,43,11,C,D,29.07.22,white,orange,S25,R091,24,,,,,,bottom left,Jumped out and Died,bottom left
+24248658,rec0025_doorchoice_20220803_110948.24248658,25,0,P.formosa,2,5,44,11,C,D,29.07.22,white,orange,S25,R091,14,,,,,,top right ,,top right 
+24248658,rec0028_doorchoice_20220803_121613.24248658,28,1,P.formosa,2,5,44,11,C,D,29.07.22,white,orange,S25,R091,14,,,,,,top right ,,top right 
+24248658,rec0031_doorchoice_20220803_144831.24248658,31,2,P.formosa,2,5,44,11,C,D,29.07.22,white,orange,S25,R091,14,,,,,,top right ,,top right 
+24248658,rec0034_doorchoice_20220803_163909.24248658,34,3,P.formosa,2,5,44,11,C,D,29.07.22,white,orange,S25,R091,14,,,,,,top right ,,top right 
+24248658,rec0037_doorchoice_20220804_110142.24248658,37,4,P.formosa,2,5,44,11,C,D,29.07.22,white,orange,S25,R091,14,,,,,,top right ,,top right 
+24248658,rec0040_doorchoice_20220804_122813.24248658,40,5,P.formosa,2,5,44,11,C,D,29.07.22,white,orange,S25,R091,14,,,,,,top right ,,top right 
+24248658,rec0043_doorchoice_20220804_143741.24248658,43,6,P.formosa,2,5,44,11,C,D,29.07.22,white,orange,S25,R091,14,,,,,,top right ,,top right 
+24248658,rec0046_doorchoice_20220804_163516.24248658,46,7,P.formosa,2,5,44,11,C,D,29.07.22,white,orange,S25,R091,14,,,,,,top right ,,top right 
+24248658,rec0025_doorchoice_20220803_110948.24248658,25,0,P.formosa,2,5,45,12,D,N,29.07.22,white,red,S25,R090,16,,,,,,bottom left ,,bottom left 
+24248658,rec0028_doorchoice_20220803_121613.24248658,28,1,P.formosa,2,5,45,12,D,N,29.07.22,white,red,S25,R090,16,,,,,,bottom left ,,bottom left 
+24248658,rec0031_doorchoice_20220803_144831.24248658,31,2,P.formosa,2,5,45,12,D,N,29.07.22,white,red,S25,R090,16,,,,,,bottom left ,,bottom left 
+24248658,rec0034_doorchoice_20220803_163909.24248658,34,3,P.formosa,2,5,45,12,D,N,29.07.22,white,red,S25,R090,16,,,,,,bottom left ,,bottom left 
+24248658,rec0037_doorchoice_20220804_110142.24248658,37,4,P.formosa,2,5,45,12,D,N,29.07.22,white,red,S25,R090,16,,,,,,bottom left ,,bottom left 
+24248658,rec0040_doorchoice_20220804_122813.24248658,40,5,P.formosa,2,5,45,12,D,N,29.07.22,white,red,S25,R090,16,,,,,,bottom left ,,bottom left 
+24248658,rec0043_doorchoice_20220804_143741.24248658,43,6,P.formosa,2,5,45,12,D,N,29.07.22,white,red,S25,R090,16,,,,,,bottom left ,,bottom left 
+24248658,rec0046_doorchoice_20220804_163516.24248658,46,7,P.formosa,2,5,45,12,D,N,29.07.22,white,red,S25,R090,16,,,,,,bottom left ,,bottom left 
+24248661,rec0026_doorchoice_20220803_110948.24248661,26,0,P.formosa,2,5,46,12,D,N,29.07.22,white,red,S25,R090,18,,,,,,top right,,top right
+24248661,rec0029_doorchoice_20220803_121613.24248661,29,1,P.formosa,2,5,46,12,D,N,29.07.22,white,red,S25,R090,18,,,,,,top right,,top right
+24248661,rec0032_doorchoice_20220803_144831.24248661,32,2,P.formosa,2,5,46,12,D,N,29.07.22,white,red,S25,R090,18,,,,,,top right,,top right
+24248661,rec0035_doorchoice_20220803_163909.24248661,35,3,P.formosa,2,5,46,12,D,N,29.07.22,white,red,S25,R090,18,,,,,,top right,,top right
+24248661,rec0038_doorchoice_20220804_110142.24248661,38,4,P.formosa,2,5,46,12,D,N,29.07.22,white,red,S25,R090,18,,,,,,top right,,top right
+24248661,rec0041_doorchoice_20220804_122813.24248661,41,5,P.formosa,2,5,46,12,D,N,29.07.22,white,red,S25,R090,18,,,,,,top right,,top right
+24248661,rec0044_doorchoice_20220804_143741.24248661,44,6,P.formosa,2,5,46,12,D,N,29.07.22,white,red,S25,R090,18,,,,,,top right,,top right
+24248661,rec0047_doorchoice_20220804_163514.24248661,47,7,P.formosa,2,5,46,12,D,N,29.07.22,white,red,S25,R090,18,,,,,,top right,,top right
+24248657,rec0024_doorchoice_20220803_110948.24248657,24,0,P.formosa,2,5,47,12,D,N,29.07.22,white,red,S25,R090,22,,,,,,top right,Died due to injury from jumping,top left
+24248657,rec0027_doorchoice_20220803_121613.24248657,27,1,P.formosa,2,5,47,12,D,N,29.07.22,white,red,S25,R090,22,,,,,,top right,Died due to injury from jumping,top left
+24248657,rec0030_doorchoice_20220803_144831.24248657,30,2,P.formosa,2,5,47,12,D,N,29.07.22,white,red,S25,R090,22,,,,,,top right,Died due to injury from jumping,top left
+24248657,rec0033_doorchoice_20220803_163909.24248657,33,3,P.formosa,2,5,47,12,D,N,29.07.22,white,red,S25,R090,22,,,,,,top right,Died due to injury from jumping,top left
+24248657,rec0036_doorchoice_20220804_110142.24248657,36,4,P.formosa,2,5,47,12,D,N,29.07.22,white,red,S25,R090,22,,,,,,top right,Died due to injury from jumping,top left
+24248657,rec0039_doorchoice_20220804_122813.24248657,39,5,P.formosa,2,5,47,12,D,N,29.07.22,white,red,S25,R090,22,,,,,,top right,Died due to injury from jumping,top left
+24248657,rec0042_doorchoice_20220804_143741.24248657,42,6,P.formosa,2,5,47,12,D,N,29.07.22,white,red,S25,R090,22,,,,,,top right,Died due to injury from jumping,top left
+24248657,rec0045_doorchoice_20220804_163518.24248657,45,7,P.formosa,2,5,47,12,D,N,29.07.22,white,red,S25,R090,22,,,,,,top right,Died due to injury from jumping,top left
+24248657,rec0024_doorchoice_20220803_110948.24248657,24,0,P.formosa,2,5,48,12,D,N,29.07.22,white,red,S25,R090,23,,,,,,bottom right,,bottom right
+24248657,rec0027_doorchoice_20220803_121613.24248657,27,1,P.formosa,2,5,48,12,D,N,29.07.22,white,red,S25,R090,23,,,,,,bottom right,,bottom right
+24248657,rec0030_doorchoice_20220803_144831.24248657,30,2,P.formosa,2,5,48,12,D,N,29.07.22,white,red,S25,R090,23,,,,,,bottom right,,bottom right
+24248657,rec0033_doorchoice_20220803_163909.24248657,33,3,P.formosa,2,5,48,12,D,N,29.07.22,white,red,S25,R090,23,,,,,,bottom right,,bottom right
+24248657,rec0036_doorchoice_20220804_110142.24248657,36,4,P.formosa,2,5,48,12,D,N,29.07.22,white,red,S25,R090,23,,,,,,bottom right,,bottom right
+24248657,rec0039_doorchoice_20220804_122813.24248657,39,5,P.formosa,2,5,48,12,D,N,29.07.22,white,red,S25,R090,23,,,,,,bottom right,,bottom right
+24248657,rec0042_doorchoice_20220804_143741.24248657,42,6,P.formosa,2,5,48,12,D,N,29.07.22,white,red,S25,R090,23,,,,,,bottom right,,bottom right
+24248657,rec0045_doorchoice_20220804_163518.24248657,45,7,P.formosa,2,5,48,12,D,N,29.07.22,white,red,S25,R090,23,,,,,,bottom right,,bottom right
+24248662,rec0050_colorchoice_20220808_103140.24248662,50,0,P.formosa,3,3,49,13,C,C,29.07.22,pink,orange,S22,R092,6,,x,x,,x,top right ,,top right 
+24248662,rec0053_colorchoice_20220808_121642.24248662,53,1,P.formosa,3,3,49,13,C,C,29.07.22,pink,orange,S22,R092,6,,x,x,,x,top right ,,top right 
+24248662,rec0056_colorchoice_20220808_142014.24248662,56,2,P.formosa,3,3,49,13,C,C,29.07.22,pink,orange,S22,R092,6,,x,x,,x,top right ,,top right 
+24248662,rec0059_colorchoice_20220808_161913.24248662,59,3,P.formosa,3,3,49,13,C,C,29.07.22,pink,orange,S22,R092,6,,x,x,,-,top right ,shadow problem while tracking,top right 
+24248662,rec0062_colorchoice_20220809_103936.24248662,62,4,P.formosa,3,3,49,13,C,C,29.07.22,pink,orange,S22,R092,6,,x,x,,x,top right ,,top right 
+24248662,rec0065_colorchoice_20220809_122816.24248662,65,5,P.formosa,3,3,49,13,C,C,29.07.22,pink,orange,S22,R092,6,,x,x,,x,top right ,,top right 
+24248662,rec0068_colorchoice_20220809_143954.24248662,68,6,P.formosa,3,3,49,13,C,C,29.07.22,pink,orange,S22,R092,6,,x,x,,x,top right ,,top right 
+24248662,rec0071_colorchoice_20220809_162227.24248662,71,7,P.formosa,3,3,49,13,C,C,29.07.22,pink,orange,S22,R092,6,,x,x,,x,top right ,,top right 
+24248653,rec0048_colorchoice_20220808_103140.24248653,48,0,P.formosa,3,3,50,13,C,C,29.07.22,pink,orange,S22,R092,12,,x,x,,-,bottom left ,shadow problem while tracking,bottom left 
+24248653,rec0051_colorchoice_20220808_121642.24248653,51,1,P.formosa,3,3,50,13,C,C,29.07.22,pink,orange,S22,R092,12,,x,x,,x,bottom left ,,bottom left 
+24248653,rec0054_colorchoice_20220808_142014.24248653,54,2,P.formosa,3,3,50,13,C,C,29.07.22,pink,orange,S22,R092,12,,x,x,,x,bottom left ,,bottom left 
+24248653,rec0057_colorchoice_20220808_161913.24248653,57,3,P.formosa,3,3,50,13,C,C,29.07.22,pink,orange,S22,R092,12,,x,x,,-,bottom left ,shadow problem while tracking,bottom left 
+24248653,rec0060_colorchoice_20220809_103936.24248653,60,4,P.formosa,3,3,50,13,C,C,29.07.22,pink,orange,S22,R092,12,,x,x,,x,bottom left ,,bottom left 
+24248653,rec0063_colorchoice_20220809_122816.24248653,63,5,P.formosa,3,3,50,13,C,C,29.07.22,pink,orange,S22,R092,12,,x,x,,-,bottom left ,shadow problem while tracking,bottom left 
+24248653,rec0066_colorchoice_20220809_143954.24248653,66,6,P.formosa,3,3,50,13,C,C,29.07.22,pink,orange,S22,R092,12,,x,x,,x,bottom left ,,bottom left 
+24248653,rec0069_colorchoice_20220809_162227.24248653,69,7,P.formosa,3,3,50,13,C,C,29.07.22,pink,orange,S22,R092,12,,x,x,,-,bottom left ,shadow problem while tracking,bottom left 
+24248653,rec0048_colorchoice_20220808_103140.24248653,48,0,P.formosa,3,3,51,13,C,C,29.07.22,pink,orange,S22,R092,9,,x,x,,-,top left ,shadow problem while tracking,top left 
+24248653,rec0051_colorchoice_20220808_121642.24248653,51,1,P.formosa,3,3,51,13,C,C,29.07.22,pink,orange,S22,R092,9,,x,x,,x,top left ,,top left 
+24248653,rec0054_colorchoice_20220808_142014.24248653,54,2,P.formosa,3,3,51,13,C,C,29.07.22,pink,orange,S22,R092,9,,x,x,,x,top left ,,top left 
+24248653,rec0057_colorchoice_20220808_161913.24248653,57,3,P.formosa,3,3,51,13,C,C,29.07.22,pink,orange,S22,R092,9,,x,x,,-,top left ,shadow problem while tracking,top left 
+24248653,rec0060_colorchoice_20220809_103936.24248653,60,4,P.formosa,3,3,51,13,C,C,29.07.22,pink,orange,S22,R092,9,,x,x,,x,top left ,,top left 
+24248653,rec0063_colorchoice_20220809_122816.24248653,63,5,P.formosa,3,3,51,13,C,C,29.07.22,pink,orange,S22,R092,9,,x,x,,x,top left ,,top left 
+24248653,rec0066_colorchoice_20220809_143954.24248653,66,6,P.formosa,3,3,51,13,C,C,29.07.22,pink,orange,S22,R092,9,,x,x,,x,top left ,,top left 
+24248653,rec0069_colorchoice_20220809_162227.24248653,69,7,P.formosa,3,3,51,13,C,C,29.07.22,pink,orange,S22,R092,9,,x,x,,-,top left ,shadow problem while tracking,top left 
+24248653,rec0048_colorchoice_20220808_103140.24248653,48,0,P.formosa,3,3,52,13,C,C,29.07.22,pink,orange,S22,R092,11,,x,x,,-,bottom right,shadow problem while tracking,bottom right
+24248653,rec0051_colorchoice_20220808_121642.24248653,51,1,P.formosa,3,3,52,13,C,C,29.07.22,pink,orange,S22,R092,11,,x,x,,x,bottom right,,bottom right
+24248653,rec0054_colorchoice_20220808_142014.24248653,54,2,P.formosa,3,3,52,13,C,C,29.07.22,pink,orange,S22,R092,11,,x,x,,x,bottom right,,bottom right
+24248653,rec0057_colorchoice_20220808_161913.24248653,57,3,P.formosa,3,3,52,13,C,C,29.07.22,pink,orange,S22,R092,11,,x,x,,-,bottom right,shadow problem while tracking,bottom right
+24248653,rec0060_colorchoice_20220809_103936.24248653,60,4,P.formosa,3,3,52,13,C,C,29.07.22,pink,orange,S22,R092,11,,x,x,,x,bottom right,,bottom right
+24248653,rec0063_colorchoice_20220809_122816.24248653,63,5,P.formosa,3,3,52,13,C,C,29.07.22,pink,orange,S22,R092,11,,x,x,,-,bottom right,shadow problem while tracking,bottom right
+24248653,rec0066_colorchoice_20220809_143954.24248653,66,6,P.formosa,3,3,52,13,C,C,29.07.22,pink,orange,S22,R092,11,,x,x,,x,bottom right,,bottom right
+24248653,rec0069_colorchoice_20220809_162227.24248653,66,7,P.formosa,3,3,52,13,C,C,29.07.22,pink,orange,S22,R092,11,,x,x,,-,bottom right,shadow problem while tracking,bottom right
+24248662,rec0050_colorchoice_20220808_103140.24248662,50,0,P.formosa,3,3,53,14,C,C,29.07.22,black,orange,S14,R076,5,,x,x,,x,top left,,top left
+24248662,rec0053_colorchoice_20220808_121642.24248662,53,1,P.formosa,3,3,53,14,C,C,29.07.22,black,orange,S14,R076,5,,x,x,,x,top left,,top left
+24248662,rec0056_colorchoice_20220808_142014.24248662,56,2,P.formosa,3,3,53,14,C,C,29.07.22,black,orange,S14,R076,5,,x,x,,x,top left,,top left
+24248662,rec0059_colorchoice_20220808_161913.24248662,59,3,P.formosa,3,3,53,14,C,C,29.07.22,black,orange,S14,R076,5,,x,x,,-,top left,shadow problem while tracking,top left
+24248662,rec0062_colorchoice_20220809_103936.24248662,62,4,P.formosa,3,3,53,14,C,C,29.07.22,black,orange,S14,R076,5,,x,x,,x,top left,,top left
+24248662,rec0065_colorchoice_20220809_122816.24248662,65,5,P.formosa,3,3,53,14,C,C,29.07.22,black,orange,S14,R076,5,,x,x,,x,top left,,top left
+24248662,rec0068_colorchoice_20220809_143954.24248662,68,6,P.formosa,3,3,53,14,C,C,29.07.22,black,orange,S14,R076,5,,x,x,,x,top left,,top left
+24248662,rec0071_colorchoice_20220809_162227.24248662,71,7,P.formosa,3,3,53,14,C,C,29.07.22,black,orange,S14,R076,5,,x,x,,x,top left,,top left
+24248662,rec0050_colorchoice_20220808_103140.24248662,50,0,P.formosa,3,3,54,14,C,C,29.07.22,black,orange,S14,R076,8,,x,x,,x,bottom left,,bottom left
+24248662,rec0053_colorchoice_20220808_121642.24248662,53,1,P.formosa,3,3,54,14,C,C,29.07.22,black,orange,S14,R076,8,,x,x,,x,bottom left,,bottom left
+24248662,rec0056_colorchoice_20220808_142014.24248662,56,2,P.formosa,3,3,54,14,C,C,29.07.22,black,orange,S14,R076,8,,x,x,,x,bottom left,,bottom left
+24248662,rec0059_colorchoice_20220808_161913.24248662,59,3,P.formosa,3,3,54,14,C,C,29.07.22,black,orange,S14,R076,8,,x,x,,-,bottom left,shadow problem while tracking,bottom left
+24248662,rec0062_colorchoice_20220809_103936.24248662,62,4,P.formosa,3,3,54,14,C,C,29.07.22,black,orange,S14,R076,8,,x,x,,x,bottom left,,bottom left
+24248662,rec0065_colorchoice_20220809_122816.24248662,65,5,P.formosa,3,3,54,14,C,C,29.07.22,black,orange,S14,R076,8,,x,x,,x,bottom left,,bottom left
+24248662,rec0068_colorchoice_20220809_143954.24248662,68,6,P.formosa,3,3,54,14,C,C,29.07.22,black,orange,S14,R076,8,,x,x,,x,bottom left,,bottom left
+24248662,rec0071_colorchoice_20220809_162227.24248662,69,7,P.formosa,3,3,54,14,C,C,29.07.22,black,orange,S14,R076,8,,x,x,,x,bottom left,,bottom left
+24248658,rec0049_doorchoice_20220808_103213.24248658,49,0,P.formosa,3,3,55,14,D,D,29.07.22,black,red,S14,R080,13,,,,,,top left,,top left
+24248658,rec0052_doorchoice_20220808_121714.24248658,52,1,P.formosa,3,3,55,14,D,D,29.07.22,black,red,S14,R080,13,,,,,,top left,,top left
+24248658,rec0055_doorchoice_20220808_142045.24248658,55,2,P.formosa,3,3,55,14,D,D,29.07.22,black,red,S14,R080,13,,,,,,top left,,top left
+24248658,rec0058_doorchoice_20220808_161942.24248658,58,3,P.formosa,3,3,55,14,D,D,29.07.22,black,red,S14,R080,13,,,,,,top left,,top left
+24248658,rec0061_doorchoice_20220809_104006.24248658,61,4,P.formosa,3,3,55,14,D,D,29.07.22,black,red,S14,R080,13,,,,,,top left,,top left
+24248658,rec0064_doorchoice_20220809_122911.24248658,64,5,P.formosa,3,3,55,14,D,D,29.07.22,black,red,S14,R080,13,,,,,,top left,,top left
+24248658,rec0067_doorchoice_20220809_144020.24248658,67,6,P.formosa,3,3,55,14,D,D,29.07.22,black,red,S14,R080,13,,,,,,top left,,top left
+24248658,rec0070_doorchoice_20220809_162305.24248658,70,7,P.formosa,3,3,55,14,D,D,29.07.22,black,red,S14,R080,13,,,,,,top left,,top left
+24248661,rec0050_doorchoice_20220808_103213.24248661,50,0,P.formosa,3,3,56,14,D,D,29.07.22,black,red,S14,R080,18,,,,,,top right ,,top right 
+24248661,rec0053_doorchoice_20220808_121714.24248661,53,1,P.formosa,3,3,56,14,D,D,29.07.22,black,red,S14,R080,18,,,,,,top right ,,top right 
+24248661,rec0056_doorchoice_20220808_142045.24248661,56,2,P.formosa,3,3,56,14,D,D,29.07.22,black,red,S14,R080,18,,,,,,top right ,,top right 
+24248661,rec0059_doorchoice_20220808_161942.24248661,59,3,P.formosa,3,3,56,14,D,D,29.07.22,black,red,S14,R080,18,,,,,,top right ,,top right 
+24248661,rec0062_doorchoice_20220809_104006.24248661,62,4,P.formosa,3,3,56,14,D,D,29.07.22,black,red,S14,R080,18,,,,,,top right ,,top right 
+24248661,rec0065_doorchoice_20220809_122911.24248661,65,5,P.formosa,3,3,56,14,D,D,29.07.22,black,red,S14,R080,18,,,,,,top right ,,top right 
+24248661,rec0068_doorchoice_20220809_144020.24248661,68,6,P.formosa,3,3,56,14,D,D,29.07.22,black,red,S14,R080,18,,,,,,top right ,,top right 
+24248661,rec0071_doorchoice_20220809_162305.24248661,71,7,P.formosa,3,3,56,14,D,D,29.07.22,black,red,S14,R080,18,,,,,,top right ,,top right 
+24248657,rec0048_doorchoice_20220808_103213.24248657,48,0,P.formosa,3,3,57,15,D,D,29.07.22,red,red,S19,R089,23,,,,,,bottom right,,bottom right
+24248657,rec0051_doorchoice_20220808_121714.24248657,51,1,P.formosa,3,3,57,15,D,D,29.07.22,red,red,S19,R089,23,,,,,,bottom right,,bottom right
+24248657,rec0054_doorchoice_20220808_142045.24248657,54,2,P.formosa,3,3,57,15,D,D,29.07.22,red,red,S19,R089,23,,,,,,bottom right,,bottom right
+24248657,rec0057_doorchoice_20220808_161942.24248657,57,3,P.formosa,3,3,57,15,D,D,29.07.22,red,red,S19,R089,23,,,,,,bottom right,,bottom right
+24248657,rec0060_doorchoice_20220809_104006.24248657,60,4,P.formosa,3,3,57,15,D,D,29.07.22,red,red,S19,R089,23,,,,,,bottom right,,bottom right
+24248657,rec0063_doorchoice_20220809_122911.24248657,63,5,P.formosa,3,3,57,15,D,D,29.07.22,red,red,S19,R089,23,,,,,,bottom right,,bottom right
+24248657,rec0066_doorchoice_20220809_144020.24248657,66,6,P.formosa,3,3,57,15,D,D,29.07.22,red,red,S19,R089,23,,,,,,bottom right,,bottom right
+24248657,rec0069_doorchoice_20220809_162305.24248657,69,7,P.formosa,3,3,57,15,D,D,29.07.22,red,red,S19,R089,23,,,,,,bottom right,,bottom right
+24248658,rec0050_doorchoice_20220808_103213.24248661,50,0,P.formosa,3,3,58,15,D,D,29.07.22,red,red,S19,R089,16,,,,,,bottom left,,bottom left
+24248658,rec0053_doorchoice_20220808_121714.24248661,53,1,P.formosa,3,3,58,15,D,D,29.07.22,red,red,S19,R089,16,,,,,,bottom left,,bottom left
+24248658,rec0056_doorchoice_20220808_142045.24248661,56,2,P.formosa,3,3,58,15,D,D,29.07.22,red,red,S19,R089,16,,,,,,bottom left,,bottom left
+24248658,rec0059_doorchoice_20220808_161942.24248661,59,3,P.formosa,3,3,58,15,D,D,29.07.22,red,red,S19,R089,16,,,,,,bottom left,,bottom left
+24248658,rec0062_doorchoice_20220809_104006.24248661,62,4,P.formosa,3,3,58,15,D,D,29.07.22,red,red,S19,R089,16,,,,,,bottom left,,bottom left
+24248658,rec0065_doorchoice_20220809_122911.24248661,65,5,P.formosa,3,3,58,15,D,D,29.07.22,red,red,S19,R089,16,,,,,,bottom left,,bottom left
+24248658,rec0068_doorchoice_20220809_144020.24248661,68,6,P.formosa,3,3,58,15,D,D,29.07.22,red,red,S19,R089,16,,,,,,bottom left,,bottom left
+24248658,rec0070_doorchoice_20220809_162305.24248658,70,7,P.formosa,3,3,58,15,D,D,29.07.22,red,red,S19,R089,16,,,,,,bottom left,,bottom left
+24248657,rec0048_doorchoice_20220808_103213.24248657,48,0,P.formosa,3,3,59,15,D,D,29.07.22,red,red,S19,R089,21,,,,,,top left,,top right
+24248657,rec0051_doorchoice_20220808_121714.24248657,51,1,P.formosa,3,3,59,15,D,D,29.07.22,red,red,S19,R089,21,,,,,,top left,,top right
+24248657,rec0054_doorchoice_20220808_142045.24248657,54,2,P.formosa,3,3,59,15,D,D,29.07.22,red,red,S19,R089,21,,,,,,top left,,top right
+24248657,rec0057_doorchoice_20220808_161942.24248657,57,3,P.formosa,3,3,59,15,D,D,29.07.22,red,red,S19,R089,21,,,,,,top left,,top right
+24248657,rec0060_doorchoice_20220809_104006.24248657,60,4,P.formosa,3,3,59,15,D,D,29.07.22,red,red,S19,R089,21,,,,,,top left,,top right
+24248657,rec0063_doorchoice_20220809_122911.24248657,63,5,P.formosa,3,3,59,15,D,D,29.07.22,red,red,S19,R089,21,,,,,,top left,,top right
+24248657,rec0066_doorchoice_20220809_144020.24248657,66,6,P.formosa,3,3,59,15,D,D,29.07.22,red,red,S19,R089,21,,,,,,top left,,top right
+24248657,rec0069_doorchoice_20220809_162305.24248657,69,7,P.formosa,3,3,59,15,D,D,29.07.22,red,red,S19,R089,21,,,,,,top left,,top right
+24248661,rec0050_doorchoice_20220808_103213.24248661,50,0,P.formosa,3,3,60,15,D,D,29.07.22,red,red,S19,R089,20,,,,,,bottom left,,bottom left
+24248661,rec0053_doorchoice_20220808_121714.24248661,53,1,P.formosa,3,3,60,15,D,D,29.07.22,red,red,S19,R089,20,,,,,,bottom left,,bottom left
+24248661,rec0056_doorchoice_20220808_142045.24248661,56,2,P.formosa,3,3,60,15,D,D,29.07.22,red,red,S19,R089,20,,,,,,bottom left,,bottom left
+24248661,rec0059_doorchoice_20220808_161942.24248661,59,3,P.formosa,3,3,60,15,D,D,29.07.22,red,red,S19,R089,20,,,,,,bottom left,,bottom left
+24248661,rec0062_doorchoice_20220809_104006.24248661,62,4,P.formosa,3,3,60,15,D,D,29.07.22,red,red,S19,R089,20,,,,,,bottom left,,bottom left
+24248661,rec0065_doorchoice_20220809_122911.24248661,65,5,P.formosa,3,3,60,15,D,D,29.07.22,red,red,S19,R089,20,,,,,,bottom left,,bottom left
+24248661,rec0068_doorchoice_20220809_144020.24248661,68,6,P.formosa,3,3,60,15,D,D,29.07.22,red,red,S19,R089,20,,,,,,bottom left,,bottom left
+24248661,rec0071_doorchoice_20220809_162305.24248661,71,7,P.formosa,3,3,60,15,D,D,29.07.22,red,red,S19,R089,20,,,,,,bottom left,,bottom left
+24248654,rec0049_colorchoice_20220808_112249.24248654,49,0,P.formosa,3,3,61,16,N,N,29.07.22,blue,black,S26,R095,3,,x,x,,x,bottom right ,,bottom right 
+24248654,rec0052_colorchoice_20220808_121642.24248654,52,1,P.formosa,3,3,61,16,N,N,29.07.22,blue,black,S26,R095,3,,x,x,,x,bottom right ,,bottom right 
+24248654,rec0055_colorchoice_20220808_142014.24248654,55,2,P.formosa,3,3,61,16,N,N,29.07.22,blue,black,S26,R095,3,,x,x,,x,bottom right ,,bottom right 
+24248654,rec0058_colorchoice_20220808_161913.24248654,58,3,P.formosa,3,3,61,16,N,N,29.07.22,blue,black,S26,R095,3,,x,x,,x,bottom right ,,bottom right 
+24248654,rec0061_colorchoice_20220809_103936.24248654,61,4,P.formosa,3,3,61,16,N,N,29.07.22,blue,black,S26,R095,3,,x,x,,x,bottom right ,,bottom right 
+24248654,rec0064_colorchoice_20220809_122816.24248654,64,5,P.formosa,3,3,61,16,N,N,29.07.22,blue,black,S26,R095,3,,x,x,,x,bottom right ,,bottom right 
+24248654,rec0067_colorchoice_20220809_143954.24248654,67,6,P.formosa,3,3,61,16,N,N,29.07.22,blue,black,S26,R095,3,,x,x,,x,bottom right ,,bottom right 
+24248654,rec0070_colorchoice_20220809_162227.24248654,70,7,P.formosa,3,3,61,16,N,N,29.07.22,blue,black,S26,R095,3,,x,x,,x,bottom right ,,bottom right 
+24248653,rec0048_colorchoice_20220808_103140.24248653,48,0,P.formosa,3,3,62,16,N,N,29.07.22,blue,black,S26,R095,10,,x,x,,-,top right,"Jumped and Died after day I, shadow problem while tracking",top right
+24248653,rec0051_colorchoice_20220808_121642.24248653,51,1,P.formosa,3,3,62,16,N,N,29.07.22,blue,black,S26,R095,10,,x,x,,x,top right,Jumped and Died after day I,top right
+24248653,rec0054_colorchoice_20220808_142014.24248653,54,2,P.formosa,3,3,62,16,N,N,29.07.22,blue,black,S26,R095,10,,x,x,,x,top right,Jumped and Died after day I,top right
+24248653,rec0057_colorchoice_20220808_161913.24248653,57,3,P.formosa,3,3,62,16,N,N,29.07.22,blue,black,S26,R095,10,,x,x,,-,top right,"Jumped and Died after day I, shadow problem while tracking",top right
+24248658,rec0049_doorchoice_20220808_103213.24248658,49,0,P.formosa,3,3,63,16,N,N,29.07.22,blue,black,S26,R095,14,,,,,,top right,,top right
+24248658,rec0052_doorchoice_20220808_121714.24248658,52,1,P.formosa,3,3,63,16,N,N,29.07.22,blue,black,S26,R095,14,,,,,,top right,,top right
+24248658,rec0055_doorchoice_20220808_142045.24248658,55,2,P.formosa,3,3,63,16,N,N,29.07.22,blue,black,S26,R095,14,,,,,,top right,,top right
+24248658,rec0058_doorchoice_20220808_161942.24248658,58,3,P.formosa,3,3,63,16,N,N,29.07.22,blue,black,S26,R095,14,,,,,,top right,,top right
+24248658,rec0061_doorchoice_20220809_104006.24248658,61,4,P.formosa,3,3,63,16,N,N,29.07.22,blue,black,S26,R095,14,,,,,,top right,,top right
+24248658,rec0064_doorchoice_20220809_122911.24248658,64,5,P.formosa,3,3,63,16,N,N,29.07.22,blue,black,S26,R095,14,,,,,,top right,,top right
+24248658,rec0067_doorchoice_20220809_144020.24248658,67,6,P.formosa,3,3,63,16,N,N,29.07.22,blue,black,S26,R095,14,,,,,,top right,,top right
+24248658,rec0070_doorchoice_20220809_162305.24248658,70,7,P.formosa,3,3,63,16,N,N,29.07.22,blue,black,S26,R095,14,,,,,,top right,,top right
+24248657,rec0048_doorchoice_20220808_103213.24248657,48,0,P.formosa,3,3,64,16,N,N,29.07.22,blue,black,S26,R095,24,,,,,,bottom left ,,bottom left 
+24248657,rec0051_doorchoice_20220808_121714.24248657,51,1,P.formosa,3,3,64,16,N,N,29.07.22,blue,black,S26,R095,24,,,,,,bottom left ,,bottom left 
+24248657,rec0054_doorchoice_20220808_142045.24248657,54,2,P.formosa,3,3,64,16,N,N,29.07.22,blue,black,S26,R095,24,,,,,,bottom left ,,bottom left 
+24248657,rec0057_doorchoice_20220808_161942.24248657,57,3,P.formosa,3,3,64,16,N,N,29.07.22,blue,black,S26,R095,24,,,,,,bottom left ,,bottom left 
+24248657,rec0060_doorchoice_20220809_104006.24248657,60,4,P.formosa,3,3,64,16,N,N,29.07.22,blue,black,S26,R095,24,,,,,,bottom left ,,bottom left 
+24248657,rec0063_doorchoice_20220809_122911.24248657,63,5,P.formosa,3,3,64,16,N,N,29.07.22,blue,black,S26,R095,24,,,,,,bottom left ,,bottom left 
+24248657,rec0066_doorchoice_20220809_144020.24248657,66,6,P.formosa,3,3,64,16,N,N,29.07.22,blue,black,S26,R095,24,,,,,,bottom left ,,bottom left 
+24248657,rec0069_doorchoice_20220809_162305.24248657,69,7,P.formosa,3,3,64,16,N,N,29.07.22,blue,black,S26,R095,24,,,,,,bottom left ,,bottom left 
+24248662,rec0050_colorchoice_20220808_103140.24248662,50,0,P.formosa,3,6,65,17,C,C,29.07.22,orange,orange,S20,R086,7,,x,x,,x,bottom right ,,bottom right 
+24248662,rec0053_colorchoice_20220808_121642.24248662,53,1,P.formosa,3,6,65,17,C,C,29.07.22,orange,orange,S20,R086,7,,x,x,,x,bottom right ,,bottom right 
+24248662,rec0056_colorchoice_20220808_142014.24248662,56,2,P.formosa,3,6,65,17,C,C,29.07.22,orange,orange,S20,R086,7,,x,x,,x,bottom right ,,bottom right 
+24248662,rec0059_colorchoice_20220808_161913.24248662,59,3,P.formosa,3,6,65,17,C,C,29.07.22,orange,orange,S20,R086,7,,x,x,,-,bottom right ,shadow problem while tracking,bottom right 
+24248662,rec0062_colorchoice_20220809_103936.24248662,62,4,P.formosa,3,6,65,17,C,C,29.07.22,orange,orange,S20,R086,7,,x,x,,x,bottom right ,,bottom right 
+24248662,rec0065_colorchoice_20220809_122816.24248662,65,5,P.formosa,3,6,65,17,C,C,29.07.22,orange,orange,S20,R086,7,,x,x,,x,bottom right ,,bottom right 
+24248662,rec0068_colorchoice_20220809_143954.24248662,68,6,P.formosa,3,6,65,17,C,C,29.07.22,orange,orange,S20,R086,7,,x,x,,x,bottom right ,,bottom right 
+24248662,rec0071_colorchoice_20220809_162227.24248662,71,7,P.formosa,3,6,65,17,C,C,29.07.22,orange,orange,S20,R086,7,,x,x,,x,bottom right ,,bottom right 
+24248654,rec0049_colorchoice_20220808_112249.24248654,49,0,P.formosa,3,6,66,17,C,C,29.07.22,orange,orange,S20,R086,4,,x,x,,x,bottom left ,,bottom left 
+24248654,rec0052_colorchoice_20220808_121642.24248654,52,1,P.formosa,3,6,66,17,C,C,29.07.22,orange,orange,S20,R086,4,,x,x,,x,bottom left ,,bottom left 
+24248654,rec0055_colorchoice_20220808_142014.24248654,55,2,P.formosa,3,6,66,17,C,C,29.07.22,orange,orange,S20,R086,4,,x,x,,x,bottom left ,,bottom left 
+24248654,rec0058_colorchoice_20220808_161913.24248654,58,3,P.formosa,3,6,66,17,C,C,29.07.22,orange,orange,S20,R086,4,,x,x,,x,bottom left ,,bottom left 
+24248654,rec0061_colorchoice_20220809_103936.24248654,61,4,P.formosa,3,6,66,17,C,C,29.07.22,orange,orange,S20,R086,4,,x,x,,x,bottom left ,,bottom left 
+24248654,rec0064_colorchoice_20220809_122816.24248654,64,5,P.formosa,3,6,66,17,C,C,29.07.22,orange,orange,S20,R086,4,,x,x,,x,bottom left ,,bottom left 
+24248654,rec0067_colorchoice_20220809_143954.24248654,67,6,P.formosa,3,6,66,17,C,C,29.07.22,orange,orange,S20,R086,4,,x,x,,x,bottom left ,,bottom left 
+24248654,rec0070_colorchoice_20220809_162227.24248654,70,7,P.formosa,3,6,66,17,C,C,29.07.22,orange,orange,S20,R086,4,,x,x,,x,bottom left ,,bottom left 
+24248654,rec0049_colorchoice_20220808_112249.24248654,49,0,P.formosa,3,6,67,17,C,C,29.07.22,orange,orange,S20,R086,2,,x,x,,x,top right,,top right
+24248654,rec0052_colorchoice_20220808_121642.24248654,52,1,P.formosa,3,6,67,17,C,C,29.07.22,orange,orange,S20,R086,2,,x,x,,x,top right,,top right
+24248654,rec0055_colorchoice_20220808_142014.24248654,55,2,P.formosa,3,6,67,17,C,C,29.07.22,orange,orange,S20,R086,2,,x,x,,x,top right,,top right
+24248654,rec0058_colorchoice_20220808_161913.24248654,58,3,P.formosa,3,6,67,17,C,C,29.07.22,orange,orange,S20,R086,2,,x,x,,x,top right,,top right
+24248654,rec0061_colorchoice_20220809_103936.24248654,61,4,P.formosa,3,6,67,17,C,C,29.07.22,orange,orange,S20,R086,2,,x,x,,x,top right,,top right
+24248654,rec0064_colorchoice_20220809_122816.24248654,64,5,P.formosa,3,6,67,17,C,C,29.07.22,orange,orange,S20,R086,2,,x,x,,x,top right,,top right
+24248654,rec0067_colorchoice_20220809_143954.24248654,67,6,P.formosa,3,6,67,17,C,C,29.07.22,orange,orange,S20,R086,2,,x,x,,x,top right,,top right
+24248654,rec0070_colorchoice_20220809_162227.24248654,70,7,P.formosa,3,6,67,17,C,C,29.07.22,orange,orange,S20,R086,2,,x,x,,x,top right,,top right
+24248654,rec0049_colorchoice_20220808_112249.24248654,49,0,P.formosa,3,6,68,17,C,C,29.07.22,orange,orange,S20,R086,1,,x,x,,x,top left ,,top left 
+24248654,rec0052_colorchoice_20220808_121642.24248654,52,1,P.formosa,3,6,68,17,C,C,29.07.22,orange,orange,S20,R086,1,,x,x,,x,top left ,the bowl is missing,top left 
+24248654,rec0055_colorchoice_20220808_142014.24248654,55,2,P.formosa,3,6,68,17,C,C,29.07.22,orange,orange,S20,R086,1,,x,x,,x,top left ,,top left 
+24248654,rec0058_colorchoice_20220808_161913.24248654,58,3,P.formosa,3,6,68,17,C,C,29.07.22,orange,orange,S20,R086,1,,x,x,,x,top left ,,top left 
+24248654,rec0061_colorchoice_20220809_103936.24248654,61,4,P.formosa,3,6,68,17,C,C,29.07.22,orange,orange,S20,R086,1,,x,x,,x,top left ,,top left 
+24248654,rec0064_colorchoice_20220809_122816.24248654,64,5,P.formosa,3,6,68,17,C,C,29.07.22,orange,orange,S20,R086,1,,x,x,,x,top left ,,top left 
+24248654,rec0067_colorchoice_20220809_143954.24248654,67,6,P.formosa,3,6,68,17,C,C,29.07.22,orange,orange,S20,R086,1,,x,x,,x,top left ,,top left 
+24248654,rec0070_colorchoice_20220809_162227.24248654,70,7,P.formosa,3,6,68,17,C,C,29.07.22,orange,orange,S20,R086,1,,x,x,,x,top left ,,top left 
+24248657,rec0048_doorchoice_20220808_103213.24248657,48,0,P.formosa,3,6,69,18,D,D,29.07.22,orange,red,S20,R071,22,,,,,,top right ,,top left
+24248657,rec0051_doorchoice_20220808_121714.24248657,51,1,P.formosa,3,6,69,18,D,D,29.07.22,orange,red,S20,R071,22,,,,,,top right ,,top left
+24248657,rec0054_doorchoice_20220808_142045.24248657,54,2,P.formosa,3,6,69,18,D,D,29.07.22,orange,red,S20,R071,22,,,,,,top right ,,top left
+24248657,rec0057_doorchoice_20220808_161942.24248657,57,3,P.formosa,3,6,69,18,D,D,29.07.22,orange,red,S20,R071,22,,,,,,top right ,,top left
+24248657,rec0060_doorchoice_20220809_104006.24248657,60,4,P.formosa,3,6,69,18,D,D,29.07.22,orange,red,S20,R071,22,,,,,,top right ,,top left
+24248657,rec0063_doorchoice_20220809_122911.24248657,63,5,P.formosa,3,6,69,18,D,D,29.07.22,orange,red,S20,R071,22,,,,,,top right ,,top left
+24248657,rec0066_doorchoice_20220809_144020.24248657,66,6,P.formosa,3,6,69,18,D,D,29.07.22,orange,red,S20,R071,22,,,,,,top right ,,top left
+24248657,rec0069_doorchoice_20220809_162305.24248657,69,7,P.formosa,3,6,69,18,D,D,29.07.22,orange,red,S20,R071,22,,,,,,top right ,,top left
+24248661,rec0050_doorchoice_20220808_103213.24248661,50,0,P.formosa,3,6,70,18,D,D,29.07.22,orange,red,S20,R071,17,,,,,,top left ,,top left 
+24248661,rec0053_doorchoice_20220808_121714.24248661,53,1,P.formosa,3,6,70,18,D,D,29.07.22,orange,red,S20,R071,17,,,,,,top left ,,top left 
+24248661,rec0056_doorchoice_20220808_142045.24248661,56,2,P.formosa,3,6,70,18,D,D,29.07.22,orange,red,S20,R071,17,,,,,,top left ,,top left 
+24248661,rec0059_doorchoice_20220808_161942.24248661,59,3,P.formosa,3,6,70,18,D,D,29.07.22,orange,red,S20,R071,17,,,,,,top left ,,top left 
+24248661,rec0062_doorchoice_20220809_104006.24248661,62,4,P.formosa,3,6,70,18,D,D,29.07.22,orange,red,S20,R071,17,,,,,,top left ,,top left 
+24248661,rec0065_doorchoice_20220809_122911.24248661,65,5,P.formosa,3,6,70,18,D,D,29.07.22,orange,red,S20,R071,17,,,,,,top left ,,top left 
+24248661,rec0068_doorchoice_20220809_144020.24248661,68,6,P.formosa,3,6,70,18,D,D,29.07.22,orange,red,S20,R071,17,,,,,,top left ,,top left 
+24248661,rec0071_doorchoice_20220809_162305.24248661,71,7,P.formosa,3,6,70,18,D,D,29.07.22,orange,red,S20,R071,17,,,,,,top left ,,top left 
+24248661,rec0050_doorchoice_20220808_103213.24248661,50,0,P.formosa,3,6,71,18,D,D,29.07.22,orange,red,S20,R071,19,,,,,,bottom right,,bottom right
+24248661,rec0053_doorchoice_20220808_121714.24248661,53,1,P.formosa,3,6,71,18,D,D,29.07.22,orange,red,S20,R071,19,,,,,,bottom right,,bottom right
+24248661,rec0056_doorchoice_20220808_142045.24248661,56,2,P.formosa,3,6,71,18,D,D,29.07.22,orange,red,S20,R071,19,,,,,,bottom right,,bottom right
+24248661,rec0059_doorchoice_20220808_161942.24248661,59,3,P.formosa,3,6,71,18,D,D,29.07.22,orange,red,S20,R071,19,,,,,,bottom right,,bottom right
+24248661,rec0062_doorchoice_20220809_104006.24248661,62,4,P.formosa,3,6,71,18,D,D,29.07.22,orange,red,S20,R071,19,,,,,,bottom right,,bottom right
+24248661,rec0065_doorchoice_20220809_122911.24248661,65,5,P.formosa,3,6,71,18,D,D,29.07.22,orange,red,S20,R071,19,,,,,,bottom right,,bottom right
+24248661,rec0068_doorchoice_20220809_144020.24248661,68,6,P.formosa,3,6,71,18,D,D,29.07.22,orange,red,S20,R071,19,,,,,,bottom right,,bottom right
+24248661,rec0071_doorchoice_20220809_162305.24248661,71,7,P.formosa,3,6,71,18,D,D,29.07.22,orange,red,S20,R071,19,,,,,,bottom right,,bottom right
+24248658,rec0049_doorchoice_20220808_103213.24248658,49,0,P.formosa,3,6,72,18,D,D,29.07.22,orange,red,S20,R071,15,,,,,,bottom right ,,bottom right 
+24248658,rec0052_doorchoice_20220808_121714.24248658,52,1,P.formosa,3,6,72,18,D,D,29.07.22,orange,red,S20,R071,15,,,,,,bottom right ,,bottom right 
+24248658,rec0055_doorchoice_20220808_142045.24248658,55,2,P.formosa,3,6,72,18,D,D,29.07.22,orange,red,S20,R071,15,,,,,,bottom right ,,bottom right 
+24248658,rec0058_doorchoice_20220808_161942.24248658,58,3,P.formosa,3,6,72,18,D,D,29.07.22,orange,red,S20,R071,15,,,,,,bottom right ,,bottom right 
+24248658,rec0061_doorchoice_20220809_104006.24248658,61,4,P.formosa,3,6,72,18,D,D,29.07.22,orange,red,S20,R071,15,,,,,,bottom right ,,bottom right 
+24248658,rec0064_doorchoice_20220809_122911.24248658,64,5,P.formosa,3,6,72,18,D,D,29.07.22,orange,red,S20,R071,15,,,,,,bottom right ,,bottom right 
+24248658,rec0067_doorchoice_20220809_144020.24248658,67,6,P.formosa,3,6,72,18,D,D,29.07.22,orange,red,S20,R071,15,,,,,,bottom right ,,bottom right 
+24248658,rec0070_doorchoice_20220809_162305.24248658,70,7,P.formosa,3,6,72,18,D,D,29.07.22,orange,red,S20,R071,15,,,,,,bottom right ,,bottom right 
+24248653,rec0072_colorchoice_20220810_112106.24248653,72,0,P.formosa,4,4,73,19,C,C,29.07.22,red,orange,S19,R088,11,,x,x,,x,bottom right,,bottom right
+24248653,rec0075_colorchoice_20220810_122814.24248653,75,1,P.formosa,4,4,73,19,C,C,29.07.22,red,orange,S19,R088,11,,x,-,,-,bottom right,tracking error,bottom right
+24248653,rec0078_colorchoice_20220810_143344.24248653,78,2,P.formosa,4,4,73,19,C,C,29.07.22,red,orange,S19,R088,11,,x,x,,x,bottom right,,bottom right
+24248653,rec0081_colorchoice_20220810_162300.24248653,81,3,P.formosa,4,4,73,19,C,C,29.07.22,red,orange,S19,R088,11,,x,x,,x,bottom right,,bottom right
+24248653,rec0084_colorchoice_20220811_104218.24248653,84,4,P.formosa,4,4,73,19,C,C,29.07.22,red,orange,S19,R088,11,,x,x,,x,bottom right,,bottom right
+24248653,rec0087_colorchoice_20220811_125141.24248653,87,5,P.formosa,4,4,73,19,C,C,29.07.22,red,orange,S19,R088,11,,x,x,,-,bottom right,fish at the edge of the tank not tracked ,bottom right
+24248653,rec0090_colorchoice_20220811_143456.24248653,90,6,P.formosa,4,4,73,19,C,C,29.07.22,red,orange,S19,R088,11,,x,x,,-,bottom right,fish at the edge of the tank not tracked ,bottom right
+24248653,rec0093_colorchoice_20220811_162710.24248653,93,7,P.formosa,4,4,73,19,C,C,29.07.22,red,orange,S19,R088,11,,x,-,,-,bottom right,tracking error,bottom right
+24248654,rec0073_colorchoice_20220810_112106.24248654,73,0,P.formosa,4,4,74,19,C,C,29.07.22,red,orange,S19,R088,1,,x,x,,x,top left,,top left
+24248654,rec0076_colorchoice_20220810_122814.24248654,76,0,P.formosa,4,4,74,19,C,C,29.07.22,red,orange,S19,R088,1,,x,-,,-,top left,tracking error,top left
+24248654,rec0079_colorchoice_20220810_143344.24248654,79,1,P.formosa,4,4,74,19,C,C,29.07.22,red,orange,S19,R088,1,,x,x,,x,top left,,top left
+24248654,rec0082_colorchoice_20220810_162300.24248654,82,2,P.formosa,4,4,74,19,C,C,29.07.22,red,orange,S19,R088,1,,x,x,,-,top left,shadow,top left
+24248654,rec0085_colorchoice_20220811_104218.24248654,85,3,P.formosa,4,4,74,19,C,C,29.07.22,red,orange,S19,R088,1,,x,x,,x,top left,,top left
+24248654,rec0088_colorchoice_20220811_125141.24248654,88,4,P.formosa,4,4,74,19,C,C,29.07.22,red,orange,S19,R088,1,,x,x,,-,top left,"camera 24248654 died during recording, one fish didnot move not tracked",top left
+24248654,rec0091_colorchoice_20220811_143456.24248654,91,5,P.formosa,4,4,74,19,C,C,29.07.22,red,orange,S19,R088,1,,x,x,,x,top left,,top left
+24248654,rec0094_colorchoice_20220811_162710.24248654,94,6,P.formosa,4,4,74,19,C,C,29.07.22,red,orange,S19,R088,1,,x,x,,x,top left,,top left
+24248653,rec0072_colorchoice_20220810_112106.24248653,72,0,P.formosa,4,4,75,19,C,C,29.07.22,red,orange,S19,R088,12,,x,x,,x,bottom left,,bottom left
+24248653,rec0075_colorchoice_20220810_122814.24248653,75,1,P.formosa,4,4,75,19,C,C,29.07.22,red,orange,S19,R088,12,,x,-,,-,bottom left,tracking error,bottom left
+24248653,rec0078_colorchoice_20220810_143344.24248653,78,2,P.formosa,4,4,75,19,C,C,29.07.22,red,orange,S19,R088,12,,x,x,,x,bottom left,,bottom left
+24248653,rec0081_colorchoice_20220810_162300.24248653,81,3,P.formosa,4,4,75,19,C,C,29.07.22,red,orange,S19,R088,12,,x,x,,x,bottom left,,bottom left
+24248653,rec0084_colorchoice_20220811_104218.24248653,84,4,P.formosa,4,4,75,19,C,C,29.07.22,red,orange,S19,R088,12,,x,x,,x,bottom left,,bottom left
+24248653,rec0087_colorchoice_20220811_125141.24248653,87,5,P.formosa,4,4,75,19,C,C,29.07.22,red,orange,S19,R088,12,,x,x,,-,bottom left,fish at the edge of the tank not tracked ,bottom left
+24248653,rec0090_colorchoice_20220811_143456.24248653,90,6,P.formosa,4,4,75,19,C,C,29.07.22,red,orange,S19,R088,12,,x,x,,-,bottom left,fish at the edge of the tank not tracked ,bottom left
+24248653,rec0093_colorchoice_20220811_162710.24248653,93,7,P.formosa,4,4,75,19,C,C,29.07.22,red,orange,S19,R088,12,,x,-,,-,bottom left,tracking error,bottom left
+24248662,rec0074_colorchoice_20220810_112106.24248662,74,0,P.formosa,4,4,76,19,C,C,29.07.22,red,orange,S19,R088,7,,x,x,,,bottom right,,bottom right
+24248662,rec0077_colorchoice_20220810_122814.24248662,77,1,P.formosa,4,4,76,19,C,C,29.07.22,red,orange,S19,R088,7,,x,-,,-,bottom right,tracking error,bottom right
+24248662,rec0080_colorchoice_20220810_143344.24248662,80,2,P.formosa,4,4,76,19,C,C,29.07.22,red,orange,S19,R088,7,,x,x,,x,bottom right,,bottom right
+24248662,rec0083_colorchoice_20220810_162300.24248662,83,3,P.formosa,4,4,76,19,C,C,29.07.22,red,orange,S19,R088,7,,x,x,,-,bottom right,,bottom right
+24248662,rec0086_colorchoice_20220811_104218.24248662,86,4,P.formosa,4,4,76,19,C,C,29.07.22,red,orange,S19,R088,7,,x,x,,x,bottom right,,bottom right
+24248662,rec0089_colorchoice_20220811_125141.24248662,89,5,P.formosa,4,4,76,19,C,C,29.07.22,red,orange,S19,R088,7,,x,x,,x,bottom right,,bottom right
+24248662,rec0092_colorchoice_20220811_143456.24248662,92,6,P.formosa,4,4,76,19,C,C,29.07.22,red,orange,S19,R088,7,,x,x,,x,bottom right,,bottom right
+24248662,rec0095_colorchoice_20220811_162710.24248662,95,7,P.formosa,4,4,76,19,C,C,29.07.22,red,orange,S19,R088,7,,x,x,,-,bottom right,fish at the edge of the tank not tracked ,bottom right
+24248653,rec0072_colorchoice_20220810_112106.24248653,72,0,P.formosa,4,4,77,20,C,C,29.07.22,orange,orange,S20,R086,9,,x,x,,x,top left,,top left
+24248653,rec0075_colorchoice_20220810_122814.24248653,75,1,P.formosa,4,4,77,20,C,C,29.07.22,orange,orange,S20,R086,9,,x,-,,-,top left,tracking error,top left
+24248653,rec0078_colorchoice_20220810_143344.24248653,78,2,P.formosa,4,4,77,20,C,C,29.07.22,orange,orange,S20,R086,9,,x,x,,x,top left,,top left
+24248653,rec0081_colorchoice_20220810_162300.24248653,81,3,P.formosa,4,4,77,20,C,C,29.07.22,orange,orange,S20,R086,9,,x,x,,x,top left,,top left
+24248653,rec0084_colorchoice_20220811_104218.24248653,84,4,P.formosa,4,4,77,20,C,C,29.07.22,orange,orange,S20,R086,9,,x,x,,x,top left,,top left
+24248653,rec0087_colorchoice_20220811_125141.24248653,87,5,P.formosa,4,4,77,20,C,C,29.07.22,orange,orange,S20,R086,9,,x,x,,-,top left,fish at the edge of the tank not tracked ,top left
+24248653,rec0090_colorchoice_20220811_143456.24248653,90,6,P.formosa,4,4,77,20,C,C,29.07.22,orange,orange,S20,R086,9,,x,x,,-,top left,fish at the edge of the tank not tracked ,top left
+24248653,rec0093_colorchoice_20220811_162710.24248653,93,7,P.formosa,4,4,77,20,C,C,29.07.22,orange,orange,S20,R086,9,,x,-,,-,top left,tracking error,top left
+24248662,rec0074_colorchoice_20220810_112106.24248662,74,0,P.formosa,4,4,78,20,C,C,29.07.22,orange,orange,S20,R086,6,,x,x,,x,top right,,top right
+24248662,rec0077_colorchoice_20220810_122814.24248662,77,1,P.formosa,4,4,78,20,C,C,29.07.22,orange,orange,S20,R086,6,,x,-,,-,top right,tracking error,top right
+24248662,rec0080_colorchoice_20220810_143344.24248662,80,2,P.formosa,4,4,78,20,C,C,29.07.22,orange,orange,S20,R086,6,,x,x,,x,top right,,top right
+24248662,rec0083_colorchoice_20220810_162300.24248662,83,3,P.formosa,4,4,78,20,C,C,29.07.22,orange,orange,S20,R086,6,,x,x,,-,top right, fish didnot move not tracked,top right
+24248662,rec0086_colorchoice_20220811_104218.24248662,86,4,P.formosa,4,4,78,20,C,C,29.07.22,orange,orange,S20,R086,6,,x,x,,x,top right,,top right
+24248662,rec0089_colorchoice_20220811_125141.24248662,89,5,P.formosa,4,4,78,20,C,C,29.07.22,orange,orange,S20,R086,6,,x,x,,x,top right,,top right
+24248662,rec0092_colorchoice_20220811_143456.24248662,92,6,P.formosa,4,4,78,20,C,C,29.07.22,orange,orange,S20,R086,6,,x,x,,x,top right,,top right
+24248662,rec0095_colorchoice_20220811_162710.24248662,95,7,P.formosa,4,4,78,20,C,C,29.07.22,orange,orange,S20,R086,6,,x,x,,-,top right,fish at the edge of the tank not tracked ,top right
+24248657,rec0072_doorchoice_20220810_112134.24248657,72,0,P.formosa,4,4,79,20,D,D,29.07.22,orange,red,S20,R071,21,,,,,,top left,,top right
+24248657,rec0075_doorchoice_20220810_122851.24248657,75,1,P.formosa,4,4,79,20,D,D,29.07.22,orange,red,S20,R071,21,,,,,,top left,,top right
+24248657,rec0078_doorchoice_20220810_143422.24248657,78,2,P.formosa,4,4,79,20,D,D,29.07.22,orange,red,S20,R071,21,,,,,,top left,,top right
+24248657,rec0081_doorchoice_20220804_163518.24248657,81,3,P.formosa,4,4,79,20,D,D,29.07.22,orange,red,S20,R071,21,,,,,,top left,,top right
+24248657,rec0084_doorchoice_20220811_104124.24248657,84,4,P.formosa,4,4,79,20,D,D,29.07.22,orange,red,S20,R071,21,,,,,,top left,,top right
+24248657,rec0087_doorchoice_20220811_125246.24248657,87,5,P.formosa,4,4,79,20,D,D,29.07.22,orange,red,S20,R071,21,,,,,,top left,,top right
+24248657,rec0090_doorchoice_20220811_143350.24248657,90,6,P.formosa,4,4,79,20,D,D,29.07.22,orange,red,S20,R071,21,,,,,,top left,,top right
+24248657,rec0093_doorchoice_20220811_162752.24248657,93,7,P.formosa,4,4,79,20,D,D,29.07.22,orange,red,S20,R071,21,,,,,,top left,,top right
+24248658,rec0073_doorchoice_20220810_112134.24248658,73,0,P.formosa,4,4,80,20,D,D,29.07.22,orange,red,S20,R071,14,,,,,,top right,,top right
+24248658,rec0076_doorchoice_20220810_122851.24248658,76,1,P.formosa,4,4,80,20,D,D,29.07.22,orange,red,S20,R071,14,,,,,,top right,,top right
+24248658,rec0079_doorchoice_20220810_143422.24248658,79,2,P.formosa,4,4,80,20,D,D,29.07.22,orange,red,S20,R071,14,,,,,,top right,,top right
+24248658,rec0082_doorchoice_20220804_163516.24248658,82,3,P.formosa,4,4,80,20,D,D,29.07.22,orange,red,S20,R071,14,,,,,,top right,,top right
+24248658,rec0085_doorchoice_20220811_104124.24248658,85,4,P.formosa,4,4,80,20,D,D,29.07.22,orange,red,S20,R071,14,,,,,,top right,,top right
+24248658,rec0088_doorchoice_20220811_125246.24248658,88,5,P.formosa,4,4,80,20,D,D,29.07.22,orange,red,S20,R071,14,,,,,,top right,,top right
+24248658,rec0091_doorchoice_20220811_143350.24248658,91,6,P.formosa,4,4,80,20,D,D,29.07.22,orange,red,S20,R071,14,,,,,,top right,,top right
+24248658,rec0094_doorchoice_20220811_162752.24248658,94,7,P.formosa,4,4,80,20,D,D,29.07.22,orange,red,S20,R071,14,,,,,,top right,,top right
+24248657,rec0072_doorchoice_20220810_112134.24248657,72,0,P.formosa,4,4,81,21,D,D,29.07.22,black,red,S14,R080,22,,,,,,top right,,top left
+24248657,rec0075_doorchoice_20220810_122851.24248657,75,1,P.formosa,4,4,81,21,D,D,29.07.22,black,red,S14,R080,22,,,,,,top right,,top left
+24248657,rec0078_doorchoice_20220810_143422.24248657,78,2,P.formosa,4,4,81,21,D,D,29.07.22,black,red,S14,R080,22,,,,,,top right,,top left
+24248657,rec0081_doorchoice_20220804_163518.24248657,81,3,P.formosa,4,4,81,21,D,D,29.07.22,black,red,S14,R080,22,,,,,,top right,,top left
+24248657,rec0084_doorchoice_20220811_104124.24248657,84,4,P.formosa,4,4,81,21,D,D,29.07.22,black,red,S14,R080,22,,,,,,top right,,top left
+24248657,rec0087_doorchoice_20220811_125246.24248657,87,5,P.formosa,4,4,81,21,D,D,29.07.22,black,red,S14,R080,22,,,,,,top right,,top left
+24248657,rec0090_doorchoice_20220811_143350.24248657,90,6,P.formosa,4,4,81,21,D,D,29.07.22,black,red,S14,R080,22,,,,,,top right,,top left
+24248657,rec0093_doorchoice_20220811_162752.24248657,93,7,P.formosa,4,4,81,21,D,D,29.07.22,black,red,S14,R080,22,,,,,,top right,,top left
+24248658,rec0073_doorchoice_20220810_112134.24248658,73,0,P.formosa,4,4,82,21,D,D,29.07.22,black,red,S14,R080,16,,,,,,bottom left,,bottom left
+24248658,rec0076_doorchoice_20220810_122851.24248658,76,1,P.formosa,4,4,82,21,D,D,29.07.22,black,red,S14,R080,16,,,,,,bottom left,,bottom left
+24248658,rec0079_doorchoice_20220810_143422.24248658,79,2,P.formosa,4,4,82,21,D,D,29.07.22,black,red,S14,R080,16,,,,,,bottom left,,bottom left
+24248658,rec0082_doorchoice_20220804_163516.24248658,82,3,P.formosa,4,4,82,21,D,D,29.07.22,black,red,S14,R080,16,,,,,,bottom left,,bottom left
+24248658,rec0085_doorchoice_20220811_104124.24248658,85,4,P.formosa,4,4,82,21,D,D,29.07.22,black,red,S14,R080,16,,,,,,bottom left,,bottom left
+24248658,rec0088_doorchoice_20220811_125246.24248658,88,5,P.formosa,4,4,82,21,D,D,29.07.22,black,red,S14,R080,16,,,,,,bottom left,,bottom left
+24248658,rec0091_doorchoice_20220811_143350.24248658,91,6,P.formosa,4,4,82,21,D,D,29.07.22,black,red,S14,R080,16,,,,,,bottom left,,bottom left
+24248658,rec0094_doorchoice_20220811_162752.24248658,94,7,P.formosa,4,4,82,21,D,D,29.07.22,black,red,S14,R080,16,,,,,,bottom left,,bottom left
+24248661,rec0074_doorchoice_20220810_112134.24248661,74,0,P.formosa,4,4,83,21,D,D,29.07.22,black,red,S14,R080,19,,,,,,bottom right,,bottom right
+24248661,rec0077_doorchoice_20220810_122851.24248661,77,1,P.formosa,4,4,83,21,D,D,29.07.22,black,red,S14,R080,19,,,,,,bottom right,,bottom right
+24248661,rec0080_doorchoice_20220810_143422.24248661,80,2,P.formosa,4,4,83,21,D,D,29.07.22,black,red,S14,R080,19,,,,,,bottom right,,bottom right
+24248661,rec0083_doorchoice_20220804_163514.24248661,83,3,P.formosa,4,4,83,21,D,D,29.07.22,black,red,S14,R080,19,,,,,,bottom right,,bottom right
+24248661,rec0086_doorchoice_20220811_104124.24248661,86,4,P.formosa,4,4,83,21,D,D,29.07.22,black,red,S14,R080,19,,,,,,bottom right,,bottom right
+24248661,rec0089_doorchoice_20220811_125246.24248661,89,5,P.formosa,4,4,83,21,D,D,29.07.22,black,red,S14,R080,19,,,,,,bottom right,,bottom right
+24248661,rec0092_doorchoice_20220811_143350.24248661,92,6,P.formosa,4,4,83,21,D,D,29.07.22,black,red,S14,R080,19,,,,,,bottom right,,bottom right
+24248661,rec0095_doorchoice_20220811_162752.24248661,95,7,P.formosa,4,4,83,21,D,D,29.07.22,black,red,S14,R080,19,,,,,,bottom right,,bottom right
+24248657,rec0072_doorchoice_20220810_112134.24248657,72,0,P.formosa,4,4,84,21,D,D,29.07.22,black,red,S14,R080,24,,,,,,bottom left,,bottom left
+24248657,rec0075_doorchoice_20220810_122851.24248657,75,1,P.formosa,4,4,84,21,D,D,29.07.22,black,red,S14,R080,24,,,,,,bottom left,,bottom left
+24248657,rec0078_doorchoice_20220810_143422.24248657,78,2,P.formosa,4,4,84,21,D,D,29.07.22,black,red,S14,R080,24,,,,,,bottom left,,bottom left
+24248657,rec0081_doorchoice_20220804_163518.24248657,81,3,P.formosa,4,4,84,21,D,D,29.07.22,black,red,S14,R080,24,,,,,,bottom left,,bottom left
+24248657,rec0084_doorchoice_20220811_104124.24248657,84,4,P.formosa,4,4,84,21,D,D,29.07.22,black,red,S14,R080,24,,,,,,bottom left,,bottom left
+24248657,rec0087_doorchoice_20220811_125246.24248657,87,5,P.formosa,4,4,84,21,D,D,29.07.22,black,red,S14,R080,24,,,,,,bottom left,,bottom left
+24248657,rec0090_doorchoice_20220811_143350.24248657,90,6,P.formosa,4,4,84,21,D,D,29.07.22,black,red,S14,R080,24,,,,,,bottom left,,bottom left
+24248657,rec0093_doorchoice_20220811_162752.24248657,93,7,P.formosa,4,4,84,21,D,D,29.07.22,black,red,S14,R080,24,,,,,,bottom left,,bottom left
+24248654,rec0073_colorchoice_20220810_112106.24248654,73,0,P.formosa,4,4,85,22,N,N,29.07.22,red,black,S19,R087,4,,x,x,,x,bottom left,,bottom left
+24248654,rec0076_colorchoice_20220810_122814.24248654,76,1,P.formosa,4,4,85,22,N,N,29.07.22,red,black,S19,R087,4,,x,-,,-,bottom left,tracking error,bottom left
+24248654,rec0079_colorchoice_20220810_143344.24248654,79,2,P.formosa,4,4,85,22,N,N,29.07.22,red,black,S19,R087,4,,x,x,,x,bottom left,,bottom left
+24248654,rec0082_colorchoice_20220810_162300.24248654,82,3,P.formosa,4,4,85,22,N,N,29.07.22,red,black,S19,R087,4,,x,x,,-,bottom left,shadow,bottom left
+24248654,rec0085_colorchoice_20220811_104218.24248654,85,4,P.formosa,4,4,85,22,N,N,29.07.22,red,black,S19,R087,4,,x,x,,x,bottom left,,bottom left
+24248654,rec0088_colorchoice_20220811_125141.24248654,88,5,P.formosa,4,4,85,22,N,N,29.07.22,red,black,S19,R087,4,,x,x,,-,bottom left,"camera 24248654 died during recording, fish didnot move not tracked",bottom left
+24248654,rec0091_colorchoice_20220811_143456.24248654,91,6,P.formosa,4,4,85,22,N,N,29.07.22,red,black,S19,R087,4,,x,x,,x,bottom left,,bottom left
+24248654,rec0094_colorchoice_20220811_162710.24248654,94,7,P.formosa,4,4,85,22,N,N,29.07.22,red,black,S19,R087,4,,x,x,,x,bottom left,,bottom left
+24248662,rec0074_colorchoice_20220810_112106.24248662,74,0,P.formosa,4,4,86,22,N,N,29.07.22,red,black,S19,R087,5,,x,x,,x,top left,,top left
+24248662,rec0077_colorchoice_20220810_122814.24248662,77,1,P.formosa,4,4,86,22,N,N,29.07.22,red,black,S19,R087,5,,x,-,,-,top left,tracking error,top left
+24248662,rec0080_colorchoice_20220810_143344.24248662,80,2,P.formosa,4,4,86,22,N,N,29.07.22,red,black,S19,R087,5,,x,x,,x,top left,,top left
+24248662,rec0083_colorchoice_20220810_162300.24248662,83,3,P.formosa,4,4,86,22,N,N,29.07.22,red,black,S19,R087,5,,x,x,,-,top left,fish didnot move not tracked,top left
+24248662,rec0086_colorchoice_20220811_104218.24248662,86,4,P.formosa,4,4,86,22,N,N,29.07.22,red,black,S19,R087,5,,x,x,,x,top left,,top left
+24248662,rec0089_colorchoice_20220811_125141.24248662,89,5,P.formosa,4,4,86,22,N,N,29.07.22,red,black,S19,R087,5,,x,x,,x,top left,,top left
+24248662,rec0092_colorchoice_20220811_143456.24248662,92,6,P.formosa,4,4,86,22,N,N,29.07.22,red,black,S19,R087,5,,x,x,,x,top left,,top left
+24248662,rec0095_colorchoice_20220811_162710.24248662,95,7,P.formosa,4,4,86,22,N,N,29.07.22,red,black,S19,R087,5,,x,x,,-,top left,fish at the edge of the tank not tracked ,top left
+24248662,rec0074_colorchoice_20220810_112106.24248662,74,0,P.formosa,4,4,87,22,N,N,29.07.22,red,black,S19,R087,8,,x,x,,x,bottom left ,,bottom left 
+24248662,rec0077_colorchoice_20220810_122814.24248662,77,1,P.formosa,4,4,87,22,N,N,29.07.22,red,black,S19,R087,8,,x,-,,-,bottom left ,tracking error,bottom left 
+24248662,rec0080_colorchoice_20220810_143344.24248662,80,2,P.formosa,4,4,87,22,N,N,29.07.22,red,black,S19,R087,8,,x,x,,x,bottom left ,,bottom left 
+24248662,rec0083_colorchoice_20220810_162300.24248662,83,3,P.formosa,4,4,87,22,N,N,29.07.22,red,black,S19,R087,8,,x,x,,-,bottom left ,fish didnot move not tracked,bottom left 
+24248662,rec0086_colorchoice_20220811_104218.24248662,86,4,P.formosa,4,4,87,22,N,N,29.07.22,red,black,S19,R087,8,,x,x,,x,bottom left ,,bottom left 
+24248662,rec0089_colorchoice_20220811_125141.24248662,89,5,P.formosa,4,4,87,22,N,N,29.07.22,red,black,S19,R087,8,,x,x,,x,bottom left ,,bottom left 
+24248662,rec0092_colorchoice_20220811_143456.24248662,92,6,P.formosa,4,4,87,22,N,N,29.07.22,red,black,S19,R087,8,,x,x,,x,bottom left ,,bottom left 
+24248662,rec0095_colorchoice_20220811_162710.24248662,95,7,P.formosa,4,4,87,22,N,N,29.07.22,red,black,S19,R087,8,,x,x,,-,bottom left ,fish at the edge of the tank not tracked ,bottom left 
+24248653,rec0072_colorchoice_20220810_112106.24248653,72,0,P.formosa,4,4,88,22,N,N,29.07.22,red,black,S19,R087,10,,x,x,,x,top right ,,top right 
+24248653,rec0075_colorchoice_20220810_122814.24248653,75,1,P.formosa,4,4,88,22,N,N,29.07.22,red,black,S19,R087,10,,x,-,,-,top right ,tracking error,top right 
+24248653,rec0078_colorchoice_20220810_143344.24248653,78,2,P.formosa,4,4,88,22,N,N,29.07.22,red,black,S19,R087,10,,x,x,,x,top right ,,top right 
+24248653,rec0081_colorchoice_20220810_162300.24248653,81,3,P.formosa,4,4,88,22,N,N,29.07.22,red,black,S19,R087,10,,x,x,,x,top right ,,top right 
+24248653,rec0084_colorchoice_20220811_104218.24248653,84,4,P.formosa,4,4,88,22,N,N,29.07.22,red,black,S19,R087,10,,x,x,,x,top right ,,top right 
+24248653,rec0087_colorchoice_20220811_125141.24248653,87,5,P.formosa,4,4,88,22,N,N,29.07.22,red,black,S19,R087,10,,x,x,,-,top right ,fish at the edge of the tank not tracked ,top right 
+24248653,rec0090_colorchoice_20220811_143456.24248653,90,6,P.formosa,4,4,88,22,N,N,29.07.22,red,black,S19,R087,10,,x,x,,-,top right ,fish at the edge of the tank not tracked ,top right 
+24248653,rec0093_colorchoice_20220811_162710.24248653,93,7,P.formosa,4,4,88,22,N,N,29.07.22,red,black,S19,R087,10,,x,-,,-,top right ,tracking error,top right 
+24248654,rec0073_colorchoice_20220810_112106.24248654,73,0,P.formosa,4,6,89,23,C,C,29.07.22,orange,orange,S20,R086,3,,x,x,,x,bottom right ,,bottom right 
+24248654,rec0076_colorchoice_20220810_122814.24248654,76,1,P.formosa,4,6,89,23,C,C,29.07.22,orange,orange,S20,R086,3,,x,-,,-,bottom right ,tracking error,bottom right 
+24248654,rec0079_colorchoice_20220810_143344.24248654,79,2,P.formosa,4,6,89,23,C,C,29.07.22,orange,orange,S20,R086,3,,x,x,,x,bottom right ,,bottom right 
+24248654,rec0082_colorchoice_20220810_162300.24248654,82,3,P.formosa,4,6,89,23,C,C,29.07.22,orange,orange,S20,R086,3,,x,x,,-,bottom right ,shadow,bottom right 
+24248654,rec0085_colorchoice_20220811_104218.24248654,85,4,P.formosa,4,6,89,23,C,C,29.07.22,orange,orange,S20,R086,3,,x,x,,x,bottom right ,,bottom right 
+24248654,rec0088_colorchoice_20220811_125141.24248654,88,5,P.formosa,4,6,89,23,C,C,29.07.22,orange,orange,S20,R086,3,,x,x,,-,bottom right ,"camera 24248654 died during recording, fish didnot move not tracked",bottom right 
+24248654,rec0091_colorchoice_20220811_143456.24248654,91,6,P.formosa,4,6,89,23,C,C,29.07.22,orange,orange,S20,R086,3,,x,x,,x,bottom right ,,bottom right 
+24248654,rec0094_colorchoice_20220811_162710.24248654,94,7,P.formosa,4,6,89,23,C,C,29.07.22,orange,orange,S20,R086,3,,x,x,,x,bottom right ,,bottom right 
+24248654,rec0073_colorchoice_20220810_112106.24248654,73,0,P.formosa,4,6,90,23,C,C,29.07.22,orange,orange,S20,R086,2,,x,x,,x,top right ,,top right 
+24248654,rec0076_colorchoice_20220810_122814.24248654,76,1,P.formosa,4,6,90,23,C,C,29.07.22,orange,orange,S20,R086,2,,x,-,,-,top right ,tracking error,top right 
+24248654,rec0079_colorchoice_20220810_143344.24248654,79,2,P.formosa,4,6,90,23,C,C,29.07.22,orange,orange,S20,R086,2,,x,x,,x,top right ,,top right 
+24248654,rec0082_colorchoice_20220810_162300.24248654,82,3,P.formosa,4,6,90,23,C,C,29.07.22,orange,orange,S20,R086,2,,x,x,,-,top right ,shadow,top right 
+24248654,rec0085_colorchoice_20220811_104218.24248654,85,4,P.formosa,4,6,90,23,C,C,29.07.22,orange,orange,S20,R086,2,,x,x,,x,top right ,,top right 
+24248654,rec0088_colorchoice_20220811_125141.24248654,88,5,P.formosa,4,6,90,23,C,C,29.07.22,orange,orange,S20,R086,2,,x,x,,-,top right ,"camera 24248654 died during recording, fish didnot move not tracked",top right 
+24248654,rec0091_colorchoice_20220811_143456.24248654,91,6,P.formosa,4,6,90,23,C,C,29.07.22,orange,orange,S20,R086,2,,x,x,,x,top right ,,top right 
+24248654,rec0094_colorchoice_20220811_162710.24248654,94,7,P.formosa,4,6,90,23,C,C,29.07.22,orange,orange,S20,R086,2,,x,x,,x,top right ,,top right 
+24248661,rec0074_doorchoice_20220810_112134.24248661,74,0,P.formosa,4,6,91,23,C,D,29.07.22,orange,orange,S20,R086,18,,,,,,top right,,top right
+24248661,rec0077_doorchoice_20220810_122851.24248661,77,1,P.formosa,4,6,91,23,C,D,29.07.22,orange,orange,S20,R086,18,,,,,,top right,,top right
+24248661,rec0080_doorchoice_20220810_143422.24248661,80,2,P.formosa,4,6,91,23,C,D,29.07.22,orange,orange,S20,R086,18,,,,,,top right,,top right
+24248661,rec0083_doorchoice_20220804_163514.24248661,83,3,P.formosa,4,6,91,23,C,D,29.07.22,orange,orange,S20,R086,18,,,,,,top right,,top right
+24248661,rec0086_doorchoice_20220811_104124.24248661,86,4,P.formosa,4,6,91,23,C,D,29.07.22,orange,orange,S20,R086,18,,,,,,top right,,top right
+24248661,rec0089_doorchoice_20220811_125246.24248661,89,5,P.formosa,4,6,91,23,C,D,29.07.22,orange,orange,S20,R086,18,,,,,,top right,,top right
+24248661,rec0092_doorchoice_20220811_143350.24248661,92,6,P.formosa,4,6,91,23,C,D,29.07.22,orange,orange,S20,R086,18,,,,,,top right,,top right
+24248661,rec0095_doorchoice_20220811_162752.24248661,95,7,P.formosa,4,6,91,23,C,D,29.07.22,orange,orange,S20,R086,18,,,,,,top right,,top right
+24248661,rec0074_doorchoice_20220810_112134.24248661,74,0,P.formosa,4,6,92,23,C,D,29.07.22,orange,orange,S20,R086,20,,,,,,bottom left,,bottom left
+24248661,rec0077_doorchoice_20220810_122851.24248661,77,1,P.formosa,4,6,92,23,C,D,29.07.22,orange,orange,S20,R086,20,,,,,,bottom left,,bottom left
+24248661,rec0080_doorchoice_20220810_143422.24248661,80,2,P.formosa,4,6,92,23,C,D,29.07.22,orange,orange,S20,R086,20,,,,,,bottom left,,bottom left
+24248661,rec0083_doorchoice_20220804_163514.24248661,83,3,P.formosa,4,6,92,23,C,D,29.07.22,orange,orange,S20,R086,20,,,,,,bottom left,,bottom left
+24248661,rec0086_doorchoice_20220811_104124.24248661,86,4,P.formosa,4,6,92,23,C,D,29.07.22,orange,orange,S20,R086,20,,,,,,bottom left,,bottom left
+24248661,rec0089_doorchoice_20220811_125246.24248661,89,5,P.formosa,4,6,92,23,C,D,29.07.22,orange,orange,S20,R086,20,,,,,,bottom left,,bottom left
+24248661,rec0092_doorchoice_20220811_143350.24248661,92,6,P.formosa,4,6,92,23,C,D,29.07.22,orange,orange,S20,R086,20,,,,,,bottom left,,bottom left
+24248661,rec0095_doorchoice_20220811_162752.24248661,95,7,P.formosa,4,6,92,23,C,D,29.07.22,orange,orange,S20,R086,20,,,,,,bottom left,,bottom left
+24248658,rec0073_doorchoice_20220810_112134.24248658,73,0,P.formosa,4,6,93,24,D,N,29.07.22,orange,red,S20,R071,13,,,,,,top left ,,top left 
+24248658,rec0076_doorchoice_20220810_122851.24248658,76,1,P.formosa,4,6,93,24,D,N,29.07.22,orange,red,S20,R071,13,,,,,,top left ,,top left 
+24248658,rec0079_doorchoice_20220810_143422.24248658,79,2,P.formosa,4,6,93,24,D,N,29.07.22,orange,red,S20,R071,13,,,,,,top left ,,top left 
+24248658,rec0082_doorchoice_20220804_163516.24248658,82,3,P.formosa,4,6,93,24,D,N,29.07.22,orange,red,S20,R071,13,,,,,,top left ,,top left 
+24248658,rec0085_doorchoice_20220811_104124.24248658,85,4,P.formosa,4,6,93,24,D,N,29.07.22,orange,red,S20,R071,13,,,,,,top left ,,top left 
+24248658,rec0088_doorchoice_20220811_125246.24248658,88,5,P.formosa,4,6,93,24,D,N,29.07.22,orange,red,S20,R071,13,,,,,,top left ,,top left 
+24248658,rec0091_doorchoice_20220811_143350.24248658,91,6,P.formosa,4,6,93,24,D,N,29.07.22,orange,red,S20,R071,13,,,,,,top left ,,top left 
+24248658,rec0094_doorchoice_20220811_162752.24248658,94,7,P.formosa,4,6,93,24,D,N,29.07.22,orange,red,S20,R071,13,,,,,,top left ,,top left 
+24248658,rec0073_doorchoice_20220810_112134.24248658,73,0,P.formosa,4,6,94,24,D,N,29.07.22,orange,red,S20,R071,15,,,,,,bottom right,,bottom right
+24248658,rec0076_doorchoice_20220810_122851.24248658,76,1,P.formosa,4,6,94,24,D,N,29.07.22,orange,red,S20,R071,15,,,,,,bottom right,,bottom right
+24248658,rec0079_doorchoice_20220810_143422.24248658,79,2,P.formosa,4,6,94,24,D,N,29.07.22,orange,red,S20,R071,15,,,,,,bottom right,,bottom right
+24248658,rec0082_doorchoice_20220804_163516.24248658,82,3,P.formosa,4,6,94,24,D,N,29.07.22,orange,red,S20,R071,15,,,,,,bottom right,,bottom right
+24248658,rec0085_doorchoice_20220811_104124.24248658,85,4,P.formosa,4,6,94,24,D,N,29.07.22,orange,red,S20,R071,15,,,,,,bottom right,,bottom right
+24248658,rec0088_doorchoice_20220811_125246.24248658,88,5,P.formosa,4,6,94,24,D,N,29.07.22,orange,red,S20,R071,15,,,,,,bottom right,,bottom right
+24248658,rec0091_doorchoice_20220811_143350.24248658,91,6,P.formosa,4,6,94,24,D,N,29.07.22,orange,red,S20,R071,15,,,,,,bottom right,,bottom right
+24248658,rec0094_doorchoice_20220811_162752.24248658,94,7,P.formosa,4,6,94,24,D,N,29.07.22,orange,red,S20,R071,15,,,,,,bottom right,,bottom right
+24248661,rec0074_doorchoice_20220810_112134.24248661,74,0,P.formosa,4,6,95,24,D,N,29.07.22,orange,red,S20,R071,17,,,,,,top left,,top left
+24248661,rec0077_doorchoice_20220810_122851.24248661,77,1,P.formosa,4,6,95,24,D,N,29.07.22,orange,red,S20,R071,17,,,,,,top left,,top left
+24248661,rec0080_doorchoice_20220810_143422.24248661,80,2,P.formosa,4,6,95,24,D,N,29.07.22,orange,red,S20,R071,17,,,,,,top left,,top left
+24248661,rec0083_doorchoice_20220804_163514.24248661,83,3,P.formosa,4,6,95,24,D,N,29.07.22,orange,red,S20,R071,17,,,,,,top left,,top left
+24248661,rec0086_doorchoice_20220811_104124.24248661,86,4,P.formosa,4,6,95,24,D,N,29.07.22,orange,red,S20,R071,17,,,,,,top left,,top left
+24248661,rec0089_doorchoice_20220811_125246.24248661,89,5,P.formosa,4,6,95,24,D,N,29.07.22,orange,red,S20,R071,17,,,,,,top left,,top left
+24248661,rec0092_doorchoice_20220811_143350.24248661,92,6,P.formosa,4,6,95,24,D,N,29.07.22,orange,red,S20,R071,17,,,,,,top left,,top left
+24248661,rec0095_doorchoice_20220811_162752.24248661,95,7,P.formosa,4,6,95,24,D,N,29.07.22,orange,red,S20,R071,17,,,,,,top left,,top left
+24248657,rec0072_doorchoice_20220810_112134.24248657,72,0,P.formosa,4,6,96,24,D,N,29.07.22,orange,red,S20,R071,23,,,,,,bottom right,,bottom right
+24248657,rec0075_doorchoice_20220810_122851.24248657,75,1,P.formosa,4,6,96,24,D,N,29.07.22,orange,red,S20,R071,23,,,,,,bottom right,,bottom right
+24248657,rec0078_doorchoice_20220810_143422.24248657,78,2,P.formosa,4,6,96,24,D,N,29.07.22,orange,red,S20,R071,23,,,,,,bottom right,,bottom right
+24248657,rec0081_doorchoice_20220804_163518.24248657,81,3,P.formosa,4,6,96,24,D,N,29.07.22,orange,red,S20,R071,23,,,,,,bottom right,,bottom right
+24248657,rec0084_doorchoice_20220811_104124.24248657,84,4,P.formosa,4,6,96,24,D,N,29.07.22,orange,red,S20,R071,23,,,,,,bottom right,,bottom right
+24248657,rec0087_doorchoice_20220811_125246.24248657,87,5,P.formosa,4,6,96,24,D,N,29.07.22,orange,red,S20,R071,23,,,,,,bottom right,,bottom right
+24248657,rec0090_doorchoice_20220811_143350.24248657,90,6,P.formosa,4,6,96,24,D,N,29.07.22,orange,red,S20,R071,23,,,,,,bottom right,,bottom right
+24248657,rec0093_doorchoice_20220811_162752.24248657,93,7,P.formosa,4,6,96,24,D,N,29.07.22,orange,red,S20,R071,23,,,,,,bottom right,,bottom right
+24248653,rec0096_colorchoice_20220829_103750.24248653,96,0,P.formosa,5,7,117,25,C,C,2022/08/24,pink,red,R005,R087,10,,x,x,,,top right,,top right
+24248653,rec0099_colorchoice_20220829_122406.24248653,99,1,P.formosa,5,7,117,25,C,C,2022/08/24,pink,red,R005,R087,10,,x,x,,,top right,,top right
+24248653,rec0102_colorchoice_20220829_150331.24248653,102,2,P.formosa,5,7,117,25,C,C,2022/08/24,pink,red,R005,R087,10,,x,x,,,top right,,top right
+24248653,rec0105_colorchoice_20220829_162025.24248653,105,3,P.formosa,5,7,117,25,C,C,2022/08/24,pink,red,R005,R087,10,,x,x,,,top right,,top right
+24248653,rec0108_colorchoice_20220830_102710.24248653,108,4,P.formosa,5,7,117,25,C,C,2022/08/24,pink,red,R005,R087,10,,x,x,,,top right,,top right
+24248653,rec0111_colorchoice_20220830_122449.24248653,111,5,P.formosa,5,7,117,25,C,C,2022/08/24,pink,red,R005,R087,10,,x,x,,,top right,,top right
+24248653,rec0114_colorchoice_20220830_145813.24248653,114,6,P.formosa,5,7,117,25,C,C,2022/08/24,pink,red,R005,R087,10,,x,x,,,top right,,top right
+24248653,rec0117_colorchoice_20220830_161630.24248653,117,7,P.formosa,5,7,117,25,C,C,2022/08/24,pink,red,R005,R087,10,,x,x,,,top right,,top right
+24248662,rec0098_colorchoice_20220829_103750.24248662,98,0,P.formosa,5,7,118,25,C,C,2022/08/24,pink,red,R005,R087,8,,x,x,,,bottom left,,bottom left
+24248662,rec0101_colorchoice_20220829_122406.24248662,101,1,P.formosa,5,7,118,25,C,C,2022/08/24,pink,red,R005,R087,8,,x,x,,,bottom left,,bottom left
+24248662,rec0104_colorchoice_20220829_150331.24248662,104,2,P.formosa,5,7,118,25,C,C,2022/08/24,pink,red,R005,R087,8,,x,x,,,bottom left,,bottom left
+24248662,rec0107_colorchoice_20220829_162025.24248662,107,3,P.formosa,5,7,118,25,C,C,2022/08/24,pink,red,R005,R087,8,,x,x,,,bottom left,,bottom left
+24248662,rec0110_colorchoice_20220830_102710.24248662,110,4,P.formosa,5,7,118,25,C,C,2022/08/24,pink,red,R005,R087,8,,x,x,,,bottom left,,bottom left
+24248662,rec0113_colorchoice_20220830_122449.24248662,113,5,P.formosa,5,7,118,25,C,C,2022/08/24,pink,red,R005,R087,8,,x,x,,,bottom left,,bottom left
+24248662,rec0116_colorchoice_20220830_145813.24248662,116,6,P.formosa,5,7,118,25,C,C,2022/08/24,pink,red,R005,R087,8,,x,x,,,bottom left,,bottom left
+24248662,rec0119_colorchoice_20220830_161630.24248662,119,7,P.formosa,5,7,118,25,C,C,2022/08/24,pink,red,R005,R087,8,,x,x,,,bottom left,,bottom left
+24248653,rec0096_colorchoice_20220829_103750.24248653,96,0,P.formosa,5,7,119,25,C,C,2022/08/24,pink,red,R005,R087,12,,x,x,,,bottom left,,bottom left
+24248653,rec0099_colorchoice_20220829_122406.24248653,99,1,P.formosa,5,7,119,25,C,C,2022/08/24,pink,red,R005,R087,12,,x,x,,,bottom left,,bottom left
+24248653,rec0102_colorchoice_20220829_150331.24248653,102,2,P.formosa,5,7,119,25,C,C,2022/08/24,pink,red,R005,R087,12,,x,x,,,bottom left,,bottom left
+24248653,rec0105_colorchoice_20220829_162025.24248653,105,3,P.formosa,5,7,119,25,C,C,2022/08/24,pink,red,R005,R087,12,,x,x,,,bottom left,,bottom left
+24248653,rec0108_colorchoice_20220830_102710.24248653,108,4,P.formosa,5,7,119,25,C,C,2022/08/24,pink,red,R005,R087,12,,x,x,,,bottom left,,bottom left
+24248653,rec0111_colorchoice_20220830_122449.24248653,111,5,P.formosa,5,7,119,25,C,C,2022/08/24,pink,red,R005,R087,12,,x,x,,,bottom left,,bottom left
+24248653,rec0114_colorchoice_20220830_145813.24248653,114,6,P.formosa,5,7,119,25,C,C,2022/08/24,pink,red,R005,R087,12,,x,x,,,bottom left,,bottom left
+24248653,rec0117_colorchoice_20220830_161630.24248653,117,7,P.formosa,5,7,119,25,C,C,2022/08/24,pink,red,R005,R087,12,,x,x,,,bottom left,,bottom left
+24248653,rec0096_colorchoice_20220829_103750.24248653,96,0,P.formosa,5,7,120,25,C,C,2022/08/24,pink,red,R005,R087,9,,x,x,,,top left,,top left
+24248653,rec0099_colorchoice_20220829_122406.24248653,99,1,P.formosa,5,7,120,25,C,C,2022/08/24,pink,red,R005,R087,9,,x,x,,,top left,,top left
+24248653,rec0102_colorchoice_20220829_150331.24248653,102,2,P.formosa,5,7,120,25,C,C,2022/08/24,pink,red,R005,R087,9,,x,x,,,top left,,top left
+24248653,rec0105_colorchoice_20220829_162025.24248653,105,3,P.formosa,5,7,120,25,C,C,2022/08/24,pink,red,R005,R087,9,,x,x,,,top left,,top left
+24248653,rec0108_colorchoice_20220830_102710.24248653,108,4,P.formosa,5,7,120,25,C,C,2022/08/24,pink,red,R005,R087,9,,x,x,,,top left,,top left
+24248653,rec0111_colorchoice_20220830_122449.24248653,111,5,P.formosa,5,7,120,25,C,C,2022/08/24,pink,red,R005,R087,9,,x,x,,,top left,,top left
+24248653,rec0114_colorchoice_20220830_145813.24248653,114,6,P.formosa,5,7,120,25,C,C,2022/08/24,pink,red,R005,R087,9,,x,x,,,top left,,top left
+24248653,rec0117_colorchoice_20220830_161630.24248653,117,7,P.formosa,5,7,120,25,C,C,2022/08/24,pink,red,R005,R087,9,,x,x,,,top left,,top left
+24248654,rec0097_colorchoice_20220829_103750.24248654,97,0,P.formosa,5,7,121,26,C,C,2022/08/24,yellow,red,R019,R078,3,,x,-,,,bottom right,camera 24248654 died during recording,bottom right
+24248654,rec0100_colorchoice_20220829_122406.24248654,100,1,P.formosa,5,7,121,26,C,C,2022/08/24,yellow,red,R019,R078,3,,x,x,,,bottom right,camera 24248654 died during recording,bottom right
+24248654,rec0103_colorchoice_20220829_150331.24248654,103,2,P.formosa,5,7,121,26,C,C,2022/08/24,yellow,red,R019,R078,3,,x,x,,,bottom right,,bottom right
+24248654,rec0106_colorchoice_20220829_162025.24248654,106,3,P.formosa,5,7,121,26,C,C,2022/08/24,yellow,red,R019,R078,3,,x,x,,,bottom right,,bottom right
+24248654,rec0109_colorchoice_20220830_102710.24248654,109,4,P.formosa,5,7,121,26,C,C,2022/08/24,yellow,red,R019,R078,3,,x,x,,,bottom right,,bottom right
+24248654,rec0112_colorchoice_20220830_122449.24248654,112,5,P.formosa,5,7,121,26,C,C,2022/08/24,yellow,red,R019,R078,3,,x,x,,,bottom right,,bottom right
+24248654,rec0115_colorchoice_20220830_145813.24248654,115,6,P.formosa,5,7,121,26,C,C,2022/08/24,yellow,red,R019,R078,3,,x,x,,,bottom right,,bottom right
+24248654,rec0118_colorchoice_20220830_161630.24248654,118,7,P.formosa,5,7,121,26,C,C,2022/08/24,yellow,red,R019,R078,3,,x,x,,,bottom right,,bottom right
+24248662,rec0098_colorchoice_20220829_103750.24248662,98,0,P.formosa,5,7,122,26,C,C,2022/08/24,yellow,red,R019,R078,6,,x,x,,,top right ,,top right 
+24248662,rec0101_colorchoice_20220829_122406.24248662,101,1,P.formosa,5,7,122,26,C,C,2022/08/24,yellow,red,R019,R078,6,,x,x,,,top right ,,top right 
+24248662,rec0104_colorchoice_20220829_150331.24248662,104,2,P.formosa,5,7,122,26,C,C,2022/08/24,yellow,red,R019,R078,6,,x,x,,,top right ,,top right 
+24248662,rec0107_colorchoice_20220829_162025.24248662,107,3,P.formosa,5,7,122,26,C,C,2022/08/24,yellow,red,R019,R078,6,,x,x,,,top right ,,top right 
+24248662,rec0110_colorchoice_20220830_102710.24248662,110,4,P.formosa,5,7,122,26,C,C,2022/08/24,yellow,red,R019,R078,6,,x,x,,,top right ,,top right 
+24248662,rec0113_colorchoice_20220830_122449.24248662,113,5,P.formosa,5,7,122,26,C,C,2022/08/24,yellow,red,R019,R078,6,,x,x,,,top right ,,top right 
+24248662,rec0116_colorchoice_20220830_145813.24248662,116,6,P.formosa,5,7,122,26,C,C,2022/08/24,yellow,red,R019,R078,6,,x,x,,,top right ,,top right 
+24248662,rec0119_colorchoice_20220830_161630.24248662,119,7,P.formosa,5,7,122,26,C,C,2022/08/24,yellow,red,R019,R078,6,,x,x,,,top right ,,top right 
+24248658,rec0097_doorchoice_20220829_103845.24248658,97,0,P.formosa,5,7,123,26,D,D,2022/08/24,yellow,orange,R019,R076,16,,,,,,bottom left,,bottom left
+24248658,rec0100_doorchoice_20220829_122434.24248658,100,1,P.formosa,5,7,123,26,D,D,2022/08/24,yellow,orange,R019,R076,16,,,,,,bottom left,,bottom left
+24248658,rec0103_doorchoice_20220829_150405.24248658,103,2,P.formosa,5,7,123,26,D,D,2022/08/24,yellow,orange,R019,R076,16,,,,,,bottom left,,bottom left
+24248658,rec0106_doorchoice_20220829_162100.24248658,106,3,P.formosa,5,7,123,26,D,D,2022/08/24,yellow,orange,R019,R076,16,,,,,,bottom left,,bottom left
+24248658,rec0109_doorchoice_20220830_102735.24248658,109,4,P.formosa,5,7,123,26,D,D,2022/08/24,yellow,orange,R019,R076,16,,,,,,bottom left,,bottom left
+24248658,rec0112_doorchoice_20220830_122555.24248658,112,5,P.formosa,5,7,123,26,D,D,2022/08/24,yellow,orange,R019,R076,16,,,,,,bottom left,,bottom left
+24248658,rec0115_doorchoice_20220830_145938.24248658,115,6,P.formosa,5,7,123,26,D,D,2022/08/24,yellow,orange,R019,R076,16,,,,,,bottom left,,bottom left
+24248658,rec0118_doorchoice_20220830_161719.24248658,118,7,P.formosa,5,7,123,26,D,D,2022/08/24,yellow,orange,R019,R076,16,,,,,,bottom left,,bottom left
+24248661,rec0098_doorchoice_20220829_103845.24248661,98,0,P.formosa,5,7,124,26,D,D,2022/08/24,yellow,orange,R019,R076,17,,,,,,top left,,top left
+24248661,rec0101_doorchoice_20220829_122434.24248661,101,1,P.formosa,5,7,124,26,D,D,2022/08/24,yellow,orange,R019,R076,17,,,,,,top left,,top left
+24248661,rec0104_doorchoice_20220829_150405.24248661,104,2,P.formosa,5,7,124,26,D,D,2022/08/24,yellow,orange,R019,R076,17,,,,,,top left,,top left
+24248661,rec0107_doorchoice_20220829_162100.24248661,107,3,P.formosa,5,7,124,26,D,D,2022/08/24,yellow,orange,R019,R076,17,,,,,,top left,,top left
+24248661,rec0110_doorchoice_20220830_102735.24248661,110,4,P.formosa,5,7,124,26,D,D,2022/08/24,yellow,orange,R019,R076,17,,,,,,top left,,top left
+24248661,rec0113_doorchoice_20220830_122555.24248661,113,5,P.formosa,5,7,124,26,D,D,2022/08/24,yellow,orange,R019,R076,17,,,,,,top left,,top left
+24248661,rec0116_doorchoice_20220830_145938.24248661,116,6,P.formosa,5,7,124,26,D,D,2022/08/24,yellow,orange,R019,R076,17,,,,,,top left,,top left
+24248661,rec0119_doorchoice_20220830_161719.24248661,119,7,P.formosa,5,7,124,26,D,D,2022/08/24,yellow,orange,R019,R076,17,,,,,,top left,,top left
+24248661,rec0098_doorchoice_20220829_103845.24248661,98,0,P.formosa,5,7,125,27,D,D,2022/08/24,purple,orange,R001,R065,19,,,,,,bottom right,,bottom right
+24248661,rec0101_doorchoice_20220829_122434.24248661,101,1,P.formosa,5,7,125,27,D,D,2022/08/24,purple,orange,R001,R065,19,,,,,,bottom right,,bottom right
+24248661,rec0104_doorchoice_20220829_150405.24248661,104,2,P.formosa,5,7,125,27,D,D,2022/08/24,purple,orange,R001,R065,19,,,,,,bottom right,,bottom right
+24248661,rec0107_doorchoice_20220829_162100.24248661,107,3,P.formosa,5,7,125,27,D,D,2022/08/24,purple,orange,R001,R065,19,,,,,,bottom right,,bottom right
+24248661,rec0110_doorchoice_20220830_102735.24248661,110,4,P.formosa,5,7,125,27,D,D,2022/08/24,purple,orange,R001,R065,19,,,,,,bottom right,,bottom right
+24248661,rec0113_doorchoice_20220830_122555.24248661,113,5,P.formosa,5,7,125,27,D,D,2022/08/24,purple,orange,R001,R065,19,,,,,,bottom right,,bottom right
+24248661,rec0116_doorchoice_20220830_145938.24248661,116,6,P.formosa,5,7,125,27,D,D,2022/08/24,purple,orange,R001,R065,19,,,,,,bottom right,,bottom right
+24248661,rec0119_doorchoice_20220830_161719.24248661,119,7,P.formosa,5,7,125,27,D,D,2022/08/24,purple,orange,R001,R065,19,,,,,,bottom right,,bottom right
+24248661,rec0098_doorchoice_20220829_103845.24248661,98,0,P.formosa,5,7,126,27,D,D,2022/08/24,purple,orange,R001,R065,20,,,,,,bottom left,,bottom left
+24248661,rec0101_doorchoice_20220829_122434.24248661,101,1,P.formosa,5,7,126,27,D,D,2022/08/24,purple,orange,R001,R065,20,,,,,,bottom left,,bottom left
+24248661,rec0104_doorchoice_20220829_150405.24248661,104,2,P.formosa,5,7,126,27,D,D,2022/08/24,purple,orange,R001,R065,20,,,,,,bottom left,,bottom left
+24248661,rec0107_doorchoice_20220829_162100.24248661,107,3,P.formosa,5,7,126,27,D,D,2022/08/24,purple,orange,R001,R065,20,,,,,,bottom left,,bottom left
+24248661,rec0110_doorchoice_20220830_102735.24248661,110,4,P.formosa,5,7,126,27,D,D,2022/08/24,purple,orange,R001,R065,20,,,,,,bottom left,,bottom left
+24248661,rec0113_doorchoice_20220830_122555.24248661,113,5,P.formosa,5,7,126,27,D,D,2022/08/24,purple,orange,R001,R065,20,,,,,,bottom left,,bottom left
+24248661,rec0116_doorchoice_20220830_145938.24248661,116,6,P.formosa,5,7,126,27,D,D,2022/08/24,purple,orange,R001,R065,20,,,,,,bottom left,,bottom left
+24248661,rec0119_doorchoice_20220830_161719.24248661,119,7,P.formosa,5,7,126,27,D,D,2022/08/24,purple,orange,R001,R065,20,,,,,,bottom left,,bottom left
+24248657,rec0096_doorchoice_20220829_103845.24248657,96,0,P.formosa,5,7,127,27,D,D,2022/08/24,purple,orange,R001,R065,24,,,,,,bottom left,,bottom left
+24248657,rec0099_doorchoice_20220829_122434.24248657,99,1,P.formosa,5,7,127,27,D,D,2022/08/24,purple,orange,R001,R065,24,,,,,,bottom left,,bottom left
+24248657,rec0102_doorchoice_20220829_150405.24248657,102,2,P.formosa,5,7,127,27,D,D,2022/08/24,purple,orange,R001,R065,24,,,,,,bottom left,,bottom left
+24248657,rec0105_doorchoice_20220829_162100.24248657,105,3,P.formosa,5,7,127,27,D,D,2022/08/24,purple,orange,R001,R065,24,,,,,,bottom left,,bottom left
+24248657,rec0108_doorchoice_20220830_102735.24248657,108,4,P.formosa,5,7,127,27,D,D,2022/08/24,purple,orange,R001,R065,24,,,,,,bottom left,,bottom left
+24248657,rec0111_doorchoice_20220830_122555.24248657,111,5,P.formosa,5,7,127,27,D,D,2022/08/24,purple,orange,R001,R065,24,,,,,,bottom left,,bottom left
+24248657,rec0114_doorchoice_20220830_145938.24248657,114,6,P.formosa,5,7,127,27,D,D,2022/08/24,purple,orange,R001,R065,24,,,,,,bottom left,,bottom left
+24248657,rec0117_doorchoice_20220830_161719.24248657,117,7,P.formosa,5,7,127,27,D,D,2022/08/24,purple,orange,R001,R065,24,,,,,,bottom left,,bottom left
+24248658,rec0097_doorchoice_20220829_103845.24248658,97,0,P.formosa,5,7,128,27,D,D,2022/08/24,purple,orange,R001,R065,15,,,,,,bottom right,,bottom right
+24248658,rec0100_doorchoice_20220829_122434.24248658,100,1,P.formosa,5,7,128,27,D,D,2022/08/24,purple,orange,R001,R065,15,,,,,,bottom right,,bottom right
+24248658,rec0103_doorchoice_20220829_150405.24248658,103,2,P.formosa,5,7,128,27,D,D,2022/08/24,purple,orange,R001,R065,15,,,,,,bottom right,,bottom right
+24248658,rec0106_doorchoice_20220829_162100.24248658,106,3,P.formosa,5,7,128,27,D,D,2022/08/24,purple,orange,R001,R065,15,,,,,,bottom right,,bottom right
+24248658,rec0109_doorchoice_20220830_102735.24248658,109,4,P.formosa,5,7,128,27,D,D,2022/08/24,purple,orange,R001,R065,15,,,,,,bottom right,,bottom right
+24248658,rec0112_doorchoice_20220830_122555.24248658,112,5,P.formosa,5,7,128,27,D,D,2022/08/24,purple,orange,R001,R065,15,,,,,,bottom right,,bottom right
+24248658,rec0115_doorchoice_20220830_145938.24248658,115,6,P.formosa,5,7,128,27,D,D,2022/08/24,purple,orange,R001,R065,15,,,,,,bottom right,,bottom right
+24248658,rec0118_doorchoice_20220830_161719.24248658,118,7,P.formosa,5,7,128,27,D,D,2022/08/24,purple,orange,R001,R065,15,,,,,,bottom right,,bottom right
+24248654,rec0097_colorchoice_20220829_103750.24248654,97,0,P.formosa,5,7,129,28,N,N,2022/08/24,purple,black,R001,R075,4,,x,-,,,bottom left,,bottom left
+24248654,rec0100_colorchoice_20220829_122406.24248654,100,1,P.formosa,5,7,129,28,N,N,2022/08/24,purple,black,R001,R075,4,,x,x,,,bottom left,,bottom left
+24248654,rec0103_colorchoice_20220829_150331.24248654,103,2,P.formosa,5,7,129,28,N,N,2022/08/24,purple,black,R001,R075,4,,x,x,,,bottom left,,bottom left
+24248654,rec0106_colorchoice_20220829_162025.24248654,106,3,P.formosa,5,7,129,28,N,N,2022/08/24,purple,black,R001,R075,4,,x,x,,,bottom left,,bottom left
+24248654,rec0109_colorchoice_20220830_102710.24248654,109,4,P.formosa,5,7,129,28,N,N,2022/08/24,purple,black,R001,R075,4,,x,x,,,bottom left,,bottom left
+24248654,rec0112_colorchoice_20220830_122449.24248654,112,5,P.formosa,5,7,129,28,N,N,2022/08/24,purple,black,R001,R075,4,,x,x,,,bottom left,,bottom left
+24248654,rec0115_colorchoice_20220830_145813.24248654,115,6,P.formosa,5,7,129,28,N,N,2022/08/24,purple,black,R001,R075,4,,x,x,,,bottom left,,bottom left
+24248654,rec0118_colorchoice_20220830_161630.24248654,118,7,P.formosa,5,7,129,28,N,N,2022/08/24,purple,black,R001,R075,4,,x,x,,,bottom left,,bottom left
+24248662,rec0098_colorchoice_20220829_103750.24248662,98,0,P.formosa,5,7,130,28,N,N,2022/08/24,purple,black,R001,R075,5,,x,x,,,top left,,top left
+24248662,rec0101_colorchoice_20220829_122406.24248662,101,1,P.formosa,5,7,130,28,N,N,2022/08/24,purple,black,R001,R075,5,,x,x,,,top left,,top left
+24248662,rec0104_colorchoice_20220829_150331.24248662,104,2,P.formosa,5,7,130,28,N,N,2022/08/24,purple,black,R001,R075,5,,x,x,,,top left,,top left
+24248662,rec0107_colorchoice_20220829_162025.24248662,107,3,P.formosa,5,7,130,28,N,N,2022/08/24,purple,black,R001,R075,5,,x,x,,,top left,,top left
+24248662,rec0110_colorchoice_20220830_102710.24248662,110,4,P.formosa,5,7,130,28,N,N,2022/08/24,purple,black,R001,R075,5,,x,x,,,top left,,top left
+24248662,rec0113_colorchoice_20220830_122449.24248662,113,5,P.formosa,5,7,130,28,N,N,2022/08/24,purple,black,R001,R075,5,,x,x,,,top left,,top left
+24248662,rec0116_colorchoice_20220830_145813.24248662,116,6,P.formosa,5,7,130,28,N,N,2022/08/24,purple,black,R001,R075,5,,x,x,,,top left,,top left
+24248662,rec0119_colorchoice_20220830_161630.24248662,119,7,P.formosa,5,7,130,28,N,N,2022/08/24,purple,black,R001,R075,5,,x,x,,,top left,,top left
+24248658,rec0097_doorchoice_20220829_103845.24248658,97,0,P.formosa,5,7,131,28,N,N,2022/08/24,purple,black,R001,R075,13,,,,,,top left,,top left
+24248658,rec0100_doorchoice_20220829_122434.24248658,100,1,P.formosa,5,7,131,28,N,N,2022/08/24,purple,black,R001,R075,13,,,,,,top left,,top left
+24248658,rec0103_doorchoice_20220829_150405.24248658,103,2,P.formosa,5,7,131,28,N,N,2022/08/24,purple,black,R001,R075,13,,,,,,top left,,top left
+24248658,rec0106_doorchoice_20220829_162100.24248658,106,3,P.formosa,5,7,131,28,N,N,2022/08/24,purple,black,R001,R075,13,,,,,,top left,,top left
+24248658,rec0109_doorchoice_20220830_102735.24248658,109,4,P.formosa,5,7,131,28,N,N,2022/08/24,purple,black,R001,R075,13,,,,,,top left,,top left
+24248658,rec0112_doorchoice_20220830_122555.24248658,112,5,P.formosa,5,7,131,28,N,N,2022/08/24,purple,black,R001,R075,13,,,,,,top left,,top left
+24248658,rec0115_doorchoice_20220830_145938.24248658,115,6,P.formosa,5,7,131,28,N,N,2022/08/24,purple,black,R001,R075,13,,,,,,top left,,top left
+24248658,rec0118_doorchoice_20220830_161719.24248658,118,7,P.formosa,5,7,131,28,N,N,2022/08/24,purple,black,R001,R075,13,,,,,,top left,,top left
+24248658,rec0097_doorchoice_20220829_103845.24248658,97,0,P.formosa,5,7,132,28,N,N,2022/08/24,purple,black,R001,R075,14,,,,,,top right,,top right
+24248658,rec0100_doorchoice_20220829_122434.24248658,100,1,P.formosa,5,7,132,28,N,N,2022/08/24,purple,black,R001,R075,14,,,,,,top right,,top right
+24248658,rec0103_doorchoice_20220829_150405.24248658,103,2,P.formosa,5,7,132,28,N,N,2022/08/24,purple,black,R001,R075,14,,,,,,top right,,top right
+24248658,rec0106_doorchoice_20220829_162100.24248658,106,3,P.formosa,5,7,132,28,N,N,2022/08/24,purple,black,R001,R075,14,,,,,,top right,,top right
+24248658,rec0109_doorchoice_20220830_102735.24248658,109,4,P.formosa,5,7,132,28,N,N,2022/08/24,purple,black,R001,R075,14,,,,,,top right,,top right
+24248658,rec0112_doorchoice_20220830_122555.24248658,112,5,P.formosa,5,7,132,28,N,N,2022/08/24,purple,black,R001,R075,14,,,,,,top right,,top right
+24248658,rec0115_doorchoice_20220830_145938.24248658,115,6,P.formosa,5,7,132,28,N,N,2022/08/24,purple,black,R001,R075,14,,,,,,top right,,top right
+24248658,rec0118_doorchoice_20220830_161719.24248658,118,7,P.formosa,5,7,132,28,N,N,2022/08/24,purple,black,R001,R075,14,,,,,,top right,,top right
+24248662,rec0098_colorchoice_20220829_103750.24248662,98,0,P.formosa,5,8,133,29,C,C,2022/08/24,blue,red,R006,R092,7,,x,x,,,bottom right,,bottom right
+24248662,rec0101_colorchoice_20220829_122406.24248662,101,1,P.formosa,5,8,133,29,C,C,2022/08/24,blue,red,R006,R092,7,,x,x,,,bottom right,,bottom right
+24248662,rec0104_colorchoice_20220829_150331.24248662,104,2,P.formosa,5,8,133,29,C,C,2022/08/24,blue,red,R006,R092,7,,x,x,,,bottom right,,bottom right
+24248662,rec0107_colorchoice_20220829_162025.24248662,107,3,P.formosa,5,8,133,29,C,C,2022/08/24,blue,red,R006,R092,7,,x,x,,,bottom right,,bottom right
+24248662,rec0110_colorchoice_20220830_102710.24248662,110,4,P.formosa,5,8,133,29,C,C,2022/08/24,blue,red,R006,R092,7,,x,x,,,bottom right,,bottom right
+24248662,rec0113_colorchoice_20220830_122449.24248662,113,5,P.formosa,5,8,133,29,C,C,2022/08/24,blue,red,R006,R092,7,,x,x,,,bottom right,,bottom right
+24248662,rec0116_colorchoice_20220830_145813.24248662,116,6,P.formosa,5,8,133,29,C,C,2022/08/24,blue,red,R006,R092,7,,x,x,,,bottom right,,bottom right
+24248662,rec0119_colorchoice_20220830_161630.24248662,119,7,P.formosa,5,8,133,29,C,C,2022/08/24,blue,red,R006,R092,7,,x,x,,,bottom right,,bottom right
+24248654,rec0097_colorchoice_20220829_103750.24248654,97,0,P.formosa,5,8,134,29,C,C,2022/08/24,blue,red,R006,R092,2,,x,-,,,top right,,top right
+24248654,rec0100_colorchoice_20220829_122406.24248654,100,1,P.formosa,5,8,134,29,C,C,2022/08/24,blue,red,R006,R092,2,,x,x,,,top right,,top right
+24248654,rec0103_colorchoice_20220829_150331.24248654,103,2,P.formosa,5,8,134,29,C,C,2022/08/24,blue,red,R006,R092,2,,x,x,,,top right,,top right
+24248654,rec0106_colorchoice_20220829_162025.24248654,106,3,P.formosa,5,8,134,29,C,C,2022/08/24,blue,red,R006,R092,2,,x,x,,,top right,,top right
+24248654,rec0109_colorchoice_20220830_102710.24248654,109,4,P.formosa,5,8,134,29,C,C,2022/08/24,blue,red,R006,R092,2,,x,x,,,top right,,top right
+24248654,rec0112_colorchoice_20220830_122449.24248654,112,5,P.formosa,5,8,134,29,C,C,2022/08/24,blue,red,R006,R092,2,,x,x,,,top right,,top right
+24248654,rec0115_colorchoice_20220830_145813.24248654,115,6,P.formosa,5,8,134,29,C,C,2022/08/24,blue,red,R006,R092,2,,x,x,,,top right,,top right
+24248654,rec0118_colorchoice_20220830_161630.24248654,118,7,P.formosa,5,8,134,29,C,C,2022/08/24,blue,red,R006,R092,2,,x,x,,,top right,,top right
+24248654,rec0097_colorchoice_20220829_103750.24248654,97,0,P.formosa,5,8,135,29,C,C,2022/08/24,blue,red,R006,R092,1,,x,-,,,top left,,top left
+24248654,rec0100_colorchoice_20220829_122406.24248654,100,1,P.formosa,5,8,135,29,C,C,2022/08/24,blue,red,R006,R092,1,,x,x,,,top left,,top left
+24248654,rec0103_colorchoice_20220829_150331.24248654,103,2,P.formosa,5,8,135,29,C,C,2022/08/24,blue,red,R006,R092,1,,x,x,,,top left,,top left
+24248654,rec0106_colorchoice_20220829_162025.24248654,106,3,P.formosa,5,8,135,29,C,C,2022/08/24,blue,red,R006,R092,1,,x,x,,,top left,,top left
+24248654,rec0109_colorchoice_20220830_102710.24248654,109,4,P.formosa,5,8,135,29,C,C,2022/08/24,blue,red,R006,R092,1,,x,x,,,top left,,top left
+24248654,rec0112_colorchoice_20220830_122449.24248654,112,5,P.formosa,5,8,135,29,C,C,2022/08/24,blue,red,R006,R092,1,,x,x,,,top left,,top left
+24248654,rec0115_colorchoice_20220830_145813.24248654,115,6,P.formosa,5,8,135,29,C,C,2022/08/24,blue,red,R006,R092,1,,x,x,,,top left,,top left
+24248654,rec0118_colorchoice_20220830_161630.24248654,118,7,P.formosa,5,8,135,29,C,C,2022/08/24,blue,red,R006,R092,1,,x,x,,,top left,,top left
+24248653,rec0096_colorchoice_20220829_103750.24248653,96,0,P.formosa,5,8,136,29,C,C,2022/08/24,blue,red,R006,R092,11,,x,x,,,bottom right,,bottom right
+24248653,rec0099_colorchoice_20220829_122406.24248653,99,1,P.formosa,5,8,136,29,C,C,2022/08/24,blue,red,R006,R092,11,,x,x,,,bottom right,,bottom right
+24248653,rec0102_colorchoice_20220829_150331.24248653,102,2,P.formosa,5,8,136,29,C,C,2022/08/24,blue,red,R006,R092,11,,x,x,,,bottom right,,bottom right
+24248653,rec0105_colorchoice_20220829_162025.24248653,105,3,P.formosa,5,8,136,29,C,C,2022/08/24,blue,red,R006,R092,11,,x,x,,,bottom right,,bottom right
+24248653,rec0108_colorchoice_20220830_102710.24248653,108,4,P.formosa,5,8,136,29,C,C,2022/08/24,blue,red,R006,R092,11,,x,x,,,bottom right,,bottom right
+24248653,rec0111_colorchoice_20220830_122449.24248653,111,5,P.formosa,5,8,136,29,C,C,2022/08/24,blue,red,R006,R092,11,,x,x,,,bottom right,,bottom right
+24248653,rec0114_colorchoice_20220830_145813.24248653,114,6,P.formosa,5,8,136,29,C,C,2022/08/24,blue,red,R006,R092,11,,x,x,,,bottom right,,bottom right
+24248653,rec0117_colorchoice_20220830_161630.24248653,117,7,P.formosa,5,8,136,29,C,C,2022/08/24,blue,red,R006,R092,11,,x,x,,,bottom right,,bottom right
+24248657,rec0096_doorchoice_20220829_103845.24248657,96,0,P.formosa,5,8,137,30,D,D,2022/08/24,blue,orange,R006,R070,23,,,,,,bottom right,,bottom right
+24248657,rec0099_doorchoice_20220829_122434.24248657,99,1,P.formosa,5,8,137,30,D,D,2022/08/24,blue,orange,R006,R070,23,,,,,,bottom right,,bottom right
+24248657,rec0102_doorchoice_20220829_150405.24248657,102,2,P.formosa,5,8,137,30,D,D,2022/08/24,blue,orange,R006,R070,23,,,,,,bottom right,,bottom right
+24248657,rec0105_doorchoice_20220829_162100.24248657,105,3,P.formosa,5,8,137,30,D,D,2022/08/24,blue,orange,R006,R070,23,,,,,,bottom right,,bottom right
+24248657,rec0108_doorchoice_20220830_102735.24248657,108,4,P.formosa,5,8,137,30,D,D,2022/08/24,blue,orange,R006,R070,23,,,,,,bottom right,,bottom right
+24248657,rec0111_doorchoice_20220830_122555.24248657,111,5,P.formosa,5,8,137,30,D,D,2022/08/24,blue,orange,R006,R070,23,,,,,,bottom right,,bottom right
+24248657,rec0114_doorchoice_20220830_145938.24248657,114,6,P.formosa,5,8,137,30,D,D,2022/08/24,blue,orange,R006,R070,23,,,,,,bottom right,,bottom right
+24248657,rec0117_doorchoice_20220830_161719.24248657,117,7,P.formosa,5,8,137,30,D,D,2022/08/24,blue,orange,R006,R070,23,,,,,,bottom right,,bottom right
+24248661,rec0098_doorchoice_20220829_103845.24248661,98,0,P.formosa,5,8,138,30,D,D,2022/08/24,blue,orange,R006,R070,18,,,,,,top right,,top right
+24248661,rec0101_doorchoice_20220829_122434.24248661,101,1,P.formosa,5,8,138,30,D,D,2022/08/24,blue,orange,R006,R070,18,,,,,,top right,,top right
+24248661,rec0104_doorchoice_20220829_150405.24248661,104,2,P.formosa,5,8,138,30,D,D,2022/08/24,blue,orange,R006,R070,18,,,,,,top right,,top right
+24248661,rec0107_doorchoice_20220829_162100.24248661,107,3,P.formosa,5,8,138,30,D,D,2022/08/24,blue,orange,R006,R070,18,,,,,,top right,,top right
+24248661,rec0110_doorchoice_20220830_102735.24248661,110,4,P.formosa,5,8,138,30,D,D,2022/08/24,blue,orange,R006,R070,18,,,,,,top right,,top right
+24248661,rec0113_doorchoice_20220830_122555.24248661,113,5,P.formosa,5,8,138,30,D,D,2022/08/24,blue,orange,R006,R070,18,,,,,,top right,,top right
+24248661,rec0116_doorchoice_20220830_145938.24248661,116,6,P.formosa,5,8,138,30,D,D,2022/08/24,blue,orange,R006,R070,18,,,,,,top right,,top right
+24248661,rec0119_doorchoice_20220830_161719.24248661,119,7,P.formosa,5,8,138,30,D,D,2022/08/24,blue,orange,R006,R070,18,,,,,,top right,,top right
+24248657,rec0096_doorchoice_20220829_103845.24248657,96,0,P.formosa,5,8,139,30,D,D,2022/08/24,blue,orange,R006,R070,21,,,,,,top left,,top right
+24248657,rec0099_doorchoice_20220829_122434.24248657,99,1,P.formosa,5,8,139,30,D,D,2022/08/24,blue,orange,R006,R070,21,,,,,,top left,,top right
+24248657,rec0102_doorchoice_20220829_150405.24248657,102,2,P.formosa,5,8,139,30,D,D,2022/08/24,blue,orange,R006,R070,21,,,,,,top left,,top right
+24248657,rec0105_doorchoice_20220829_162100.24248657,105,3,P.formosa,5,8,139,30,D,D,2022/08/24,blue,orange,R006,R070,21,,,,,,top left,,top right
+24248657,rec0108_doorchoice_20220830_102735.24248657,108,4,P.formosa,5,8,139,30,D,D,2022/08/24,blue,orange,R006,R070,21,,,,,,top left,,top right
+24248657,rec0111_doorchoice_20220830_122555.24248657,111,5,P.formosa,5,8,139,30,D,D,2022/08/24,blue,orange,R006,R070,21,,,,,,top left,,top right
+24248657,rec0114_doorchoice_20220830_145938.24248657,114,6,P.formosa,5,8,139,30,D,D,2022/08/24,blue,orange,R006,R070,21,,,,,,top left,,top right
+24248657,rec0117_doorchoice_20220830_161719.24248657,117,7,P.formosa,5,8,139,30,D,D,2022/08/24,blue,orange,R006,R070,21,,,,,,top left,,top right
+24248657,rec0096_doorchoice_20220829_103845.24248657,96,0,P.formosa,5,8,140,30,D,D,2022/08/24,blue,orange,R006,R070,22,,,,,,top right,,top left
+24248657,rec0099_doorchoice_20220829_122434.24248657,99,1,P.formosa,5,8,140,30,D,D,2022/08/24,blue,orange,R006,R070,22,,,,,,top right,,top left
+24248657,rec0102_doorchoice_20220829_150405.24248657,102,2,P.formosa,5,8,140,30,D,D,2022/08/24,blue,orange,R006,R070,22,,,,,,top right,,top left
+24248657,rec0105_doorchoice_20220829_162100.24248657,105,3,P.formosa,5,8,140,30,D,D,2022/08/24,blue,orange,R006,R070,22,,,,,,top right,,top left
+24248657,rec0108_doorchoice_20220830_102735.24248657,108,4,P.formosa,5,8,140,30,D,D,2022/08/24,blue,orange,R006,R070,22,,,,,,top right,,top left
+24248657,rec0111_doorchoice_20220830_122555.24248657,111,5,P.formosa,5,8,140,30,D,D,2022/08/24,blue,orange,R006,R070,22,,,,,,top right,,top left
+24248657,rec0114_doorchoice_20220830_145938.24248657,114,6,P.formosa,5,8,140,30,D,D,2022/08/24,blue,orange,R006,R070,22,,,,,,top right,,top left
+24248657,rec0117_doorchoice_20220830_161719.24248657,117,7,P.formosa,5,8,140,30,D,D,2022/08/24,blue,orange,R006,R070,22,,,,,,top right,,top left
+24248653,rec0120_colorchoice_20220831_110355.24248653,120,0,P.formosa,6,9,141,31,C,C,2022/08/24,green,red,R015,R090,9,,x,x,,,top left,,top left
+24248653,rec0123_colorchoice_20220831_122616.24248653,123,1,P.formosa,6,9,141,31,C,C,2022/08/24,green,red,R015,R090,9,,x,x,,,top left,,top left
+24248653,rec0126_colorchoice_20220831_150001.24248653,126,2,P.formosa,6,9,141,31,C,C,2022/08/24,green,red,R015,R090,9,,x,x,,,top left,,top left
+24248653,rec0129_colorchoice_20220831_161631.24248653,129,3,P.formosa,6,9,141,31,C,C,2022/08/24,green,red,R015,R090,9,,x,x,,,top left,,top left
+24248653,rec0132_colorchoice_20220901_104032.24248653,132,4,P.formosa,6,9,141,31,C,C,2022/08/24,green,red,R015,R090,9,,x,x,,,top left,,top left
+24248653,rec0135_colorchoice_20220901_122130.24248653,135,5,P.formosa,6,9,141,31,C,C,2022/08/24,green,red,R015,R090,9,,x,x,,,top left,,top left
+24248653,rec0138_colorchoice_20220901_150015.24248653,138,6,P.formosa,6,9,141,31,C,C,2022/08/24,green,red,R015,R090,9,,x,x,,,top left,,top left
+24248653,rec0141_colorchoice_20220901_161547.24248653,141,7,P.formosa,6,9,141,31,C,C,2022/08/24,green,red,R015,R090,9,,x,x,,,top left,,top left
+24248654,rec0121_colorchoice_20220831_110355.24248654,121,0,P.formosa,6,9,142,31,C,C,2022/08/24,green,red,R015,R090,3,,x,x,,,bottom right,,bottom right
+24248654,rec0124_colorchoice_20220831_122616.24248654,124,1,P.formosa,6,9,142,31,C,C,2022/08/24,green,red,R015,R090,3,,x,x,,,bottom right,,bottom right
+24248654,rec0127_colorchoice_20220831_150001.24248654,127,2,P.formosa,6,9,142,31,C,C,2022/08/24,green,red,R015,R090,3,,x,x,,,bottom right,,bottom right
+24248654,rec0130_colorchoice_20220831_161631.24248654,130,3,P.formosa,6,9,142,31,C,C,2022/08/24,green,red,R015,R090,3,,x,x,,,bottom right,,bottom right
+24248654,rec0133_colorchoice_20220901_104032.24248654,133,4,P.formosa,6,9,142,31,C,C,2022/08/24,green,red,R015,R090,3,,x,x,,,bottom right,,bottom right
+24248654,rec0136_colorchoice_20220901_122130.24248654,136,5,P.formosa,6,9,142,31,C,C,2022/08/24,green,red,R015,R090,3,,x,x,,,bottom right,,bottom right
+24248654,rec0139_colorchoice_20220901_150015.24248654,139,6,P.formosa,6,9,142,31,C,C,2022/08/24,green,red,R015,R090,3,,x,x,,,bottom right,,bottom right
+24248654,rec0142_colorchoice_20220901_161547.24248654,142,7,P.formosa,6,9,142,31,C,C,2022/08/24,green,red,R015,R090,3,,x,x,,,bottom right,,bottom right
+24248654,rec0121_colorchoice_20220831_110355.24248654,121,0,P.formosa,6,9,143,31,C,C,2022/08/24,green,red,R015,R090,4,,x,x,,,bottom left,,bottom left
+24248654,rec0124_colorchoice_20220831_122616.24248654,124,1,P.formosa,6,9,143,31,C,C,2022/08/24,green,red,R015,R090,4,,x,x,,,bottom left,,bottom left
+24248654,rec0127_colorchoice_20220831_150001.24248654,127,2,P.formosa,6,9,143,31,C,C,2022/08/24,green,red,R015,R090,4,,x,x,,,bottom left,,bottom left
+24248654,rec0130_colorchoice_20220831_161631.24248654,130,3,P.formosa,6,9,143,31,C,C,2022/08/24,green,red,R015,R090,4,,x,x,,,bottom left,,bottom left
+24248654,rec0133_colorchoice_20220901_104032.24248654,133,4,P.formosa,6,9,143,31,C,C,2022/08/24,green,red,R015,R090,4,,x,x,,,bottom left,,bottom left
+24248654,rec0136_colorchoice_20220901_122130.24248654,136,5,P.formosa,6,9,143,31,C,C,2022/08/24,green,red,R015,R090,4,,x,x,,,bottom left,,bottom left
+24248654,rec0139_colorchoice_20220901_150015.24248654,139,6,P.formosa,6,9,143,31,C,C,2022/08/24,green,red,R015,R090,4,,x,x,,,bottom left,,bottom left
+24248654,rec0142_colorchoice_20220901_161547.24248654,142,7,P.formosa,6,9,143,31,C,C,2022/08/24,green,red,R015,R090,4,,x,x,,,bottom left,,bottom left
+24248662,rec0122_colorchoice_20220831_110355.24248662,122,0,P.formosa,6,9,144,31,C,C,2022/08/24,green,red,R015,R090,5,,x,x,,,top left,,top left
+24248662,rec0125_colorchoice_20220831_122616.24248662,125,1,P.formosa,6,9,144,31,C,C,2022/08/24,green,red,R015,R090,5,,x,x,,,top left,,top left
+24248662,rec0128_colorchoice_20220831_150001.24248662,128,2,P.formosa,6,9,144,31,C,C,2022/08/24,green,red,R015,R090,5,,x,x,,,top left,,top left
+24248662,rec0131_colorchoice_20220831_161631.24248662,131,3,P.formosa,6,9,144,31,C,C,2022/08/24,green,red,R015,R090,5,,x,x,,,top left,,top left
+24248662,rec0134_colorchoice_20220901_104032.24248662,134,4,P.formosa,6,9,144,31,C,C,2022/08/24,green,red,R015,R090,5,,x,x,,,top left,,top left
+24248662,rec0137_colorchoice_20220901_122130.24248662,137,5,P.formosa,6,9,144,31,C,C,2022/08/24,green,red,R015,R090,5,,x,x,,,top left,,top left
+24248662,rec0140_colorchoice_20220901_150015.24248662,140,6,P.formosa,6,9,144,31,C,C,2022/08/24,green,red,R015,R090,5,,x,x,,,top left,,top left
+24248662,rec0143_colorchoice_20220901_161547.24248662,143,7,P.formosa,6,9,144,31,C,C,2022/08/24,green,red,R015,R090,5,,x,x,,,top left,,top left
+24248653,rec0120_colorchoice_20220831_110355.24248653,120,0,P.formosa,6,9,145,32,C,C,2022/08/24,green,red,R015,R090,10,,x,x,,,top right,,top right
+24248653,rec0123_colorchoice_20220831_122616.24248653,123,1,P.formosa,6,9,145,32,C,C,2022/08/24,green,red,R015,R090,10,,x,x,,,top right,,top right
+24248653,rec0126_colorchoice_20220831_150001.24248653,126,2,P.formosa,6,9,145,32,C,C,2022/08/24,green,red,R015,R090,10,,x,x,,,top right,,top right
+24248653,rec0129_colorchoice_20220831_161631.24248653,129,3,P.formosa,6,9,145,32,C,C,2022/08/24,green,red,R015,R090,10,,x,x,,,top right,,top right
+24248653,rec0132_colorchoice_20220901_104032.24248653,132,4,P.formosa,6,9,145,32,C,C,2022/08/24,green,red,R015,R090,10,,x,x,,,top right,,top right
+24248653,rec0135_colorchoice_20220901_122130.24248653,135,5,P.formosa,6,9,145,32,C,C,2022/08/24,green,red,R015,R090,10,,x,x,,,top right,,top right
+24248653,rec0138_colorchoice_20220901_150015.24248653,138,6,P.formosa,6,9,145,32,C,C,2022/08/24,green,red,R015,R090,10,,x,x,,,top right,,top right
+24248653,rec0141_colorchoice_20220901_161547.24248653,141,7,P.formosa,6,9,145,32,C,C,2022/08/24,green,red,R015,R090,10,,x,x,,,top right,,top right
+24248653,rec0120_colorchoice_20220831_110355.24248653,120,0,P.formosa,6,9,146,32,C,C,2022/08/24,green,red,R015,R090,12,,x,x,,,bottom left ,missing from the tank (day2),bottom left 
+24248653,rec0123_colorchoice_20220831_122616.24248653,123,1,P.formosa,6,9,146,32,C,C,2022/08/24,green,red,R015,R090,12,,x,x,,,bottom left ,missing from the tank (day2),bottom left 
+24248653,rec0126_colorchoice_20220831_150001.24248653,126,2,P.formosa,6,9,146,32,C,C,2022/08/24,green,red,R015,R090,12,,x,x,,,bottom left ,missing from the tank (day2),bottom left 
+24248653,rec0129_colorchoice_20220831_161631.24248653,129,3,P.formosa,6,9,146,32,C,C,2022/08/24,green,red,R015,R090,12,,x,x,,,bottom left ,missing from the tank (day2),bottom left 
+24248653,rec0132_colorchoice_20220901_104032.24248653,132,4,P.formosa,6,9,146,32,C,C,2022/08/24,green,red,R015,R090,12,,x,x,,,bottom left ,missing from the tank (day2),bottom left 
+24248653,rec0135_colorchoice_20220901_122130.24248653,135,5,P.formosa,6,9,146,32,C,C,2022/08/24,green,red,R015,R090,12,,x,x,,,bottom left ,missing from the tank (day2),bottom left 
+24248653,rec0138_colorchoice_20220901_150015.24248653,138,6,P.formosa,6,9,146,32,C,C,2022/08/24,green,red,R015,R090,12,,x,x,,,bottom left ,missing from the tank (day2),bottom left 
+24248653,rec0141_colorchoice_20220901_161547.24248653,141,7,P.formosa,6,9,146,32,C,C,2022/08/24,green,red,R015,R090,12,,x,x,,,bottom left ,missing from the tank (day2),bottom left 
+24248661,rec0122_doorchoice_20220831_110441.24248661,122,0,P.formosa,6,9,147,32,D,D,2022/08/24,green,orange,R015,R089,20,,,,,,bottom left ,,bottom left 
+24248661,rec0125_doorchoice_20220831_122700.24248661,125,1,P.formosa,6,9,147,32,D,D,2022/08/24,green,orange,R015,R089,20,,,,,,bottom left ,,bottom left 
+24248661,rec0128_doorchoice_20220831_150047.24248661,128,2,P.formosa,6,9,147,32,D,D,2022/08/24,green,orange,R015,R089,20,,,,,,bottom left ,,bottom left 
+24248661,rec0131_doorchoice_20220831_161730.24248661,131,3,P.formosa,6,9,147,32,D,D,2022/08/24,green,orange,R015,R089,20,,,,,,bottom left ,,bottom left 
+24248661,rec0134_doorchoice_20220901_104119.24248661,134,4,P.formosa,6,9,147,32,D,D,2022/08/24,green,orange,R015,R089,20,,,,,,bottom left ,,bottom left 
+24248661,rec0137_doorchoice_20220901_122223.24248661,137,5,P.formosa,6,9,147,32,D,D,2022/08/24,green,orange,R015,R089,20,,,,,,bottom left ,,bottom left 
+24248661,rec0140_doorchoice_20220901_150111.24248661,140,6,P.formosa,6,9,147,32,D,D,2022/08/24,green,orange,R015,R089,20,,,,,,bottom left ,,bottom left 
+24248661,rec0143_doorchoice_20220901_161633.24248661,143,7,P.formosa,6,9,147,32,D,D,2022/08/24,green,orange,R015,R089,20,,,,,,bottom left ,,bottom left 
+24248658,rec0121_doorchoice_20220831_110441.24248658,121,0,P.formosa,6,9,148,32,D,D,2022/08/24,green,orange,R015,R089,14,,,,,,top right,,top right
+24248658,rec0124_doorchoice_20220831_122700.24248658,124,1,P.formosa,6,9,148,32,D,D,2022/08/24,green,orange,R015,R089,14,,,,,,top right,,top right
+24248658,rec0127_doorchoice_20220831_150047.24248658,127,2,P.formosa,6,9,148,32,D,D,2022/08/24,green,orange,R015,R089,14,,,,,,top right,,top right
+24248658,rec0130_doorchoice_20220831_161730.24248658,130,3,P.formosa,6,9,148,32,D,D,2022/08/24,green,orange,R015,R089,14,,,,,,top right,,top right
+24248658,rec0133_doorchoice_20220901_104119.24248658,133,4,P.formosa,6,9,148,32,D,D,2022/08/24,green,orange,R015,R089,14,,,,,,top right,,top right
+24248658,rec0136_doorchoice_20220901_122223.24248658,136,5,P.formosa,6,9,148,32,D,D,2022/08/24,green,orange,R015,R089,14,,,,,,top right,,top right
+24248658,rec0139_doorchoice_20220901_150111.24248658,139,6,P.formosa,6,9,148,32,D,D,2022/08/24,green,orange,R015,R089,14,,,,,,top right,,top right
+24248658,rec0142_doorchoice_20220901_161633.24248658,142,7,P.formosa,6,9,148,32,D,D,2022/08/24,green,orange,R015,R089,14,,,,,,top right,,top right
+24248661,rec0122_doorchoice_20220831_110441.24248661,122,0,P.formosa,6,9,149,33,D,D,2022/08/24,orange,orange,R053,R074,17,,,,,,top left,,top left
+24248661,rec0125_doorchoice_20220831_122700.24248661,125,1,P.formosa,6,9,149,33,D,D,2022/08/24,orange,orange,R053,R074,17,,,,,,top left,,top left
+24248661,rec0128_doorchoice_20220831_150047.24248661,128,2,P.formosa,6,9,149,33,D,D,2022/08/24,orange,orange,R053,R074,17,,,,,,top left,,top left
+24248661,rec0131_doorchoice_20220831_161730.24248661,131,3,P.formosa,6,9,149,33,D,D,2022/08/24,orange,orange,R053,R074,17,,,,,,top left,,top left
+24248661,rec0134_doorchoice_20220901_104119.24248661,134,4,P.formosa,6,9,149,33,D,D,2022/08/24,orange,orange,R053,R074,17,,,,,,top left,,top left
+24248661,rec0137_doorchoice_20220901_122223.24248661,137,5,P.formosa,6,9,149,33,D,D,2022/08/24,orange,orange,R053,R074,17,,,,,,top left,,top left
+24248661,rec0140_doorchoice_20220901_150111.24248661,140,6,P.formosa,6,9,149,33,D,D,2022/08/24,orange,orange,R053,R074,17,,,,,,top left,,top left
+24248661,rec0143_doorchoice_20220901_161633.24248661,143,7,P.formosa,6,9,149,33,D,D,2022/08/24,orange,orange,R053,R074,17,,,,,,top left,,top left
+24248657,rec0120_doorchoice_20220831_110441.24248657,120,0,P.formosa,6,9,150,33,D,D,2022/08/24,orange,orange,R053,R074,23,,,,,,bottom right,,bottom right
+24248657,rec0123_doorchoice_20220831_122700.24248657,123,1,P.formosa,6,9,150,33,D,D,2022/08/24,orange,orange,R053,R074,23,,,,,,bottom right,,bottom right
+24248657,rec0126_doorchoice_20220831_150047.24248657,126,2,P.formosa,6,9,150,33,D,D,2022/08/24,orange,orange,R053,R074,23,,,,,,bottom right,,bottom right
+24248657,rec0129_doorchoice_20220831_161730.24248657,129,3,P.formosa,6,9,150,33,D,D,2022/08/24,orange,orange,R053,R074,23,,,,,,bottom right,,bottom right
+24248657,rec0132_doorchoice_20220901_104119.24248657,132,4,P.formosa,6,9,150,33,D,D,2022/08/24,orange,orange,R053,R074,23,,,,,,bottom right,,bottom right
+24248657,rec0135_doorchoice_20220901_122223.24248657,135,5,P.formosa,6,9,150,33,D,D,2022/08/24,orange,orange,R053,R074,23,,,,,,bottom right,,bottom right
+24248657,rec0138_doorchoice_20220901_150111.24248657,138,6,P.formosa,6,9,150,33,D,D,2022/08/24,orange,orange,R053,R074,23,,,,,,bottom right,,bottom right
+24248657,rec0141_doorchoice_20220901_161633.24248657,141,7,P.formosa,6,9,150,33,D,D,2022/08/24,orange,orange,R053,R074,23,,,,,,bottom right,,bottom right
+24248657,rec0120_doorchoice_20220831_110441.24248657,120,0,P.formosa,6,9,151,33,D,D,2022/08/24,orange,orange,R053,R074,21,,,,,,top left,,top right
+24248657,rec0123_doorchoice_20220831_122700.24248657,123,1,P.formosa,6,9,151,33,D,D,2022/08/24,orange,orange,R053,R074,21,,,,,,top left,,top right
+24248657,rec0126_doorchoice_20220831_150047.24248657,126,2,P.formosa,6,9,151,33,D,D,2022/08/24,orange,orange,R053,R074,21,,,,,,top left,,top right
+24248657,rec0129_doorchoice_20220831_161730.24248657,129,3,P.formosa,6,9,151,33,D,D,2022/08/24,orange,orange,R053,R074,21,,,,,,top left,,top right
+24248657,rec0132_doorchoice_20220901_104119.24248657,132,4,P.formosa,6,9,151,33,D,D,2022/08/24,orange,orange,R053,R074,21,,,,,,top left,,top right
+24248657,rec0135_doorchoice_20220901_122223.24248657,135,5,P.formosa,6,9,151,33,D,D,2022/08/24,orange,orange,R053,R074,21,,,,,,top left,,top right
+24248657,rec0138_doorchoice_20220901_150111.24248657,138,6,P.formosa,6,9,151,33,D,D,2022/08/24,orange,orange,R053,R074,21,,,,,,top left,,top right
+24248657,rec0141_doorchoice_20220901_161633.24248657,141,7,P.formosa,6,9,151,33,D,D,2022/08/24,orange,orange,R053,R074,21,,,,,,top left,,top right
+24248658,rec0121_doorchoice_20220831_110441.24248658,121,0,P.formosa,6,9,152,33,D,D,2022/08/24,orange,orange,R053,R074,13,,,,,,top left,,top left
+24248658,rec0124_doorchoice_20220831_122700.24248658,124,1,P.formosa,6,9,152,33,D,D,2022/08/24,orange,orange,R053,R074,13,,,,,,top left,,top left
+24248658,rec0127_doorchoice_20220831_150047.24248658,127,2,P.formosa,6,9,152,33,D,D,2022/08/24,orange,orange,R053,R074,13,,,,,,top left,,top left
+24248658,rec0130_doorchoice_20220831_161730.24248658,130,3,P.formosa,6,9,152,33,D,D,2022/08/24,orange,orange,R053,R074,13,,,,,,top left,,top left
+24248658,rec0133_doorchoice_20220901_104119.24248658,133,4,P.formosa,6,9,152,33,D,D,2022/08/24,orange,orange,R053,R074,13,,,,,,top left,,top left
+24248658,rec0136_doorchoice_20220901_122223.24248658,136,5,P.formosa,6,9,152,33,D,D,2022/08/24,orange,orange,R053,R074,13,,,,,,top left,,top left
+24248658,rec0139_doorchoice_20220901_150111.24248658,139,6,P.formosa,6,9,152,33,D,D,2022/08/24,orange,orange,R053,R074,13,,,,,,top left,,top left
+24248658,rec0142_doorchoice_20220901_161633.24248658,142,7,P.formosa,6,9,152,33,D,D,2022/08/24,orange,orange,R053,R074,13,,,,,,top left,,top left
+24248654,rec0121_colorchoice_20220831_110355.24248654,121,0,P.formosa,6,9,153,34,N,N,2022/08/24,orange,black,R053,R095,2,,x,x,,,top right,,top right
+24248654,rec0124_colorchoice_20220831_122616.24248654,124,1,P.formosa,6,9,153,34,N,N,2022/08/24,orange,black,R053,R095,2,,x,x,,,top right,,top right
+24248654,rec0127_colorchoice_20220831_150001.24248654,127,2,P.formosa,6,9,153,34,N,N,2022/08/24,orange,black,R053,R095,2,,x,x,,,top right,,top right
+24248654,rec0130_colorchoice_20220831_161631.24248654,130,3,P.formosa,6,9,153,34,N,N,2022/08/24,orange,black,R053,R095,2,,x,x,,,top right,,top right
+24248654,rec0133_colorchoice_20220901_104032.24248654,133,4,P.formosa,6,9,153,34,N,N,2022/08/24,orange,black,R053,R095,2,,x,x,,,top right,,top right
+24248654,rec0136_colorchoice_20220901_122130.24248654,136,5,P.formosa,6,9,153,34,N,N,2022/08/24,orange,black,R053,R095,2,,x,x,,,top right,,top right
+24248654,rec0139_colorchoice_20220901_150015.24248654,139,6,P.formosa,6,9,153,34,N,N,2022/08/24,orange,black,R053,R095,2,,x,x,,,top right,,top right
+24248654,rec0142_colorchoice_20220901_161547.24248654,142,7,P.formosa,6,9,153,34,N,N,2022/08/24,orange,black,R053,R095,2,,x,x,,,top right,,top right
+24248662,rec0122_colorchoice_20220831_110355.24248662,122,0,P.formosa,6,9,154,34,N,N,2022/08/24,orange,black,R053,R095,6,,x,x,,,top right,,top right
+24248662,rec0125_colorchoice_20220831_122616.24248662,125,1,P.formosa,6,9,154,34,N,N,2022/08/24,orange,black,R053,R095,6,,x,x,,,top right,,top right
+24248662,rec0128_colorchoice_20220831_150001.24248662,128,2,P.formosa,6,9,154,34,N,N,2022/08/24,orange,black,R053,R095,6,,x,x,,,top right,,top right
+24248662,rec0131_colorchoice_20220831_161631.24248662,131,3,P.formosa,6,9,154,34,N,N,2022/08/24,orange,black,R053,R095,6,,x,x,,,top right,,top right
+24248662,rec0134_colorchoice_20220901_104032.24248662,134,4,P.formosa,6,9,154,34,N,N,2022/08/24,orange,black,R053,R095,6,,x,x,,,top right,,top right
+24248662,rec0137_colorchoice_20220901_122130.24248662,137,5,P.formosa,6,9,154,34,N,N,2022/08/24,orange,black,R053,R095,6,,x,x,,,top right,,top right
+24248662,rec0140_colorchoice_20220901_150015.24248662,140,6,P.formosa,6,9,154,34,N,N,2022/08/24,orange,black,R053,R095,6,,x,x,,,top right,,top right
+24248662,rec0143_colorchoice_20220901_161547.24248662,143,7,P.formosa,6,9,154,34,N,N,2022/08/24,orange,black,R053,R095,6,,x,x,,,top right,,top right
+24248662,rec0122_colorchoice_20220831_110355.24248662,122,0,P.formosa,6,9,155,34,N,N,2022/08/24,orange,black,R053,R095,7,,x,x,,,bottom right,,bottom right
+24248662,rec0125_colorchoice_20220831_122616.24248662,125,1,P.formosa,6,9,155,34,N,N,2022/08/24,orange,black,R053,R095,7,,x,x,,,bottom right,,bottom right
+24248662,rec0128_colorchoice_20220831_150001.24248662,128,2,P.formosa,6,9,155,34,N,N,2022/08/24,orange,black,R053,R095,7,,x,x,,,bottom right,,bottom right
+24248662,rec0131_colorchoice_20220831_161631.24248662,131,3,P.formosa,6,9,155,34,N,N,2022/08/24,orange,black,R053,R095,7,,x,x,,,bottom right,,bottom right
+24248662,rec0134_colorchoice_20220901_104032.24248662,134,4,P.formosa,6,9,155,34,N,N,2022/08/24,orange,black,R053,R095,7,,x,x,,,bottom right,,bottom right
+24248662,rec0137_colorchoice_20220901_122130.24248662,137,5,P.formosa,6,9,155,34,N,N,2022/08/24,orange,black,R053,R095,7,,x,x,,,bottom right,,bottom right
+24248662,rec0140_colorchoice_20220901_150015.24248662,140,6,P.formosa,6,9,155,34,N,N,2022/08/24,orange,black,R053,R095,7,,x,x,,,bottom right,,bottom right
+24248662,rec0143_colorchoice_20220901_161547.24248662,143,7,P.formosa,6,9,155,34,N,N,2022/08/24,orange,black,R053,R095,7,,x,x,,,bottom right,,bottom right
+24248653,rec0120_colorchoice_20220831_110355.24248653,120,0,P.formosa,6,9,156,34,N,N,2022/08/24,orange,black,R053,R095,11,,x,x,,,bottom right,,bottom right
+24248653,rec0123_colorchoice_20220831_122616.24248653,123,1,P.formosa,6,9,156,34,N,N,2022/08/24,orange,black,R053,R095,11,,x,x,,,bottom right,,bottom right
+24248653,rec0126_colorchoice_20220831_150001.24248653,126,2,P.formosa,6,9,156,34,N,N,2022/08/24,orange,black,R053,R095,11,,x,x,,,bottom right,,bottom right
+24248653,rec0129_colorchoice_20220831_161631.24248653,129,3,P.formosa,6,9,156,34,N,N,2022/08/24,orange,black,R053,R095,11,,x,x,,,bottom right,,bottom right
+24248653,rec0132_colorchoice_20220901_104032.24248653,132,4,P.formosa,6,9,156,34,N,N,2022/08/24,orange,black,R053,R095,11,,x,x,,,bottom right,,bottom right
+24248653,rec0135_colorchoice_20220901_122130.24248653,135,5,P.formosa,6,9,156,34,N,N,2022/08/24,orange,black,R053,R095,11,,x,x,,,bottom right,,bottom right
+24248653,rec0138_colorchoice_20220901_150015.24248653,138,6,P.formosa,6,9,156,34,N,N,2022/08/24,orange,black,R053,R095,11,,x,x,,,bottom right,,bottom right
+24248653,rec0141_colorchoice_20220901_161547.24248653,141,7,P.formosa,6,9,156,34,N,N,2022/08/24,orange,black,R053,R095,11,,x,x,,,bottom right,,bottom right
+24248654,rec0121_colorchoice_20220831_110355.24248654,121,0,P.formosa,6,8,157,35,C,C,2022/08/24,black,red,R054,R068,1,,x,x,,,top left,,top left
+24248654,rec0124_colorchoice_20220831_122616.24248654,124,1,P.formosa,6,8,157,35,C,C,2022/08/24,black,red,R054,R068,1,,x,x,,,top left,,top left
+24248654,rec0127_colorchoice_20220831_150001.24248654,127,2,P.formosa,6,8,157,35,C,C,2022/08/24,black,red,R054,R068,1,,x,x,,,top left,,top left
+24248654,rec0130_colorchoice_20220831_161631.24248654,130,3,P.formosa,6,8,157,35,C,C,2022/08/24,black,red,R054,R068,1,,x,x,,,top left,,top left
+24248654,rec0133_colorchoice_20220901_104032.24248654,133,4,P.formosa,6,8,157,35,C,C,2022/08/24,black,red,R054,R068,1,,x,x,,,top left,,top left
+24248654,rec0136_colorchoice_20220901_122130.24248654,136,5,P.formosa,6,8,157,35,C,C,2022/08/24,black,red,R054,R068,1,,x,x,,,top left,,top left
+24248654,rec0139_colorchoice_20220901_150015.24248654,139,6,P.formosa,6,8,157,35,C,C,2022/08/24,black,red,R054,R068,1,,x,x,,,top left,,top left
+24248654,rec0142_colorchoice_20220901_161547.24248654,142,7,P.formosa,6,8,157,35,C,C,2022/08/24,black,red,R054,R068,1,,x,x,,,top left,,top left
+24248662,rec0122_colorchoice_20220831_110355.24248662,122,0,P.formosa,6,8,158,35,C,C,2022/08/24,black,red,R054,R068,8,,x,x,,,bottom left,,bottom left
+24248662,rec0125_colorchoice_20220831_122616.24248662,125,1,P.formosa,6,8,158,35,C,C,2022/08/24,black,red,R054,R068,8,,x,x,,,bottom left,,bottom left
+24248662,rec0128_colorchoice_20220831_150001.24248662,128,2,P.formosa,6,8,158,35,C,C,2022/08/24,black,red,R054,R068,8,,x,x,,,bottom left,,bottom left
+24248662,rec0131_colorchoice_20220831_161631.24248662,131,3,P.formosa,6,8,158,35,C,C,2022/08/24,black,red,R054,R068,8,,x,x,,,bottom left,,bottom left
+24248662,rec0134_colorchoice_20220901_104032.24248662,134,4,P.formosa,6,8,158,35,C,C,2022/08/24,black,red,R054,R068,8,,x,x,,,bottom left,,bottom left
+24248662,rec0137_colorchoice_20220901_122130.24248662,137,5,P.formosa,6,8,158,35,C,C,2022/08/24,black,red,R054,R068,8,,x,x,,,bottom left,,bottom left
+24248662,rec0140_colorchoice_20220901_150015.24248662,140,6,P.formosa,6,8,158,35,C,C,2022/08/24,black,red,R054,R068,8,,x,x,,,bottom left,,bottom left
+24248662,rec0143_colorchoice_20220901_161547.24248662,143,7,P.formosa,6,8,158,35,C,C,2022/08/24,black,red,R054,R068,8,,x,x,,,bottom left,,bottom left
+24248658,rec0121_doorchoice_20220831_110441.24248658,121,0,P.formosa,6,8,159,35,C,D,2022/08/24,black,red,R054,R068,15,,,,,,bottom right,,bottom right
+24248658,rec0124_doorchoice_20220831_122700.24248658,124,1,P.formosa,6,8,159,35,C,D,2022/08/24,black,red,R054,R068,15,,,,,,bottom right,,bottom right
+24248658,rec0127_doorchoice_20220831_150047.24248658,127,2,P.formosa,6,8,159,35,C,D,2022/08/24,black,red,R054,R068,15,,,,,,bottom right,,bottom right
+24248658,rec0130_doorchoice_20220831_161730.24248658,130,3,P.formosa,6,8,159,35,C,D,2022/08/24,black,red,R054,R068,15,,,,,,bottom right,,bottom right
+24248658,rec0133_doorchoice_20220901_104119.24248658,133,4,P.formosa,6,8,159,35,C,D,2022/08/24,black,red,R054,R068,15,,,,,,bottom right,,bottom right
+24248658,rec0136_doorchoice_20220901_122223.24248658,136,5,P.formosa,6,8,159,35,C,D,2022/08/24,black,red,R054,R068,15,,,,,,bottom right,,bottom right
+24248658,rec0139_doorchoice_20220901_150111.24248658,139,6,P.formosa,6,8,159,35,C,D,2022/08/24,black,red,R054,R068,15,,,,,,bottom right,,bottom right
+24248658,rec0142_doorchoice_20220901_161633.24248658,142,7,P.formosa,6,8,159,35,C,D,2022/08/24,black,red,R054,R068,15,,,,,,bottom right,,bottom right
+24248661,rec0122_doorchoice_20220831_110441.24248661,122,0,P.formosa,6,8,160,35,C,D,2022/08/24,black,red,R054,R068,18,,,,,,top right,,top right
+24248661,rec0125_doorchoice_20220831_122700.24248661,125,1,P.formosa,6,8,160,35,C,D,2022/08/24,black,red,R054,R068,18,,,,,,top right,,top right
+24248661,rec0128_doorchoice_20220831_150047.24248661,128,2,P.formosa,6,8,160,35,C,D,2022/08/24,black,red,R054,R068,18,,,,,,top right,,top right
+24248661,rec0131_doorchoice_20220831_161730.24248661,131,3,P.formosa,6,8,160,35,C,D,2022/08/24,black,red,R054,R068,18,,,,,,top right,,top right
+24248661,rec0134_doorchoice_20220901_104119.24248661,134,4,P.formosa,6,8,160,35,C,D,2022/08/24,black,red,R054,R068,18,,,,,,top right,,top right
+24248661,rec0137_doorchoice_20220901_122223.24248661,137,5,P.formosa,6,8,160,35,C,D,2022/08/24,black,red,R054,R068,18,,,,,,top right,,top right
+24248661,rec0140_doorchoice_20220901_150111.24248661,140,6,P.formosa,6,8,160,35,C,D,2022/08/24,black,red,R054,R068,18,,,,,,top right,,top right
+24248661,rec0143_doorchoice_20220901_161633.24248661,143,7,P.formosa,6,8,160,35,C,D,2022/08/24,black,red,R054,R068,18,,,,,,top right,,top right
+24248658,rec0121_doorchoice_20220831_110441.24248658,121,0,P.formosa,6,8,161,36,D,N,2022/08/24,red,orange,R009,R091,16,,,,,,bottom left,,bottom left
+24248658,rec0124_doorchoice_20220831_122700.24248658,124,1,P.formosa,6,8,161,36,D,N,2022/08/24,red,orange,R009,R091,16,,,,,,bottom left,,bottom left
+24248658,rec0127_doorchoice_20220831_150047.24248658,127,2,P.formosa,6,8,161,36,D,N,2022/08/24,red,orange,R009,R091,16,,,,,,bottom left,,bottom left
+24248658,rec0130_doorchoice_20220831_161730.24248658,130,3,P.formosa,6,8,161,36,D,N,2022/08/24,red,orange,R009,R091,16,,,,,,bottom left,,bottom left
+24248658,rec0133_doorchoice_20220901_104119.24248658,133,4,P.formosa,6,8,161,36,D,N,2022/08/24,red,orange,R009,R091,16,,,,,,bottom left,,bottom left
+24248658,rec0136_doorchoice_20220901_122223.24248658,136,5,P.formosa,6,8,161,36,D,N,2022/08/24,red,orange,R009,R091,16,,,,,,bottom left,,bottom left
+24248658,rec0139_doorchoice_20220901_150111.24248658,139,6,P.formosa,6,8,161,36,D,N,2022/08/24,red,orange,R009,R091,16,,,,,,bottom left,,bottom left
+24248658,rec0142_doorchoice_20220901_161633.24248658,142,7,P.formosa,6,8,161,36,D,N,2022/08/24,red,orange,R009,R091,16,,,,,,bottom left,,bottom left
+24248661,rec0122_doorchoice_20220831_110441.24248661,122,0,P.formosa,6,8,162,36,D,N,2022/08/24,red,orange,R009,R091,19,,,,,,bottom right,,bottom right
+24248661,rec0125_doorchoice_20220831_122700.24248661,125,1,P.formosa,6,8,162,36,D,N,2022/08/24,red,orange,R009,R091,19,,,,,,bottom right,,bottom right
+24248661,rec0128_doorchoice_20220831_150047.24248661,128,2,P.formosa,6,8,162,36,D,N,2022/08/24,red,orange,R009,R091,19,,,,,,bottom right,,bottom right
+24248661,rec0131_doorchoice_20220831_161730.24248661,131,3,P.formosa,6,8,162,36,D,N,2022/08/24,red,orange,R009,R091,19,,,,,,bottom right,,bottom right
+24248661,rec0134_doorchoice_20220901_104119.24248661,134,4,P.formosa,6,8,162,36,D,N,2022/08/24,red,orange,R009,R091,19,,,,,,bottom right,,bottom right
+24248661,rec0137_doorchoice_20220901_122223.24248661,137,5,P.formosa,6,8,162,36,D,N,2022/08/24,red,orange,R009,R091,19,,,,,,bottom right,,bottom right
+24248661,rec0140_doorchoice_20220901_150111.24248661,140,6,P.formosa,6,8,162,36,D,N,2022/08/24,red,orange,R009,R091,19,,,,,,bottom right,,bottom right
+24248661,rec0143_doorchoice_20220901_161633.24248661,143,7,P.formosa,6,8,162,36,D,N,2022/08/24,red,orange,R009,R091,19,,,,,,bottom right,,bottom right
+24248657,rec0120_doorchoice_20220831_110441.24248657,120,0,P.formosa,6,8,163,36,D,N,2022/08/24,red,orange,R009,R091,22,,,,,,top right,,top left
+24248657,rec0123_doorchoice_20220831_122700.24248657,123,1,P.formosa,6,8,163,36,D,N,2022/08/24,red,orange,R009,R091,22,,,,,,top right,,top left
+24248657,rec0126_doorchoice_20220831_150047.24248657,126,2,P.formosa,6,8,163,36,D,N,2022/08/24,red,orange,R009,R091,22,,,,,,top right,,top left
+24248657,rec0129_doorchoice_20220831_161730.24248657,129,3,P.formosa,6,8,163,36,D,N,2022/08/24,red,orange,R009,R091,22,,,,,,top right,,top left
+24248657,rec0132_doorchoice_20220901_104119.24248657,132,4,P.formosa,6,8,163,36,D,N,2022/08/24,red,orange,R009,R091,22,,,,,,top right,,top left
+24248657,rec0135_doorchoice_20220901_122223.24248657,135,5,P.formosa,6,8,163,36,D,N,2022/08/24,red,orange,R009,R091,22,,,,,,top right,,top left
+24248657,rec0138_doorchoice_20220901_150111.24248657,138,6,P.formosa,6,8,163,36,D,N,2022/08/24,red,orange,R009,R091,22,,,,,,top right,,top left
+24248657,rec0141_doorchoice_20220901_161633.24248657,141,7,P.formosa,6,8,163,36,D,N,2022/08/24,red,orange,R009,R091,22,,,,,,top right,,top left
+24248657,rec0120_doorchoice_20220831_110441.24248657,120,0,P.formosa,6,8,164,36,D,N,2022/08/24,red,orange,R009,R091,24,,,,,,bottom left,,bottom left
+24248657,rec0123_doorchoice_20220831_122700.24248657,123,1,P.formosa,6,8,164,36,D,N,2022/08/24,red,orange,R009,R091,24,,,,,,bottom left,,bottom left
+24248657,rec0126_doorchoice_20220831_150047.24248657,126,2,P.formosa,6,8,164,36,D,N,2022/08/24,red,orange,R009,R091,24,,,,,,bottom left,,bottom left
+24248657,rec0129_doorchoice_20220831_161730.24248657,129,3,P.formosa,6,8,164,36,D,N,2022/08/24,red,orange,R009,R091,24,,,,,,bottom left,,bottom left
+24248657,rec0132_doorchoice_20220901_104119.24248657,132,4,P.formosa,6,8,164,36,D,N,2022/08/24,red,orange,R009,R091,24,,,,,,bottom left,,bottom left
+24248657,rec0135_doorchoice_20220901_122223.24248657,135,5,P.formosa,6,8,164,36,D,N,2022/08/24,red,orange,R009,R091,24,,,,,,bottom left,,bottom left
+24248657,rec0138_doorchoice_20220901_150111.24248657,138,6,P.formosa,6,8,164,36,D,N,2022/08/24,red,orange,R009,R091,24,,,,,,bottom left,,bottom left
+24248657,rec0141_doorchoice_20220901_161633.24248657,141,7,P.formosa,6,8,164,36,D,N,2022/08/24,red,orange,R009,R091,24,,,,,,bottom left,,bottom left
